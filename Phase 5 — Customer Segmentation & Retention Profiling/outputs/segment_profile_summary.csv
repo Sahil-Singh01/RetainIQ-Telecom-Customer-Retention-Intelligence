@@ -1,0 +1,4 @@
+segment_id,customers,avg_tenure_months,avg_monthly_charge,avg_total_revenue,total_revenue,avg_cltv,avg_satisfaction,avg_age,avg_referrals,avg_service_count,churned_customers,churn_rate_pct,revenue_at_risk,share_pct,retention_profile,segment_name
+0,3226,15.74,69.78,1415.23,4565523.12,4013.45,2.81,47.76,0.93,3.77,1516,46.99,1944581.19,45.8,Retention Priority,Segment 0 — Emerging Risk
+1,1557,30.8,21.53,1441.45,2244335.56,4371.24,3.86,42.84,2.19,1.05,110,7.06,42982.02,22.11,Maintain Value,Segment 1 — High-Value Stable
+2,2260,57.24,87.39,6443.04,14561273.01,4972.51,3.45,47.25,3.24,6.27,243,10.75,1696896.61,32.09,Protect High-Value,Segment 2 — High-Value At-Risk

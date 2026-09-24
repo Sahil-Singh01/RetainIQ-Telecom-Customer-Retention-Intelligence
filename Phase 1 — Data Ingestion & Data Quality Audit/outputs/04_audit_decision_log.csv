@@ -1,0 +1,7 @@
+finding,evidence,decision,rationale,next_phase
+Missing Offer,"3,877 null records","Replace nulls with ""No Offer""",Normalize the missing state into an explicit business category.,Phase 2
+Missing Internet Type,"1,526 null records","Replace nulls with ""No Internet Service""",Represent the non-applicable service state explicitly.,Phase 2
+Churn Category / Churn Reason nulls,"5,174 null records each",Preserve nulls,These fields are structurally associated with non-churned customers.,Phase 2
+Duplicate Customer IDs,0 duplicates,No deduplication required,Customer ID is already unique at the source grain.,Phase 2
+New customers,454 Joined customers,Create is_new_customer flag,Separate new customers from the historical churn/stay modeling population.,Phase 2
+Leading/trailing whitespace,0 affected string cells,Apply defensive stripping,"Protect downstream joins, grouping, filters, and categorical analysis.",Phase 2

@@ -1,0 +1,1319 @@
+customer_id,churn_label,predicted_churn_probability,predicted_churn,risk_band,cltv,total_revenue,monthly_charge,satisfaction_score,churn_score,contract,offer,payment_method,internet_type,premium_tech_support
+5924-IFQTT,No,0.04334378780183203,0,Low,2862,1109.06,72.8,4,46,Month-to-Month,No Offer,Bank Withdrawal,DSL,Yes
+8000-REIQB,Yes,1.0,1,Very High,3208,102.45,69.95,2,94,Month-to-Month,Offer E,Bank Withdrawal,Fiber Optic,No
+3243-ZHOHY,No,0.04748111601997269,0,Low,5052,626.55,20.1,3,72,One Year,Offer D,Credit Card,No Internet Service,No
+8849-AYPTR,No,0.19302443973421163,0,Low,3296,3978.45,91.25,5,57,Month-to-Month,Offer C,Bank Withdrawal,Fiber Optic,No
+2659-VXMWZ,Yes,0.1565835841576913,0,Low,4146,9441.18,111.3,3,85,One Year,Offer A,Bank Withdrawal,Fiber Optic,No
+1936-CZAKF,No,0.030953534363165048,0,Low,4283,2409.9,49.65,4,29,Two Year,No Offer,Credit Card,Cable,No
+2074-GKOWZ,Yes,0.994248190483892,1,Very High,3851,203.27,89.55,1,73,Month-to-Month,Offer E,Bank Withdrawal,Fiber Optic,No
+6496-JDSSB,No,0.10459917612357815,0,Low,2165,943.96,80.0,4,22,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+2403-BCASL,Yes,0.8173598755584073,1,Very High,3711,6381.54,111.95,2,93,One Year,Offer B,Bank Withdrawal,Cable,Yes
+6668-CNMFP,No,0.040597856334301526,0,Low,4473,2388.33,89.35,4,57,One Year,No Offer,Bank Withdrawal,Fiber Optic,Yes
+9000-PLFUZ,No,0.08192832315742939,0,Low,4277,2947.55,49.45,3,61,Two Year,No Offer,Credit Card,DSL,No
+4415-WNGVR,No,0.09685358500167571,0,Low,3355,1409.65,79.2,4,42,One Year,No Offer,Bank Withdrawal,DSL,Yes
+7596-ZYWBB,No,0.05675537562748567,0,Low,4372,6673.65,59.6,4,75,Two Year,Offer B,Mailed Check,DSL,Yes
+3640-JQGJG,No,0.202642404078393,0,Low,4680,692.05,44.8,3,44,Month-to-Month,No Offer,Bank Withdrawal,Cable,No
+7398-HPYZQ,No,0.0012901462347956814,0,Low,5007,8433.18,90.55,4,23,Two Year,Offer A,Bank Withdrawal,Cable,Yes
+5844-QVTAT,No,0.016918776456884246,0,Low,4276,2245.47,58.45,4,21,One Year,Offer C,Credit Card,Cable,No
+7663-CUXZB,No,0.04446079946657409,0,Low,6251,7445.07,113.75,3,23,Two Year,Offer B,Bank Withdrawal,Fiber Optic,Yes
+6519-ZHPXP,No,0.010731951853183768,0,Low,4183,10685.12,108.3,4,33,Two Year,No Offer,Bank Withdrawal,Fiber Optic,Yes
+3166-PNEOF,No,0.007632097350623891,0,Low,4471,5450.41,86.45,4,74,Two Year,Offer B,Credit Card,Cable,Yes
+5707-ZMDJP,No,0.0023879086827293997,0,Low,4590,5409.17,69.7,4,27,Two Year,No Offer,Credit Card,DSL,Yes
+1545-ACTAS,No,0.012357341182684207,0,Low,5921,6713.84,99.7,3,29,One Year,Offer B,Bank Withdrawal,Fiber Optic,No
+1306-RPWXZ,No,0.0012901462347956814,0,Low,4784,2577.95,20.45,4,20,Two Year,No Offer,Credit Card,No Internet Service,No
+8400-WZICQ,No,0.014448670694467322,0,Low,4149,5100.19,55.7,3,61,Month-to-Month,Offer B,Bank Withdrawal,DSL,No
+5949-EBSQK,Yes,0.7843264109883652,1,High,2131,338.51,61.45,2,83,Month-to-Month,No Offer,Credit Card,DSL,Yes
+2609-IAICY,Yes,0.9924785597807751,1,Very High,2756,114.85,77.15,3,79,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+7627-JKIAZ,Yes,0.46969080059684426,0,Moderate,3982,4226.78,78.95,3,90,Month-to-Month,No Offer,Credit Card,Fiber Optic,No
+7315-WYOAW,No,0.463424563369637,0,Moderate,5985,2010.84,100.75,3,80,Month-to-Month,Offer D,Bank Withdrawal,Fiber Optic,Yes
+6925-BAYGL,No,0.05489994886224301,0,Low,5295,2284.19,25.1,3,70,Two Year,No Offer,Credit Card,No Internet Service,No
+8079-XRJRS,Yes,0.6640640694106557,1,High,6110,8957.33,89.75,1,72,One Year,Offer B,Bank Withdrawal,Fiber Optic,No
+6635-MYYYZ,Yes,0.7365004538129131,1,High,2313,3840.7,85.35,2,73,One Year,No Offer,Bank Withdrawal,Cable,Yes
+5781-BKHOP,No,0.03369390001491416,0,Low,6380,10335.01,100.65,3,20,Two Year,Offer A,Bank Withdrawal,Fiber Optic,No
+1142-IHLOO,No,0.07801438980155204,0,Low,6021,5208.77,87.55,4,57,One Year,Offer B,Credit Card,Fiber Optic,No
+4588-YBNIB,Yes,0.9722580369949829,1,Very High,4205,24.96,19.6,2,91,Month-to-Month,Offer E,Credit Card,No Internet Service,No
+5827-MWCZK,No,0.01647289696672423,0,Low,6484,6749.32,96.95,5,66,Month-to-Month,Offer B,Credit Card,Fiber Optic,Yes
+6101-IMRMM,Yes,0.9478134429795085,1,Very High,3469,684.93,94.5,2,91,Month-to-Month,Offer E,Mailed Check,Fiber Optic,No
+2798-NYLMZ,No,0.08561549288151823,0,Low,4111,9885.87,108.55,3,58,Two Year,Offer A,Credit Card,Fiber Optic,Yes
+3213-VVOLG,No,0.00780583974415961,0,Low,2299,617.2,25.35,4,49,Two Year,No Offer,Credit Card,No Internet Service,No
+7851-WZEKY,Yes,0.9990036876159448,1,Very High,2414,273.92,95.15,2,82,Month-to-Month,Offer E,Bank Withdrawal,Fiber Optic,No
+4942-VZZOM,No,0.030911662903620313,0,Low,4703,6789.94,66.15,3,25,One Year,Offer B,Credit Card,DSL,No
+3530-VWVGU,No,0.05010574679385179,0,Low,5657,1489.52,19.9,4,43,Month-to-Month,Offer D,Credit Card,No Internet Service,No
+5276-KQWHG,Yes,0.9819757695955588,1,Very High,4596,162.29,69.6,3,74,Month-to-Month,Offer E,Bank Withdrawal,Fiber Optic,No
+5593-SUAOO,No,0.008745712123020949,0,Low,2404,3027.85,83.15,5,53,One Year,No Offer,Bank Withdrawal,Fiber Optic,No
+3597-YASZG,No,0.02662470118567303,0,Low,5004,10103.15,104.45,4,27,Two Year,Offer A,Bank Withdrawal,Fiber Optic,Yes
+1930-BZLHI,No,0.010186733924726464,0,Low,3721,895.83,20.35,5,40,One Year,No Offer,Credit Card,No Internet Service,No
+0577-WHMEV,No,0.2943253702071558,0,Low,4839,1820.18,90.7,3,73,Month-to-Month,Offer D,Bank Withdrawal,Fiber Optic,No
+4476-OSWTN,No,0.09231619429288303,0,Low,4887,8182.8,110.55,3,25,One Year,No Offer,Mailed Check,Fiber Optic,Yes
+0952-KMEEH,Yes,0.906028938781857,1,Very High,5525,1313.93,98.15,1,91,Month-to-Month,No Offer,Mailed Check,Fiber Optic,No
+5993-JSUWV,No,0.021439289785187037,0,Low,5133,5427.87,61.15,3,66,Two Year,No Offer,Bank Withdrawal,DSL,No
+0036-IHMOT,No,0.00742394692101957,0,Low,5892,7603.95,103.7,3,65,One Year,No Offer,Bank Withdrawal,Fiber Optic,Yes
+0388-EOPEX,Yes,0.9836525233148021,1,Very High,4263,158.98,74.4,1,77,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+4471-KXAUH,Yes,0.5154075417036696,1,Moderate,2514,4039.06,84.3,3,91,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,Yes
+9053-EJUNL,No,0.06923617280142147,0,Low,3259,5359.39,89.2,5,77,Month-to-Month,Offer B,Bank Withdrawal,Fiber Optic,No
+2480-EJWYP,No,0.12586001920790513,0,Low,6019,8090.26,97.8,3,23,One Year,Offer B,Bank Withdrawal,Fiber Optic,No
+1221-GHZEP,No,0.011703815565355734,0,Low,5172,5283.91,65.1,3,47,Two Year,No Offer,Credit Card,DSL,Yes
+7426-WEIJX,No,0.022407623539233666,0,Low,6214,5903.37,80.95,4,71,Two Year,No Offer,Bank Withdrawal,Fiber Optic,No
+2720-WGKHP,Yes,0.997571257841446,1,Very High,5569,223.68,94.0,1,93,Month-to-Month,Offer E,Bank Withdrawal,Fiber Optic,No
+3703-KBKZP,No,0.01926597298214066,0,Low,5111,1613.67,74.45,5,47,Two Year,Offer D,Bank Withdrawal,Fiber Optic,No
+7277-KAMWT,No,0.051816761105125654,0,Low,3037,289.38,20.0,3,63,Two Year,Offer D,Credit Card,No Internet Service,No
+1699-HPSBG,Yes,0.1516354719883699,0,Low,4581,843.0,59.8,3,69,One Year,Offer D,Bank Withdrawal,Cable,Yes
+2188-SXWVT,No,0.012099347245639954,0,Low,4027,3352.93,55.0,4,46,One Year,Offer C,Credit Card,DSL,No
+5590-ZSKRV,No,0.11074813703357433,0,Low,5614,792.49,54.65,3,43,Month-to-Month,Offer E,Credit Card,DSL,No
+4489-SNOJF,Yes,0.6441814608810216,1,High,5898,3453.0,72.25,1,83,Month-to-Month,No Offer,Bank Withdrawal,DSL,Yes
+2265-CYWIV,Yes,0.9481308966050735,1,Very High,4708,397.5,99.6,1,77,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+4143-OOBWZ,Yes,0.9785311731995396,1,Very High,3819,541.85,81.3,2,91,Month-to-Month,Offer E,Bank Withdrawal,Fiber Optic,No
+5229-PRWKT,Yes,0.6378014077613541,1,High,4193,847.73,86.55,3,80,Month-to-Month,Offer E,Bank Withdrawal,Fiber Optic,No
+6047-SUHPR,No,0.009771955230981129,0,Low,3093,3022.05,59.8,3,58,One Year,No Offer,Bank Withdrawal,DSL,No
+6374-AFWOX,No,0.03289456191801314,0,Low,2680,5195.81,65.65,4,79,Two Year,No Offer,Credit Card,Cable,Yes
+2207-OBZNX,Yes,0.8449860879268641,1,Very High,3736,595.48,51.0,1,90,Month-to-Month,No Offer,Mailed Check,Cable,No
+7868-BGSZA,No,0.04509555806330918,0,Low,5888,5042.31,80.2,3,35,One Year,No Offer,Bank Withdrawal,DSL,No
+5862-BRIXZ,No,0.020434539319507908,0,Low,2694,2893.4,60.75,4,36,Two Year,Offer B,Bank Withdrawal,DSL,Yes
+5469-NUJUR,No,0.0036777384458589585,0,Low,2831,736.4,19.95,4,50,Two Year,No Offer,Credit Card,No Internet Service,No
+4116-TZAQJ,Yes,0.8615050896435829,1,Very High,5393,764.39,74.25,1,76,Month-to-Month,No Offer,Credit Card,Fiber Optic,No
+8871-JLMHM,No,0.03188252275408445,0,Low,4095,6529.53,90.2,4,55,Two Year,Offer A,Credit Card,Fiber Optic,Yes
+2108-YKQTY,Yes,0.6053345750340592,1,High,4930,190.54,50.7,3,90,Month-to-Month,No Offer,Credit Card,DSL,No
+8999-BOHSE,Yes,0.9645903686423365,1,Very High,2202,1091.26,89.7,2,89,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+2316-ESMLS,No,0.03746995113357046,0,Low,3882,444.75,33.15,3,74,One Year,No Offer,Credit Card,DSL,Yes
+4030-VPZBD,Yes,0.9713163391202135,1,Very High,2860,59.05,30.9,2,91,Month-to-Month,No Offer,Bank Withdrawal,DSL,Yes
+7690-KPNCU,No,0.05400905694228494,0,Low,4515,6393.61,73.05,3,28,One Year,Offer B,Credit Card,DSL,No
+7251-XFOIL,No,0.2201311666868696,0,Low,5536,6386.32,89.2,3,23,Month-to-Month,Offer B,Credit Card,Fiber Optic,No
+5914-GXMDA,No,0.02309118450914116,0,Low,5817,2041.52,19.3,5,66,One Year,No Offer,Credit Card,No Internet Service,No
+4361-BKAXE,Yes,0.8432667952851888,1,Very High,3038,5411.41,114.5,1,80,Month-to-Month,Offer B,Bank Withdrawal,Fiber Optic,Yes
+5795-BKOYE,No,0.0,0,Low,5846,5133.82,59.1,4,71,One Year,Offer A,Bank Withdrawal,DSL,Yes
+0259-GBZSH,Yes,0.9870442032989126,1,Very High,3878,262.36,85.65,1,73,Month-to-Month,Offer E,Bank Withdrawal,Cable,No
+1216-BGTSP,No,0.13212931573839984,0,Low,5093,5233.35,108.45,3,33,Month-to-Month,No Offer,Credit Card,Fiber Optic,Yes
+7580-UGXNC,Yes,0.980724804481691,1,Very High,3016,155.68,54.85,1,96,Month-to-Month,No Offer,Credit Card,DSL,No
+4592-IWTJI,Yes,0.9189671836407008,1,Very High,2613,91.7,29.7,1,84,Month-to-Month,Offer E,Credit Card,Cable,No
+8778-LMWTJ,No,0.15881189523540631,0,Low,5770,825.65,74.85,3,66,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+0923-PNFUB,Yes,0.9592881203764257,1,Very High,4852,386.33,83.75,2,65,Month-to-Month,Offer E,Bank Withdrawal,Fiber Optic,No
+1488-SYSFC,No,0.019187127861790988,0,Low,2990,954.65,20.65,4,79,Month-to-Month,No Offer,Bank Withdrawal,No Internet Service,No
+2013-SGDXK,Yes,0.9955272347723652,1,Very High,2172,95.93,84.3,1,78,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+6296-DDOOR,No,0.07112320181652255,0,Low,4033,1507.9,58.2,4,73,One Year,No Offer,Bank Withdrawal,Cable,No
+1552-TKMXS,No,0.11843088373944145,0,Low,2127,1119.8,20.35,3,69,Month-to-Month,Offer B,Credit Card,No Internet Service,No
+8327-WKMIE,No,0.003560900805927304,0,Low,4422,2057.44,20.15,5,65,One Year,No Offer,Credit Card,No Internet Service,No
+5537-UXXVS,No,0.11380624637813808,0,Low,4137,1335.85,19.25,3,68,Month-to-Month,Offer D,Bank Withdrawal,No Internet Service,No
+0015-UOCOJ,No,0.0717791642507096,0,Low,5525,414.06,48.2,3,34,Two Year,Offer E,Bank Withdrawal,DSL,No
+3034-ZBEQN,Yes,0.8063366275456798,1,Very High,5995,1604.5,34.7,2,90,One Year,No Offer,Mailed Check,DSL,No
+4369-HTUIF,Yes,0.867578585667209,1,Very High,5831,680.06,85.15,2,90,Month-to-Month,Offer E,Bank Withdrawal,Fiber Optic,No
+6461-PPAXN,No,0.016110821457856448,0,Low,4858,3392.3,54.95,4,30,One Year,No Offer,Bank Withdrawal,Cable,Yes
+6408-OTUBZ,No,0.08239840375871135,0,Low,4494,7860.79,104.55,3,53,One Year,Offer A,Bank Withdrawal,Fiber Optic,Yes
+6663-JOCQO,No,0.01624431295580933,0,Low,4258,3243.37,75.25,3,43,One Year,No Offer,Bank Withdrawal,DSL,Yes
+8992-VONJD,No,0.0969329440892061,0,Low,5156,1116.07,56.0,3,22,Month-to-Month,No Offer,Bank Withdrawal,DSL,No
+0519-DRGTI,No,0.003930416638031118,0,Low,2522,1291.8,20.35,4,49,Month-to-Month,No Offer,Credit Card,No Internet Service,No
+7240-FQLHE,Yes,0.9213459039618561,1,Very High,5857,2291.11,99.75,2,68,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,Yes
+1545-JFUML,No,0.025234711521709304,0,Low,5295,10162.86,99.0,3,31,Two Year,No Offer,Bank Withdrawal,Fiber Optic,No
+8380-MQINP,No,0.0023879086827293997,0,Low,5153,1253.95,20.3,5,36,Two Year,No Offer,Credit Card,No Internet Service,No
+2829-HYVZP,No,0.011150927710559,0,Low,5696,1909.68,19.8,4,69,One Year,No Offer,Credit Card,No Internet Service,No
+9102-OXKFY,No,0.125784995892857,0,Low,4293,6035.47,54.15,3,64,Two Year,Offer B,Credit Card,Cable,No
+2162-FRZAA,No,0.005721242016062733,0,Low,5374,2395.05,39.35,5,24,Two Year,Offer B,Bank Withdrawal,DSL,Yes
+5510-BOIUJ,Yes,0.9279926138208229,1,Very High,5437,32.06,19.25,3,80,Month-to-Month,No Offer,Credit Card,No Internet Service,No
+3648-GZPHF,No,0.017731608882786545,0,Low,2609,1151.05,36.25,5,45,One Year,Offer C,Mailed Check,DSL,Yes
+5644-PDMZC,Yes,0.9947449586885646,1,Very High,2065,256.44,89.5,2,80,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+2977-CEBSX,No,0.0078076546921704865,0,Low,5813,6842.43,90.05,4,74,Two Year,No Offer,Credit Card,DSL,Yes
+4724-WXVWF,No,0.17464464299688132,0,Low,4334,4644.5,95.4,3,33,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,Yes
+3655-SNQYZ,No,0.008804929994106475,0,Low,5141,10188.02,113.25,4,43,Two Year,Offer A,Credit Card,Fiber Optic,Yes
+2226-ICFDO,No,0.00278250617147489,0,Low,6361,6893.39,85.9,4,72,Two Year,No Offer,Credit Card,DSL,Yes
+1170-SASML,No,0.030209384861340123,0,Low,5976,8249.21,85.4,5,62,Month-to-Month,Offer A,Bank Withdrawal,Fiber Optic,No
+7030-NJVDP,No,0.20435686662733193,0,Low,5436,2455.72,89.25,3,77,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,Yes
+0191-ZHSKZ,No,0.1143365551014036,0,Low,3033,3269.6,74.75,4,55,One Year,No Offer,Bank Withdrawal,DSL,No
+7693-LCKZL,Yes,0.8344106262690666,1,Very High,5124,442.7,80.15,1,84,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+0303-WMMRN,No,0.21609178900725348,0,Low,3056,191.1,19.25,3,27,Month-to-Month,No Offer,Credit Card,No Internet Service,No
+8106-GWQOK,No,0.023776624934517952,0,Low,2187,2193.2,60.0,3,42,Two Year,No Offer,Bank Withdrawal,Cable,Yes
+3791-LGQCY,Yes,0.9224498228375173,1,Very High,4803,7711.41,100.65,1,85,Month-to-Month,No Offer,Bank Withdrawal,Cable,No
+1469-LBJQJ,No,0.060990976165277204,0,Low,4016,9724.03,105.2,4,20,Month-to-Month,Offer A,Bank Withdrawal,Fiber Optic,No
+1429-UYJSV,No,0.02464568538501991,0,Low,3423,700.7,19.7,4,62,One Year,Offer D,Credit Card,No Internet Service,No
+9898-KZQDZ,Yes,0.9441975297822036,1,Very High,5676,5620.45,94.55,1,95,Month-to-Month,No Offer,Credit Card,Fiber Optic,No
+4277-BWBML,No,0.008653764899186999,0,Low,5092,1937.01,19.95,3,56,Two Year,Offer A,Bank Withdrawal,No Internet Service,No
+9798-DRYDS,No,0.05313751613984381,0,Low,4759,1879.73,61.95,5,27,One Year,No Offer,Mailed Check,DSL,Yes
+6861-OKBCE,Yes,0.6452047487484874,1,High,4500,585.01,20.1,2,95,Month-to-Month,Offer D,Credit Card,No Internet Service,No
+2577-GVSIL,No,0.04669076616097983,0,Low,4719,3129.75,73.45,4,66,One Year,No Offer,Bank Withdrawal,DSL,Yes
+1950-KSVVJ,No,0.231664579093432,0,Low,4885,6541.55,113.3,3,61,One Year,Offer B,Mailed Check,Fiber Optic,Yes
+0491-KAPQG,No,0.1314930876433478,0,Low,2071,2158.04,73.7,5,39,Month-to-Month,Offer D,Bank Withdrawal,Fiber Optic,No
+1414-YADCW,No,0.03224872167614855,0,Low,5679,5781.1,84.6,3,39,Two Year,Offer A,Bank Withdrawal,Fiber Optic,Yes
+5939-SXWHM,No,0.015389178509395895,0,Low,2111,2240.09,26.3,3,72,Two Year,Offer B,Bank Withdrawal,No Internet Service,No
+0869-PAPRP,No,0.07528438531620907,0,Low,3935,3269.24,85.7,3,23,Two Year,No Offer,Credit Card,Fiber Optic,No
+0164-APGRB,No,0.0697943821733124,0,Low,4589,11979.34,114.9,4,69,Two Year,Offer A,Bank Withdrawal,Fiber Optic,Yes
+2812-REYAT,No,0.013631551388046247,0,Low,5579,2006.0,20.05,5,72,One Year,No Offer,Bank Withdrawal,No Internet Service,No
+8125-QPFJD,No,0.0018602818011626762,0,Low,4447,6161.78,84.9,4,65,Two Year,No Offer,Bank Withdrawal,DSL,Yes
+4009-ALQFH,Yes,0.38756510104198777,0,Moderate,5932,3560.05,99.5,3,90,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+9095-HFAFX,Yes,0.9553338271767674,1,Very High,3718,500.6,81.0,2,96,Month-to-Month,Offer E,Credit Card,Fiber Optic,No
+1098-KFQEC,No,0.0018602818011626762,0,Low,5366,2609.25,19.4,5,23,Two Year,No Offer,Credit Card,No Internet Service,No
+0018-NYROU,No,0.5876220455606863,1,Moderate,5536,444.75,68.95,3,57,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+5934-TSSAU,No,0.01734875574629135,0,Low,5903,2823.69,75.3,5,49,Month-to-Month,Offer D,Credit Card,Fiber Optic,No
+0013-SMEOE,No,0.060339505087580535,0,Low,5011,8611.41,109.7,3,26,Two Year,Offer A,Bank Withdrawal,Fiber Optic,Yes
+4840-ORQXB,No,0.13749435472102653,0,Low,5128,7352.67,104.75,3,35,Two Year,No Offer,Bank Withdrawal,Fiber Optic,No
+7272-QDCKA,No,0.3329052283518148,0,Moderate,5137,2991.89,100.2,3,79,One Year,Offer C,Bank Withdrawal,Fiber Optic,No
+4971-PUYQO,Yes,0.9280191518821391,1,Very High,4464,3024.03,94.55,2,89,Month-to-Month,No Offer,Mailed Check,Fiber Optic,No
+5118-MUEYH,No,0.18830390330285016,0,Low,3109,6967.55,105.1,3,42,Month-to-Month,Offer B,Credit Card,Fiber Optic,Yes
+9677-AVKED,No,0.026922313639567097,0,Low,4733,5220.37,84.6,5,60,One Year,No Offer,Bank Withdrawal,Cable,Yes
+6726-NNFWD,No,0.022834899944540365,0,Low,6004,7589.71,89.45,4,72,Two Year,Offer A,Credit Card,Fiber Optic,No
+9223-UCPVT,Yes,0.9891111217647138,1,Very High,5764,112.74,94.4,3,77,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+5277-ZLOOR,Yes,0.9677074349101121,1,Very High,5512,198.43,85.55,3,86,Month-to-Month,Offer E,Bank Withdrawal,Fiber Optic,No
+6425-YQLLO,Yes,0.7883038607438982,1,High,6117,8806.75,105.95,2,86,One Year,No Offer,Credit Card,Fiber Optic,Yes
+7270-BDIOA,Yes,0.8964858438702266,1,Very High,4739,2261.98,90.0,2,95,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,Yes
+7980-MHFLQ,No,0.0,0,Low,5192,3170.32,24.9,3,67,Two Year,Offer A,Credit Card,No Internet Service,No
+1866-DIOQZ,No,0.02537441952260227,0,Low,4698,4689.15,66.8,4,42,One Year,No Offer,Bank Withdrawal,Cable,Yes
+7932-WPTDS,Yes,0.983837584913169,1,Very High,5377,24.8,24.8,1,73,Month-to-Month,No Offer,Bank Withdrawal,DSL,No
+4536-PLEQY,No,0.6630570977454274,1,High,2540,1535.0,85.05,3,80,Month-to-Month,Offer D,Credit Card,Fiber Optic,No
+4134-BSXLX,No,0.05430224020138859,0,Low,3851,2593.73,60.9,3,76,Month-to-Month,Offer C,Mailed Check,Cable,Yes
+3766-EJLFL,No,0.017945553805925708,0,Low,6391,8761.11,109.05,4,80,Two Year,No Offer,Bank Withdrawal,Fiber Optic,Yes
+5597-GLBUC,Yes,1.0,1,Very High,4931,108.42,85.45,2,95,Month-to-Month,Offer E,Bank Withdrawal,Fiber Optic,No
+0719-SYFRB,Yes,0.820017006300178,1,Very High,5670,1148.63,61.65,1,67,Month-to-Month,Offer D,Mailed Check,DSL,Yes
+8627-EHGIP,Yes,0.7427854889759014,1,High,3051,2375.4,53.95,2,91,One Year,Offer B,Credit Card,Cable,No
+8623-ULFNQ,No,0.03152069445827137,0,Low,3225,1919.01,66.05,5,43,Two Year,No Offer,Bank Withdrawal,DSL,Yes
+3097-IDVPU,No,0.03525430152561122,0,Low,5749,1210.38,50.1,5,76,Month-to-Month,Offer D,Credit Card,DSL,No
+8619-IJNDK,No,0.004479238194512513,0,Low,4374,4827.31,64.05,4,71,Two Year,No Offer,Credit Card,DSL,Yes
+9860-LISIZ,No,0.03047324190409548,0,Low,2864,1922.7,20.35,5,68,Month-to-Month,No Offer,Credit Card,No Internet Service,No
+9689-PTNPG,Yes,0.9959705731712996,1,Very High,5055,232.61,80.25,1,80,Month-to-Month,Offer E,Bank Withdrawal,Fiber Optic,No
+2097-YVPKN,No,0.05127244033932111,0,Low,5707,1931.51,25.75,5,73,Two Year,No Offer,Credit Card,No Internet Service,No
+9314-IJWSQ,No,0.17978752428580214,0,Low,2452,1576.02,84.8,3,80,Month-to-Month,Offer D,Bank Withdrawal,Fiber Optic,No
+6366-XIVKZ,No,0.03793256121908079,0,Low,5916,1326.4,63.15,3,46,Month-to-Month,No Offer,Credit Card,Cable,No
+2642-DTVCO,Yes,0.8320543862996778,1,Very High,5095,886.12,85.05,3,74,Month-to-Month,Offer E,Bank Withdrawal,Fiber Optic,No
+0187-QSXOE,No,0.044492921231929626,0,Low,5711,899.24,89.0,4,36,Two Year,No Offer,Bank Withdrawal,Fiber Optic,No
+2233-FAGXV,No,0.04081444237937269,0,Low,3181,165.75,24.3,5,20,Month-to-Month,No Offer,Credit Card,No Internet Service,No
+6298-QDFNH,Yes,0.9600291934927736,1,Very High,4718,2152.53,79.35,1,68,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+9185-TQCVP,Yes,0.9506844926659528,1,Very High,4550,1398.92,85.15,2,91,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+6485-QXWWE,No,0.02429776430902544,0,Low,4535,1814.16,26.0,3,46,Two Year,Offer B,Bank Withdrawal,No Internet Service,No
+3638-WEABW,No,0.14348443410296943,0,Low,6407,6345.94,59.9,3,53,Two Year,Offer B,Credit Card,Cable,Yes
+4488-KQFDT,No,0.156044974947403,0,Low,4148,7364.84,103.95,4,59,One Year,Offer B,Bank Withdrawal,Fiber Optic,No
+6682-VCIXC,No,0.07689372549132478,0,Low,5656,2151.6,51.25,3,43,One Year,Offer B,Bank Withdrawal,Cable,Yes
+8218-FFJDS,No,0.007587496699144625,0,Low,6114,7164.15,86.4,3,27,Two Year,No Offer,Bank Withdrawal,DSL,Yes
+8019-ENHXU,Yes,0.873079001360416,1,Very High,4624,5702.89,99.45,2,96,Month-to-Month,Offer B,Bank Withdrawal,Fiber Optic,Yes
+0708-LGSMF,No,0.21627953757201704,0,Low,2731,1088.41,65.85,3,44,Month-to-Month,Offer D,Bank Withdrawal,DSL,No
+6680-WKXRZ,Yes,0.9280270337606449,1,Very High,2054,287.26,74.4,3,90,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+9647-ERGBE,Yes,0.9827794759932625,1,Very High,4664,4238.35,100.05,1,91,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+6258-NGCNG,No,0.06526519628782126,0,Low,5508,182.87,23.5,4,33,Month-to-Month,Offer E,Credit Card,No Internet Service,No
+9705-IOVQQ,No,0.04520848548890754,0,Low,5177,6223.24,99.0,5,20,One Year,No Offer,Bank Withdrawal,Fiber Optic,No
+6339-DKLMK,No,0.28097975604284947,0,Low,4959,389.95,31.65,3,49,Month-to-Month,Offer D,Bank Withdrawal,DSL,No
+9408-SSNVZ,Yes,0.8963670374361008,1,Very High,2227,364.26,70.15,2,67,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+6379-RXJRQ,Yes,0.9766440879598923,1,Very High,2457,845.26,70.1,2,92,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+2446-BEGGB,Yes,0.8506489966720728,1,Very High,3330,844.7,98.25,3,83,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+9975-GPKZU,No,0.006921897634364405,0,Low,2610,1209.32,19.75,4,56,Two Year,No Offer,Credit Card,No Internet Service,No
+4641-FROLU,No,0.0023879086827293997,0,Low,4453,950.9,19.3,4,30,Two Year,Offer C,Credit Card,No Internet Service,No
+4922-CVPDX,No,0.042444186214347056,0,Low,3596,2845.79,73.5,5,67,Two Year,Offer C,Credit Card,DSL,No
+5448-VWNAM,No,0.0760666372751947,0,Low,4198,1527.98,75.9,4,69,Month-to-Month,Offer D,Credit Card,DSL,Yes
+6137-NICCO,No,0.2219579948680932,0,Low,3083,766.49,94.05,3,59,Month-to-Month,No Offer,Credit Card,Fiber Optic,No
+3525-DVKFN,No,0.02617717113870481,0,Low,3561,869.24,19.4,3,44,Two Year,Offer D,Credit Card,No Internet Service,No
+4032-RMHCI,No,0.03338146701445253,0,Low,4375,1412.4,35.4,4,43,One Year,Offer B,Credit Card,Cable,No
+6898-MDLZW,No,0.10816184445311976,0,Low,5385,670.25,53.75,5,28,Month-to-Month,Offer D,Credit Card,DSL,Yes
+9391-YZEJW,No,0.42092456515495336,0,Moderate,4778,7759.18,94.0,3,25,One Year,Offer B,Bank Withdrawal,Fiber Optic,No
+3570-YUEKJ,No,0.019966238253016383,0,Low,3637,2443.77,49.55,5,43,Month-to-Month,No Offer,Bank Withdrawal,DSL,No
+1910-FMXJM,No,0.24364538388601678,0,Low,5544,4713.53,80.4,3,35,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+8791-GFXLZ,No,0.05416899859492105,0,Low,4244,1101.09,49.05,5,70,Month-to-Month,No Offer,Bank Withdrawal,DSL,No
+8178-EYZUO,Yes,0.8652383109376296,1,Very High,3378,4880.68,93.7,1,70,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+4990-ALDGW,No,0.035619969747464966,0,Low,6271,3326.41,20.75,3,60,Two Year,No Offer,Credit Card,No Internet Service,No
+6402-ZFPPI,Yes,0.9712964361646463,1,Very High,4969,3572.7,102.8,1,94,Month-to-Month,No Offer,Credit Card,Fiber Optic,No
+2931-FSOHN,No,0.22369317271167694,0,Low,5254,1437.05,59.9,5,58,Month-to-Month,No Offer,Bank Withdrawal,DSL,No
+9668-PUGNU,No,0.024494523795172293,0,Low,4058,4100.98,24.5,4,38,Two Year,No Offer,Bank Withdrawal,No Internet Service,No
+2754-XBHTB,Yes,0.9629614875291376,1,Very High,3847,920.07,77.65,2,96,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+7147-AYBAA,No,0.267195950620359,0,Low,5402,3619.98,70.35,3,32,Month-to-Month,No Offer,Credit Card,Fiber Optic,No
+8823-RLPWL,No,0.028749441853455942,0,Low,4259,11032.77,110.65,4,22,Two Year,Offer A,Credit Card,Fiber Optic,No
+6625-UTXEW,No,0.2621973021500163,0,Low,3097,1174.66,51.25,3,57,Month-to-Month,Offer D,Bank Withdrawal,Cable,No
+6032-KRXXO,Yes,0.9456573559182508,1,Very High,5654,3657.15,90.25,2,84,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+3347-YJZZE,No,0.017556929199099434,0,Low,4558,2406.97,80.1,4,70,Month-to-Month,No Offer,Credit Card,DSL,No
+2717-HVIZY,No,0.046135845582006674,0,Low,2675,288.88,20.05,4,32,Month-to-Month,Offer E,Credit Card,No Internet Service,No
+1307-TVUFB,No,0.04220824754399791,0,Low,2399,3911.52,79.35,4,79,One Year,No Offer,Bank Withdrawal,Fiber Optic,No
+2050-ONYDQ,No,0.0,0,Low,5352,1846.6,26.0,3,72,Two Year,No Offer,Credit Card,No Internet Service,No
+0106-GHRQR,No,0.10104625672029788,0,Low,3360,1623.46,71.4,5,39,Month-to-Month,No Offer,Bank Withdrawal,DSL,No
+3318-ISQFQ,No,0.12259166425192262,0,Low,5409,632.4,19.5,3,28,Month-to-Month,Offer D,Bank Withdrawal,No Internet Service,No
+2722-JMONI,Yes,0.9881160864985924,1,Very High,4989,73.79,49.55,1,76,Month-to-Month,Offer E,Bank Withdrawal,Cable,No
+4199-QHJNM,No,0.08877533446960378,0,Low,5869,10251.26,102.9,3,52,Two Year,Offer A,Bank Withdrawal,Fiber Optic,Yes
+3190-FZATL,No,0.020675807371715735,0,Low,5770,837.64,19.95,5,71,Month-to-Month,No Offer,Credit Card,No Internet Service,No
+9279-CJEOJ,No,0.3079385341009999,0,Moderate,5691,2810.5,95.4,4,47,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+3312-ZWLGF,No,0.22702281052382015,0,Low,3172,2720.5,79.3,5,21,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,Yes
+5959-BELXA,Yes,0.975233430346803,1,Very High,2246,3833.65,96.15,2,79,Month-to-Month,Offer C,Credit Card,Fiber Optic,No
+6918-UMQCG,No,0.46318504118158027,0,Moderate,3391,628.55,80.2,3,46,Month-to-Month,Offer E,Bank Withdrawal,Fiber Optic,No
+4295-YURET,No,0.033757461357395276,0,Low,6357,4556.43,72.6,4,79,Two Year,Offer B,Credit Card,DSL,Yes
+2428-ZMCTB,No,0.0899090841560264,0,Low,3926,411.15,19.75,3,62,Month-to-Month,Offer D,Credit Card,No Internet Service,No
+4140-WJAWW,Yes,0.682846338731066,1,High,3799,138.9,19.85,1,91,Month-to-Month,No Offer,Credit Card,No Internet Service,No
+8645-KWHJO,No,0.23376380625821397,0,Low,4900,771.95,55.0,3,23,Month-to-Month,Offer D,Bank Withdrawal,DSL,Yes
+5673-TIYIB,Yes,0.9133473335047595,1,Very High,3620,77.15,40.4,3,86,Month-to-Month,Offer E,Credit Card,DSL,Yes
+7779-LGOVN,Yes,0.9503208682485225,1,Very High,4990,1321.65,86.65,1,84,Month-to-Month,No Offer,Bank Withdrawal,Cable,No
+7054-ENNGU,No,0.08492071966944807,0,Low,4623,579.91,50.85,4,26,Month-to-Month,No Offer,Credit Card,Cable,No
+5504-WSIUR,No,0.19052697194780288,0,Low,5327,7423.95,90.25,3,33,One Year,No Offer,Bank Withdrawal,Fiber Optic,Yes
+3976-HXHCE,No,0.037953036586416064,0,Low,4722,4708.8,19.3,4,42,Two Year,No Offer,Bank Withdrawal,No Internet Service,No
+1686-STUHN,No,0.05203963234760021,0,Low,3575,2476.98,19.8,3,39,One Year,No Offer,Bank Withdrawal,No Internet Service,No
+0297-RBCSG,No,0.10105390939943872,0,Low,2051,2085.86,65.35,4,39,One Year,No Offer,Bank Withdrawal,DSL,Yes
+6050-FFXES,No,0.03742928827952264,0,Low,5268,8304.26,105.35,5,34,Two Year,No Offer,Bank Withdrawal,Fiber Optic,Yes
+7801-CEDNV,No,0.015013226785777538,0,Low,3560,1665.02,48.7,3,30,One Year,No Offer,Credit Card,DSL,No
+4565-NLZBV,No,0.004775817365458799,0,Low,4015,4789.42,24.65,4,42,Two Year,No Offer,Bank Withdrawal,No Internet Service,No
+2040-VZIKE,No,0.1770499922357984,0,Low,5417,7043.04,100.85,3,53,Month-to-Month,No Offer,Mailed Check,Fiber Optic,No
+4628-CTTLA,Yes,0.8080283399422218,1,Very High,4917,2191.45,39.3,1,66,Month-to-Month,Offer B,Bank Withdrawal,DSL,No
+6614-FHDBO,No,0.1704875000905877,0,Low,4551,10406.22,109.2,3,26,Two Year,No Offer,Bank Withdrawal,Fiber Optic,Yes
+0430-IHCDJ,No,0.24916174015239984,0,Low,2597,925.5,49.0,3,25,Month-to-Month,No Offer,Bank Withdrawal,DSL,No
+0607-DAAHE,Yes,0.05351882690129712,0,Low,6265,2441.48,19.75,3,66,Two Year,Offer B,Bank Withdrawal,No Internet Service,No
+4753-PADAS,No,0.09675417404008325,0,Low,5027,8522.77,105.7,4,68,One Year,Offer A,Bank Withdrawal,Fiber Optic,No
+5456-ITGIC,No,0.006694039919773431,0,Low,5295,4641.1,64.45,5,68,Two Year,No Offer,Credit Card,DSL,Yes
+7244-QWYHG,No,0.03147775530139001,0,Low,5363,2188.45,44.45,4,54,One Year,Offer B,Bank Withdrawal,DSL,Yes
+1925-TIBLE,Yes,0.9726514516600205,1,Very High,3887,760.77,86.5,1,74,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+6075-QMNRR,No,0.06569663625452432,0,Low,6334,4559.91,49.75,3,26,Month-to-Month,Offer B,Bank Withdrawal,DSL,No
+8205-MQUGY,No,0.0457914605138591,0,Low,3582,766.11,49.2,3,37,Month-to-Month,Offer D,Bank Withdrawal,Cable,No
+1121-QSIVB,No,0.06649320109647425,0,Low,5044,3694.18,77.55,3,43,One Year,Offer B,Credit Card,DSL,No
+7595-EHCDL,No,0.0446361204793673,0,Low,3087,1653.45,50.6,3,40,Month-to-Month,No Offer,Credit Card,DSL,No
+8752-GHJFU,No,0.017564296418852904,0,Low,4322,9183.8,92.0,3,66,One Year,No Offer,Bank Withdrawal,Fiber Optic,Yes
+4274-DRSQT,No,0.032782637442225454,0,Low,5868,8107.48,88.9,5,27,One Year,No Offer,Bank Withdrawal,Fiber Optic,No
+7218-HKQFK,Yes,0.9710174664423568,1,Very High,3715,205.08,94.2,2,72,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,Yes
+1047-NNCBF,No,0.3477708132852387,0,Moderate,5790,1551.95,70.55,3,59,Month-to-Month,No Offer,Credit Card,Fiber Optic,No
+2324-EFHVG,No,0.05351801634653169,0,Low,5617,9625.13,104.4,4,38,Two Year,No Offer,Bank Withdrawal,Fiber Optic,No
+8217-QYOHV,No,0.07434884905874074,0,Low,4545,421.55,55.75,4,22,Month-to-Month,Offer E,Credit Card,Cable,Yes
+1303-SRDOK,No,0.01709814747312098,0,Low,4318,5375.45,69.05,3,67,Two Year,Offer B,Credit Card,Fiber Optic,No
+0357-NVCRI,No,0.034359991852492,0,Low,2192,793.45,20.05,5,24,Month-to-Month,Offer C,Credit Card,No Internet Service,No
+4979-HPRFL,No,0.00278250617147489,0,Low,5137,3482.36,24.15,4,21,Two Year,Offer B,Bank Withdrawal,No Internet Service,No
+4686-GEFRM,No,0.09599245660537038,0,Low,5582,10025.7,98.7,3,57,Two Year,Offer A,Bank Withdrawal,Fiber Optic,Yes
+1116-DXXDF,No,0.05668540407111942,0,Low,2698,5281.36,100.45,4,45,Two Year,No Offer,Bank Withdrawal,Fiber Optic,No
+1329-VHWNP,No,0.13569649239825624,0,Low,4404,189.95,25.05,4,63,Month-to-Month,No Offer,Bank Withdrawal,DSL,No
+4902-OHLSK,Yes,0.9298510647581282,1,Very High,4235,3471.17,98.65,1,93,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,Yes
+7349-ALMUX,No,0.024341620216918592,0,Low,3183,3735.71,65.6,4,27,Two Year,No Offer,Bank Withdrawal,Cable,Yes
+3890-RTCMS,No,0.069653925881782,0,Low,3446,1574.2,49.45,4,49,Month-to-Month,No Offer,Credit Card,DSL,Yes
+6682-QJDGB,Yes,0.6808471543898491,1,High,2810,2462.4,55.25,1,65,Month-to-Month,No Offer,Mailed Check,DSL,No
+5622-UEJFI,No,0.009159519841148796,0,Low,5070,2096.05,25.4,3,38,Two Year,No Offer,Credit Card,No Internet Service,No
+5060-TQUQN,No,0.09039100182568685,0,Low,3558,2877.4,83.55,3,31,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,Yes
+8901-UPRHR,No,0.019321481417833134,0,Low,6130,10881.61,109.2,4,68,Two Year,Offer A,Bank Withdrawal,Fiber Optic,Yes
+8750-QWZAJ,No,0.0,0,Low,5169,4769.55,19.8,4,22,Two Year,Offer A,Bank Withdrawal,No Internet Service,No
+1987-AUELQ,No,0.014564678569545316,0,Low,6334,5057.34,25.05,5,52,Two Year,No Offer,Credit Card,No Internet Service,No
+2840-XANRC,Yes,0.9645110205526076,1,Very High,2212,2617.45,93.15,2,73,Month-to-Month,Offer C,Bank Withdrawal,Cable,No
+9961-JBNMK,Yes,0.9603930400505586,1,Very High,4317,2907.77,96.8,1,87,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+9921-EZKBY,No,0.08348158277680438,0,Low,3087,3617.03,95.3,4,38,Month-to-Month,Offer C,Bank Withdrawal,Fiber Optic,No
+8714-EUHJO,Yes,0.8948625331775054,1,Very High,5219,4194.22,91.15,2,83,Month-to-Month,No Offer,Bank Withdrawal,Cable,No
+4039-HEUNW,Yes,0.8477021647933843,1,Very High,4652,4034.06,96.5,3,82,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+4680-KUTAJ,No,0.04217153336188165,0,Low,5014,596.51,55.6,4,80,Two Year,No Offer,Bank Withdrawal,DSL,No
+9650-VBUOG,No,0.0075815238172254095,0,Low,3772,2221.75,25.05,3,73,Two Year,Offer C,Credit Card,No Internet Service,No
+3521-HTQTV,No,0.04341251738506411,0,Low,2026,1676.33,26.1,3,46,Two Year,No Offer,Bank Withdrawal,No Internet Service,No
+2419-FSORS,No,0.059007860814095967,0,Low,4394,8488.46,108.4,4,33,Two Year,Offer A,Bank Withdrawal,Fiber Optic,Yes
+7688-AWMDX,No,0.020786394219488212,0,Low,4957,7208.92,54.5,3,57,Two Year,No Offer,Bank Withdrawal,DSL,Yes
+2235-EZAIK,No,0.023209998651215823,0,Low,4288,7035.42,79.2,4,79,Two Year,Offer A,Credit Card,DSL,Yes
+1641-BYBTK,No,0.036977822691127565,0,Low,3478,199.81,20.2,4,75,Month-to-Month,No Offer,Credit Card,No Internet Service,No
+1262-OPMFY,Yes,0.6543902001878505,1,High,5105,941.65,75.75,3,92,Month-to-Month,Offer E,Bank Withdrawal,Fiber Optic,No
+5146-YYFRZ,No,0.00449388293703207,0,Low,6212,2338.19,19.95,5,80,Two Year,Offer A,Bank Withdrawal,No Internet Service,No
+9646-NMHXE,No,0.014785511195436725,0,Low,2021,1280.48,19.65,5,77,Two Year,No Offer,Credit Card,No Internet Service,No
+4742-DRORA,No,0.030012876885774732,0,Low,4149,6137.8,95.4,4,46,One Year,Offer B,Bank Withdrawal,Fiber Optic,No
+9571-EDEBV,No,0.035942784306235126,0,Low,5101,9427.97,98.65,5,28,One Year,No Offer,Credit Card,Fiber Optic,No
+6211-WWLTF,No,0.07519139366263088,0,Low,5135,8019.43,99.7,3,39,Two Year,Offer B,Credit Card,Fiber Optic,No
+8138-EALND,No,0.045324732645490654,0,Low,4123,363.95,19.75,5,29,Month-to-Month,No Offer,Credit Card,No Internet Service,No
+6620-HVDUJ,No,0.025300250000087093,0,Low,5095,2009.79,60.45,5,56,Month-to-Month,Offer C,Bank Withdrawal,DSL,Yes
+7945-HLKEA,No,0.039831538030353615,0,Low,6408,6436.5,64.75,3,25,One Year,No Offer,Bank Withdrawal,DSL,Yes
+3441-CGZJH,No,0.028918979102536976,0,Low,2725,2740.55,60.4,3,61,One Year,No Offer,Credit Card,DSL,Yes
+3481-JHUZH,No,0.04272206880022926,0,Low,5757,5051.81,80.25,5,49,Month-to-Month,Offer B,Bank Withdrawal,Fiber Optic,No
+8417-GSODA,No,0.0403640299887003,0,Low,5116,2937.47,92.2,4,26,One Year,No Offer,Bank Withdrawal,Fiber Optic,No
+3647-GMGDH,Yes,0.7498002102399969,1,High,5615,2746.5,94.7,2,72,Month-to-Month,No Offer,Credit Card,Fiber Optic,No
+7976-CICYS,No,0.031661528798388724,0,Low,3027,191.91,20.7,4,76,Month-to-Month,No Offer,Credit Card,No Internet Service,No
+4632-XJMEX,No,0.020269060696582797,0,Low,6281,5953.43,62.85,4,24,One Year,Offer B,Credit Card,Cable,Yes
+8182-PNAGI,Yes,0.7973077293146132,1,High,3624,1272.71,50.25,1,67,Month-to-Month,No Offer,Bank Withdrawal,DSL,Yes
+0488-GSLFR,Yes,0.9998428119315732,1,Very High,3365,77.81,69.5,1,91,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+0947-IDHRQ,Yes,0.8889750118647212,1,Very High,3949,811.17,80.3,2,75,Month-to-Month,No Offer,Mailed Check,Fiber Optic,No
+3633-CDBUW,No,0.042945813821157766,0,Low,3913,2276.59,80.85,5,24,One Year,No Offer,Bank Withdrawal,DSL,Yes
+0314-TKOSI,No,0.13697001757939867,0,Low,5377,364.78,55.15,4,42,Month-to-Month,Offer E,Mailed Check,Cable,No
+6078-VESFR,No,0.21713564186754417,0,Low,5225,1324.51,70.45,5,53,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+3325-FUYCG,Yes,0.8627751886497693,1,Very High,3770,3116.76,106.1,1,85,One Year,Offer C,Bank Withdrawal,Fiber Optic,No
+8887-IPQNC,No,0.1091534659502556,0,Low,5014,533.46,44.25,5,58,Month-to-Month,No Offer,Credit Card,DSL,No
+9079-LWTFD,No,0.13005976750643825,0,Low,2508,6912.51,100.75,3,27,Month-to-Month,No Offer,Credit Card,Fiber Optic,Yes
+5550-VFRLC,Yes,0.998341873516559,1,Very High,5056,153.3,69.85,1,68,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+4988-IQIGL,Yes,0.9989934496252167,1,Very High,4403,103.84,75.35,3,92,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+0301-FIDRB,No,0.00517041485420429,0,Low,6107,4684.3,63.8,4,32,Two Year,No Offer,Bank Withdrawal,DSL,Yes
+5609-CEBID,Yes,0.9591389482338764,1,Very High,2666,2837.0,94.1,1,87,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+7268-WNTCP,No,0.003678054917525081,0,Low,5746,1413.29,20.45,4,21,Two Year,No Offer,Bank Withdrawal,No Internet Service,No
+5966-EMAZU,No,0.16711775798030237,0,Low,4576,7137.49,108.5,3,22,One Year,Offer B,Credit Card,Fiber Optic,Yes
+4778-IZARL,No,0.054394111369410844,0,Low,6216,6906.04,110.1,3,26,Two Year,No Offer,Credit Card,Fiber Optic,Yes
+7026-YMSBE,No,0.00575230307375918,0,Low,3302,1362.15,19.7,4,59,One Year,No Offer,Mailed Check,No Internet Service,No
+1017-FBQMM,No,0.01705806990847373,0,Low,6361,7636.6,106.05,4,69,One Year,Offer B,Credit Card,Fiber Optic,Yes
+8784-CGILN,Yes,0.9126007738232439,1,Very High,3068,2433.77,99.85,1,91,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,Yes
+6467-CHFZW,Yes,0.6230202243928592,1,High,5789,6222.6,99.35,1,77,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+3996-ZNWYK,No,0.0033333333333333335,0,Low,5819,3668.97,19.8,4,69,Two Year,No Offer,Credit Card,No Internet Service,No
+4324-BZCKL,No,0.0453336154381676,0,Low,2530,608.7,55.55,5,41,Month-to-Month,No Offer,Credit Card,DSL,No
+7881-EVUAD,Yes,0.9662284665553733,1,Very High,4648,72.4,42.6,2,79,Month-to-Month,Offer E,Bank Withdrawal,DSL,No
+3207-OYBWH,Yes,0.9163907640638088,1,Very High,6259,8259.33,95.25,2,86,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+6180-YBIQI,No,0.5835118713984887,1,Moderate,4015,100.2,24.3,3,61,Month-to-Month,Offer E,Credit Card,DSL,No
+5609-IMCGG,No,0.23701317363271918,0,Low,3314,1395.95,84.35,3,35,Month-to-Month,Offer D,Credit Card,Fiber Optic,No
+7511-YMXVQ,Yes,0.9140694230016235,1,Very High,5028,438.8,45.4,1,81,Month-to-Month,No Offer,Bank Withdrawal,Cable,No
+6064-PUPMC,No,0.0023879086827293997,0,Low,4021,2294.13,57.2,3,69,One Year,No Offer,Credit Card,DSL,Yes
+7969-AULMZ,Yes,0.43444767935035,0,Moderate,4321,2309.76,97.35,3,89,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+0257-ZESQC,Yes,0.8810838820280547,1,Very High,4517,2118.89,75.2,1,91,Month-to-Month,No Offer,Bank Withdrawal,Cable,No
+4847-QNOKA,Yes,0.9990545753493961,1,Very High,2632,86.68,44.9,2,76,Month-to-Month,Offer E,Bank Withdrawal,DSL,No
+6248-BSHKG,No,0.013227400701611573,0,Low,5897,3147.34,20.4,3,77,One Year,Offer B,Credit Card,No Internet Service,No
+6693-DJWTY,No,0.01822225821426927,0,Low,5964,2456.05,55.6,3,80,One Year,No Offer,Credit Card,DSL,No
+6598-KELSS,No,0.0235745343981017,0,Low,5409,2208.05,43.05,3,41,One Year,Offer B,Bank Withdrawal,DSL,No
+6527-PZFPV,No,0.015910817824201662,0,Low,4654,1089.81,20.8,5,48,One Year,Offer C,Credit Card,No Internet Service,No
+3780-DDGSE,No,0.03236988661939179,0,Low,5479,3243.85,76.05,5,38,One Year,Offer C,Bank Withdrawal,DSL,Yes
+5057-LCOUI,Yes,0.12143277489057702,0,Low,4119,2011.4,50.75,3,94,Month-to-Month,Offer C,Bank Withdrawal,DSL,No
+8344-WFMFH,No,0.1238766131877519,0,Low,4738,732.81,50.1,4,56,Month-to-Month,Offer E,Bank Withdrawal,Cable,No
+2504-DSHIH,No,0.34522737779819546,0,Moderate,5788,2955.42,86.8,3,38,One Year,No Offer,Bank Withdrawal,Fiber Optic,No
+5199-FPUSP,No,0.04172583839668015,0,Low,3044,1113.95,34.05,3,73,One Year,No Offer,Credit Card,Cable,Yes
+8456-QDAVC,No,0.3930931496561742,0,Moderate,2464,2029.71,78.7,3,20,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+0078-XZMHT,No,0.045801912017231196,0,Low,6322,8646.12,85.15,3,76,Two Year,No Offer,Bank Withdrawal,DSL,Yes
+6910-HADCM,Yes,0.9962780420598404,1,Very High,5613,83.61,76.35,2,67,Month-to-Month,No Offer,Bank Withdrawal,Cable,No
+4343-EJVQB,No,0.11479892166078874,0,Low,2463,545.29,74.35,4,51,Month-to-Month,No Offer,Credit Card,Fiber Optic,No
+6469-QJKZW,No,0.2573372330104806,0,Low,2198,274.76,20.15,3,26,Month-to-Month,No Offer,Bank Withdrawal,No Internet Service,No
+4472-LVYGI,No,0.06706926354300506,0,Low,2578,525.5,52.55,3,36,Two Year,No Offer,Bank Withdrawal,Cable,Yes
+5982-XMDEX,No,0.02116330125693712,0,Low,4404,3889.7,26.5,3,46,Two Year,Offer B,Bank Withdrawal,No Internet Service,No
+0533-UCAAU,No,0.04624762453073663,0,Low,5462,6885.22,71.1,5,40,One Year,No Offer,Credit Card,DSL,No
+9625-QNLUX,No,0.005977823171152317,0,Low,4751,8560.88,103.25,4,22,Two Year,No Offer,Credit Card,Fiber Optic,No
+6008-NAIXK,No,0.17306767396153222,0,Low,4521,2966.95,55.45,3,58,One Year,No Offer,Bank Withdrawal,DSL,No
+6030-REHUX,No,0.0770513976695741,0,Low,3906,4483.16,110.85,4,58,One Year,Offer C,Bank Withdrawal,Fiber Optic,Yes
+8984-EYLLL,No,0.04728518982401095,0,Low,5682,9371.25,105.25,4,72,Two Year,No Offer,Bank Withdrawal,Fiber Optic,Yes
+2272-QAGFO,Yes,0.8135338225061636,1,Very High,5342,1587.23,74.3,3,71,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+7663-RGWBC,Yes,0.9962780420598404,1,Very High,4773,52.92,44.15,1,90,Month-to-Month,No Offer,Credit Card,DSL,No
+7486-KSRVI,Yes,0.8246023353260155,1,Very High,4760,6044.46,100.0,1,93,One Year,Offer B,Bank Withdrawal,Fiber Optic,Yes
+1052-QJIBV,No,0.004873835683258003,0,Low,6015,2852.09,19.9,3,53,Two Year,Offer A,Credit Card,No Internet Service,No
+6772-WFQRD,No,0.030642819572657843,0,Low,3200,1878.75,20.4,5,59,One Year,Offer B,Bank Withdrawal,No Internet Service,No
+4832-VRBMR,No,0.5237381162059243,1,Moderate,6441,7874.7,103.15,3,51,One Year,No Offer,Bank Withdrawal,Fiber Optic,No
+0870-VEMYL,Yes,0.851593161372531,1,Very High,5435,368.44,53.85,1,74,Month-to-Month,Offer E,Credit Card,Cable,Yes
+3709-OIJEA,No,0.05448528866500414,0,Low,5156,2957.32,85.2,5,52,One Year,No Offer,Bank Withdrawal,Fiber Optic,Yes
+7156-MXBJE,No,0.20787489618573718,0,Low,2319,3799.32,85.1,3,5,One Year,No Offer,Credit Card,DSL,Yes
+9385-NXKDA,No,0.006636099166621476,0,Low,4324,7163.51,82.65,3,42,Two Year,Offer A,Credit Card,DSL,No
+6729-FZWSY,No,0.032078678956710585,0,Low,5343,1802.3,19.45,4,57,One Year,Offer A,Credit Card,No Internet Service,No
+3557-HTYWR,No,0.03979635156017251,0,Low,2831,5642.79,74.05,4,75,Two Year,No Offer,Credit Card,DSL,Yes
+9809-IMGCQ,Yes,0.9496555198134409,1,Very High,4458,3066.91,96.7,1,93,Month-to-Month,Offer D,Bank Withdrawal,Fiber Optic,No
+6178-KFNHS,Yes,0.9006412319162475,1,Very High,3545,1338.85,78.3,1,91,Month-to-Month,Offer D,Bank Withdrawal,Fiber Optic,No
+2481-SBOYW,No,0.0,0,Low,4673,3453.4,25.0,4,54,Two Year,Offer B,Credit Card,No Internet Service,No
+0235-KGSLC,Yes,0.9990545753493961,1,Very High,3967,118.89,85.55,2,86,Month-to-Month,Offer E,Credit Card,Fiber Optic,No
+5129-JLPIS,No,0.16808004202786778,0,Low,5822,2946.05,105.5,3,75,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,Yes
+5016-ETTFF,Yes,0.2727765175344477,0,Low,3797,295.25,29.5,3,69,Month-to-Month,Offer D,Credit Card,DSL,No
+2335-GSODA,No,0.01834825452588451,0,Low,2327,857.75,40.1,4,24,Two Year,No Offer,Credit Card,DSL,Yes
+0365-TRTPY,No,0.08717629223491632,0,Low,5135,3816.31,91.2,3,44,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+3413-DHLPB,No,0.04399395654382981,0,Low,6237,6139.75,103.75,4,53,Month-to-Month,Offer B,Bank Withdrawal,Fiber Optic,Yes
+6284-KMNUF,No,0.0723870292171692,0,Low,4615,7370.6,98.0,3,25,One Year,Offer B,Bank Withdrawal,Fiber Optic,No
+2038-OEQZH,No,0.2653130400921072,0,Low,3653,485.54,86.05,5,55,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+2960-NKRSO,No,0.2693121682135651,0,Low,5421,2335.87,85.95,3,52,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,Yes
+3230-JCNZS,No,0.0023879086827293997,0,Low,4305,8178.48,99.0,3,74,Two Year,Offer A,Credit Card,Fiber Optic,No
+1394-SUIUH,No,0.02873990077651425,0,Low,2672,5625.86,85.15,4,45,Two Year,No Offer,Bank Withdrawal,Fiber Optic,Yes
+2150-OEGBV,No,7.829915003120762e-05,0,Low,3428,1464.4,20.1,5,28,One Year,No Offer,Bank Withdrawal,No Internet Service,No
+7301-ABVAD,No,0.08436517184226658,0,Low,4530,6947.38,86.6,3,37,Two Year,No Offer,Bank Withdrawal,Cable,Yes
+8022-BECSI,No,0.02117013300328054,0,Low,2203,872.62,19.6,5,37,One Year,No Offer,Credit Card,No Internet Service,No
+6029-WTIPC,Yes,0.9893220880532738,1,Very High,4424,5152.27,101.1,1,87,Month-to-Month,Offer C,Bank Withdrawal,Fiber Optic,No
+1530-ZTDOZ,No,0.04963301876926048,0,Low,5565,2070.75,40.65,4,29,Month-to-Month,No Offer,Bank Withdrawal,Cable,No
+9534-NSXEM,No,0.021796706722006943,0,Low,2194,1415.28,20.65,3,79,One Year,Offer C,Credit Card,No Internet Service,No
+8108-UXRQN,No,0.11986271203890989,0,Low,3443,565.35,50.55,3,28,Month-to-Month,No Offer,Bank Withdrawal,Cable,No
+8752-STIVR,Yes,0.8022216315491364,1,Very High,2085,413.43,79.0,3,69,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+4803-AXVYP,Yes,0.9479649893553541,1,Very High,3474,5535.07,99.55,1,91,Month-to-Month,Offer C,Bank Withdrawal,Fiber Optic,Yes
+4690-PKDQG,No,0.4939140851815201,0,Moderate,4121,4891.98,95.55,3,26,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+6365-MTGZX,Yes,0.8916245202323412,1,Very High,3068,2716.69,96.0,1,71,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,Yes
+7435-ZNUYY,No,0.13917733419559256,0,Low,4439,189.62,20.6,3,20,One Year,Offer E,Credit Card,No Internet Service,No
+5687-DKDTV,Yes,0.0785193550876058,0,Low,5984,228.14,20.35,3,76,Month-to-Month,No Offer,Credit Card,No Internet Service,No
+8592-PLTMQ,No,0.038407623414731515,0,Low,5655,1900.67,24.7,5,32,One Year,Offer B,Mailed Check,No Internet Service,No
+1436-ZMJAN,No,0.06776195179956121,0,Low,2709,1023.95,67.8,5,79,Month-to-Month,Offer D,Credit Card,Cable,No
+4701-MLJPN,Yes,0.15232240247355283,0,Low,2933,1773.08,55.25,3,78,Month-to-Month,Offer C,Bank Withdrawal,DSL,Yes
+4445-ZJNMU,No,0.7190384675875673,1,High,3540,962.04,99.3,3,69,Month-to-Month,Offer E,Credit Card,Fiber Optic,No
+9574-BOSMD,No,0.0,0,Low,5668,2908.98,25.4,4,72,Two Year,No Offer,Bank Withdrawal,No Internet Service,No
+7079-QRCBC,Yes,0.9419340627104915,1,Very High,4016,3311.86,98.75,1,85,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+5848-FHRFC,No,0.015734201243899005,0,Low,5740,1579.34,20.05,4,63,Two Year,Offer A,Bank Withdrawal,No Internet Service,No
+2474-LCNUE,No,0.084061707674959,0,Low,2590,1976.94,73.65,5,61,Month-to-Month,Offer D,Credit Card,Cable,Yes
+4612-THJBS,Yes,0.28206546126569765,0,Low,5605,7447.13,104.75,3,93,One Year,No Offer,Bank Withdrawal,Fiber Optic,No
+2696-ECXKC,No,0.005721242016062733,0,Low,6153,7713.5,100.9,4,55,One Year,Offer B,Credit Card,Fiber Optic,No
+7892-POOKP,Yes,0.14886275307357497,0,Low,5003,3182.97,104.8,3,84,Month-to-Month,Offer C,Bank Withdrawal,Fiber Optic,Yes
+8510-AWCXC,Yes,0.9627671976743329,1,Very High,3269,1401.96,100.8,1,65,Month-to-Month,Offer D,Bank Withdrawal,Fiber Optic,No
+0440-EKDCF,No,0.04470274582476736,0,Low,4404,5842.6,60.15,5,80,Two Year,Offer B,Credit Card,Cable,Yes
+1626-ERCMM,Yes,0.7577670703846645,1,High,5604,2005.85,94.55,1,84,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+0264-CNITK,No,0.0011983307151584395,0,Low,5043,3592.73,20.1,3,23,Two Year,No Offer,Bank Withdrawal,No Internet Service,No
+4682-BLBUC,No,0.12602558045756093,0,Low,3678,4528.37,70.95,5,66,One Year,No Offer,Bank Withdrawal,DSL,Yes
+5451-YHYPW,No,0.040858035800729844,0,Low,6205,11795.78,115.75,3,50,Two Year,Offer A,Credit Card,Fiber Optic,Yes
+9050-QLROH,Yes,0.9201491562185411,1,Very High,2931,2111.87,90.7,1,89,Month-to-Month,No Offer,Credit Card,Fiber Optic,No
+3999-WRNGR,No,0.05580564151670487,0,Low,6307,3069.45,49.75,3,77,Month-to-Month,No Offer,Bank Withdrawal,Cable,No
+8610-WFCJF,Yes,0.9070852609885477,1,Very High,5732,7215.37,95.6,1,69,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+4959-JOSRX,Yes,0.9679504339359496,1,Very High,4884,140.93,44.6,2,91,Month-to-Month,Offer E,Credit Card,Cable,No
+8756-RDDLT,No,0.10949292911849859,0,Low,5750,3085.35,44.95,3,63,Month-to-Month,No Offer,Bank Withdrawal,Cable,Yes
+7109-MFBYV,No,0.11147661919909604,0,Low,5451,1988.97,45.45,3,68,Month-to-Month,Offer C,Bank Withdrawal,Cable,No
+8063-RJYNF,Yes,0.9156943527930198,1,Very High,2827,1950.29,94.25,1,73,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+5124-EOGYE,No,0.005676668541248055,0,Low,2598,1710.22,20.45,3,35,Two Year,No Offer,Credit Card,No Internet Service,No
+6518-PPLMZ,No,0.0018602818011626762,0,Low,4497,2452.31,19.4,3,73,Two Year,No Offer,Credit Card,No Internet Service,No
+8069-YQQAJ,No,0.07025396488939915,0,Low,3448,419.7,31.1,5,55,Month-to-Month,Offer D,Mailed Check,Cable,No
+3677-IYRBF,Yes,0.9950728729355863,1,Very High,4002,78.65,30.4,1,90,Month-to-Month,No Offer,Bank Withdrawal,DSL,No
+7515-LODFU,No,0.03502950600269574,0,Low,4042,2779.08,20.3,3,21,Two Year,No Offer,Credit Card,No Internet Service,No
+7909-FIOIY,No,0.02053028607829074,0,Low,2958,434.8,24.85,5,39,Month-to-Month,Offer D,Credit Card,Cable,No
+5339-TJFEK,No,0.023983157538867598,0,Low,4271,7551.7,105.5,4,56,Month-to-Month,Offer B,Bank Withdrawal,Fiber Optic,No
+8198-RKSZG,No,0.10113860971178068,0,Low,5772,1273.83,80.45,3,26,Month-to-Month,Offer D,Credit Card,DSL,Yes
+6674-KVJHG,No,0.11898023912234289,0,Low,4998,265.72,25.2,4,55,One Year,No Offer,Bank Withdrawal,No Internet Service,No
+7113-HIPFI,No,0.0023879086827293997,0,Low,5500,5873.11,65.85,3,53,Two Year,Offer A,Credit Card,Cable,Yes
+5656-JAMLX,No,0.009975405381874023,0,Low,4278,2132.19,19.85,5,45,Two Year,No Offer,Bank Withdrawal,No Internet Service,No
+3938-YFPXD,No,0.0358423348682829,0,Low,6012,8087.26,84.3,4,35,Two Year,Offer A,Credit Card,DSL,Yes
+7449-HVPIV,No,0.0,0,Low,4603,6339.95,90.4,5,44,Month-to-Month,Offer B,Credit Card,Fiber Optic,No
+6496-SLWHQ,Yes,0.955204986267539,1,Very High,5960,400.74,105.0,3,87,Month-to-Month,Offer E,Bank Withdrawal,Fiber Optic,No
+7989-VCQOH,No,0.06193945950852129,0,Low,2065,1796.37,83.25,3,43,Month-to-Month,No Offer,Bank Withdrawal,DSL,Yes
+8319-QBEHW,No,0.05125493057661732,0,Low,2715,1023.75,39.95,4,74,One Year,No Offer,Bank Withdrawal,Cable,No
+1866-ZSLJM,No,0.007681709661414401,0,Low,5654,1093.54,20.5,4,75,Month-to-Month,Offer D,Credit Card,No Internet Service,No
+4391-RESHN,Yes,0.871162566142494,1,Very High,5963,2844.54,104.05,1,93,Month-to-Month,Offer D,Credit Card,Fiber Optic,Yes
+3316-UWXUY,No,0.0642629986576869,0,Low,6367,6789.0,93.5,4,70,Month-to-Month,Offer B,Credit Card,Fiber Optic,Yes
+3521-SYVOR,Yes,0.8167311800396775,1,Very High,5554,2466.19,64.75,1,80,Month-to-Month,Offer C,Bank Withdrawal,Cable,No
+2788-CJQAQ,No,0.01984389796209709,0,Low,3799,560.23,19.45,5,37,One Year,Offer D,Mailed Check,No Internet Service,No
+4580-TMHJU,Yes,0.7770236769504412,1,High,2152,4101.05,56.15,2,65,Month-to-Month,No Offer,Bank Withdrawal,DSL,No
+8485-GJCDN,Yes,0.6496213748299485,1,High,3368,468.75,69.05,3,74,Month-to-Month,No Offer,Credit Card,Fiber Optic,No
+8679-JOEVF,Yes,0.8810263473308699,1,Very High,5556,1613.18,59.4,1,87,Month-to-Month,No Offer,Bank Withdrawal,DSL,Yes
+0898-XCGTF,No,0.2124381530375932,0,Low,5926,7013.26,96.5,5,49,One Year,No Offer,Bank Withdrawal,Fiber Optic,No
+7361-YPXFS,No,0.01800210022124341,0,Low,3820,2223.76,64.45,4,37,Two Year,No Offer,Bank Withdrawal,Cable,Yes
+3312-UUMZW,No,0.10896269995576266,0,Low,3981,4678.38,98.85,4,61,Month-to-Month,No Offer,Credit Card,Fiber Optic,No
+9415-DPEWS,Yes,0.4338089772011679,0,Moderate,5727,1867.36,88.35,3,96,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,Yes
+1213-NGCUN,Yes,0.8680404979408581,1,Very High,4248,560.69,49.65,2,88,Month-to-Month,Offer E,Bank Withdrawal,DSL,Yes
+3896-RCYYE,No,0.022797338884714875,0,Low,5990,3579.15,53.4,5,37,Month-to-Month,No Offer,Credit Card,DSL,Yes
+6234-PFPXL,No,0.11423503246826125,0,Low,3207,3018.59,95.9,3,56,Month-to-Month,No Offer,Credit Card,Fiber Optic,Yes
+6583-KQJLK,No,0.17316182389306112,0,Low,5868,1852.65,94.65,3,70,Two Year,Offer D,Bank Withdrawal,Fiber Optic,No
+1455-ESIQH,Yes,0.9966666666666667,1,Very High,2905,105.16,89.1,2,79,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+2996-XAUVF,No,0.03286533870705768,0,Low,5055,2799.75,40.05,5,57,Two Year,Offer A,Mailed Check,DSL,Yes
+4003-FUSHP,No,0.14310182722865256,0,Low,5831,1976.51,61.55,3,60,Month-to-Month,Offer D,Credit Card,Cable,Yes
+9259-PACGQ,Yes,0.7933727315212192,1,High,3918,3679.78,62.65,1,91,Month-to-Month,No Offer,Bank Withdrawal,Cable,Yes
+3062-ICYZQ,No,0.010891656870267023,0,Low,5457,5928.08,93.8,3,20,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+9013-AQORL,No,0.09952211457912469,0,Low,4106,2108.35,45.55,3,52,Month-to-Month,Offer B,Credit Card,DSL,No
+7611-YKYTC,No,0.0830117752883829,0,Low,4040,2427.99,75.0,3,48,Month-to-Month,Offer D,Bank Withdrawal,Fiber Optic,No
+6988-CJEYV,No,0.29224546053313416,0,Low,6148,7148.09,98.7,3,79,Month-to-Month,Offer B,Bank Withdrawal,Fiber Optic,No
+0587-DMGBH,Yes,0.13854141776523632,0,Low,2269,664.86,49.85,3,75,Month-to-Month,No Offer,Bank Withdrawal,Cable,No
+0308-GIQJT,No,0.14622906725401905,0,Low,4921,7815.95,105.75,4,54,One Year,No Offer,Bank Withdrawal,Fiber Optic,Yes
+4625-EWPTF,Yes,0.8385762158357906,1,Very High,4549,226.45,30.45,1,94,Month-to-Month,Offer E,Bank Withdrawal,Cable,No
+4818-QIUFN,Yes,0.9304706426545979,1,Very High,4997,1757.3,79.15,1,95,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+1421-HCERK,No,0.15885078276048936,0,Low,2455,4186.2,105.7,5,54,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,Yes
+6023-YEBUP,Yes,0.9601295644092331,1,Very High,5351,375.77,100.95,1,81,Month-to-Month,Offer E,Bank Withdrawal,Cable,No
+7973-DZRKH,No,0.018537039609119888,0,Low,6204,7717.99,90.95,3,74,Two Year,Offer A,Credit Card,Fiber Optic,Yes
+4501-VCPFK,No,0.04626558723791616,0,Low,2734,1022.5,35.75,5,65,Month-to-Month,Offer C,Bank Withdrawal,Cable,Yes
+2725-IWWBA,No,0.004804990527669734,0,Low,4258,4328.8,56.9,4,44,One Year,Offer B,Credit Card,DSL,Yes
+3612-YVGSJ,No,0.0018602818011626762,0,Low,4742,4024.6,24.45,5,77,Two Year,No Offer,Credit Card,No Internet Service,No
+1891-UAWWU,Yes,0.9430622915993602,1,Very High,2312,2046.4,90.8,1,87,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+5569-OUICF,Yes,0.6771248821804945,1,High,4994,3272.24,101.3,3,68,Month-to-Month,Offer C,Credit Card,Fiber Optic,Yes
+6621-YOBKI,No,0.03791570856333031,0,Low,2303,251.65,20.35,4,76,Month-to-Month,No Offer,Credit Card,No Internet Service,No
+0667-NSRGI,No,0.04396103492195726,0,Low,2478,4253.04,69.55,4,75,One Year,No Offer,Credit Card,DSL,Yes
+7156-MHUGY,Yes,0.8993699203308396,1,Very High,5394,1650.74,90.5,1,76,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+5044-XDPYX,No,0.004958058596796818,0,Low,5447,2325.22,25.5,5,43,Two Year,No Offer,Mailed Check,No Internet Service,No
+5693-PIPCS,No,0.06284870798761558,0,Low,2640,5107.59,99.65,5,66,Two Year,Offer B,Credit Card,Fiber Optic,Yes
+2636-OHFMN,Yes,0.8384619818944432,1,Very High,3955,201.0,48.55,2,90,Month-to-Month,No Offer,Bank Withdrawal,DSL,No
+9795-SHUHB,No,0.006611839037077578,0,Low,5313,5412.62,58.2,3,79,Two Year,No Offer,Credit Card,Cable,Yes
+1112-CUNAO,Yes,0.9425749184421791,1,Very High,2668,1489.15,89.85,2,91,Month-to-Month,Offer D,Bank Withdrawal,Fiber Optic,No
+8905-IAZPF,No,0.19037190372147886,0,Low,5251,9978.23,95.65,3,45,One Year,No Offer,Credit Card,Fiber Optic,No
+7916-VCCPB,No,0.07340804527757035,0,Low,3624,1836.23,73.25,3,22,Month-to-Month,Offer D,Bank Withdrawal,Fiber Optic,No
+9575-IWCAZ,No,0.02873020661946348,0,Low,5161,454.74,25.1,4,31,One Year,No Offer,Mailed Check,No Internet Service,No
+5846-ABOBJ,No,0.034005593868398146,0,Low,4766,4116.96,24.45,3,72,Two Year,No Offer,Bank Withdrawal,No Internet Service,No
+7410-KTVFV,Yes,0.8762437960886656,1,Very High,2815,1221.25,49.55,1,90,Month-to-Month,No Offer,Mailed Check,DSL,No
+5600-PDUJF,No,0.08904711686779601,0,Low,5552,473.26,49.5,5,75,Month-to-Month,No Offer,Credit Card,DSL,Yes
+2709-UQGNP,No,0.07731328186561488,0,Low,4292,1014.9,51.65,4,45,Month-to-Month,No Offer,Credit Card,Cable,No
+4389-UEFCZ,No,0.12582805226418975,0,Low,5551,9125.12,105.5,3,62,Two Year,No Offer,Bank Withdrawal,Fiber Optic,No
+8080-POTJR,No,0.0888045845242435,0,Low,2655,2629.3,79.3,3,78,One Year,Offer C,Credit Card,DSL,No
+2121-JAFOM,No,0.06320943075710884,0,Low,5076,8432.64,115.55,3,38,Two Year,No Offer,Credit Card,Fiber Optic,Yes
+6029-CSMJE,No,0.22870543728613896,0,Low,3090,440.2,25.65,3,24,Month-to-Month,No Offer,Mailed Check,Cable,No
+5985-TBABQ,No,0.044534292589994424,0,Low,2830,3353.35,74.75,4,66,One Year,Offer C,Credit Card,DSL,No
+2495-KZNFB,No,0.10262814442331979,0,Low,4460,3542.68,90.65,4,44,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+1196-AMORA,Yes,0.8524522972503595,1,Very High,2679,786.49,73.6,1,87,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+7971-HLVXI,No,0.027680239763869352,0,Low,6202,9298.85,84.5,5,50,Two Year,Offer A,Credit Card,Fiber Optic,No
+3410-MHHUM,No,0.005332617409236458,0,Low,5019,5422.59,94.4,5,73,One Year,Offer B,Bank Withdrawal,Fiber Optic,No
+8034-RYTVV,No,0.07744041452915593,0,Low,5735,7056.6,84.25,4,30,One Year,No Offer,Credit Card,Fiber Optic,No
+9702-AIUJO,No,0.019230460941845336,0,Low,6115,4025.13,44.8,5,44,One Year,No Offer,Bank Withdrawal,DSL,No
+4654-DLAMQ,No,0.050366704113752526,0,Low,4053,6671.54,97.0,3,68,One Year,No Offer,Bank Withdrawal,Fiber Optic,No
+6950-TWMYB,No,0.03758770820698251,0,Low,4387,6883.85,79.95,3,48,Two Year,Offer B,Bank Withdrawal,Fiber Optic,Yes
+4822-RVYBB,Yes,0.9736874671293767,1,Very High,5906,1143.0,100.6,1,90,Month-to-Month,Offer E,Bank Withdrawal,Fiber Optic,No
+1157-BQCUW,Yes,0.9966666666666667,1,Very High,2591,105.02,74.95,1,82,Month-to-Month,Offer E,Bank Withdrawal,Fiber Optic,No
+2108-XWMPY,Yes,0.9343224642869227,1,Very High,2095,106.85,35.45,1,70,Month-to-Month,No Offer,Credit Card,DSL,No
+4353-HYOJD,No,0.010751260257692317,0,Low,5580,1857.79,49.85,3,75,Month-to-Month,Offer C,Credit Card,DSL,No
+8800-JOOCF,No,0.23389350556620153,0,Low,4621,1180.75,84.05,4,77,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+1763-KUAAW,No,0.03947246624285223,0,Low,4713,1045.14,20.35,4,30,One Year,Offer D,Bank Withdrawal,No Internet Service,No
+5012-YSPJJ,No,0.015282727726172245,0,Low,3615,2423.24,54.35,3,41,Month-to-Month,No Offer,Credit Card,DSL,Yes
+5716-EZXZN,No,0.030869559790089963,0,Low,5878,7274.7,99.05,3,59,Two Year,No Offer,Credit Card,Fiber Optic,Yes
+7619-PLRLP,No,0.038900927320383735,0,Low,5136,5802.37,74.1,4,37,One Year,Offer B,Bank Withdrawal,Cable,No
+5366-IJEQJ,Yes,0.860222751812211,1,Very High,4115,1872.25,88.7,1,86,Month-to-Month,Offer D,Bank Withdrawal,Fiber Optic,No
+9444-JTXHZ,Yes,0.9692035083836097,1,Very High,5973,161.35,76.2,3,83,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+6769-DYBQN,Yes,0.856710316554648,1,Very High,2097,5661.28,85.0,1,71,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+6559-RAKOZ,No,0.011999284075903125,0,Low,4301,5702.88,97.95,3,53,One Year,Offer B,Bank Withdrawal,Fiber Optic,Yes
+4092-OFQZS,No,0.020381425018758365,0,Low,4147,1346.9,20.65,3,40,One Year,Offer D,Credit Card,No Internet Service,No
+0927-LCSMG,Yes,0.45270430643026904,0,Moderate,3331,705.61,74.65,3,75,Month-to-Month,Offer E,Mailed Check,Fiber Optic,No
+2305-MRGLV,No,0.19170276240434245,0,Low,2085,2678.88,76.55,3,71,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,Yes
+7665-VIGUD,No,0.006732056422493664,0,Low,4745,350.3,20.35,5,38,One Year,No Offer,Credit Card,No Internet Service,No
+3948-KXDUF,No,0.011469857285232228,0,Low,5454,5801.87,68.75,4,60,Two Year,No Offer,Bank Withdrawal,Cable,Yes
+3629-ZNKXA,No,0.03854727289790749,0,Low,3296,2108.72,101.8,4,53,Two Year,No Offer,Bank Withdrawal,Fiber Optic,No
+2115-BFTIW,Yes,0.8379833180351035,1,Very High,4881,2410.1,70.95,1,75,Month-to-Month,No Offer,Credit Card,Fiber Optic,No
+5429-LWCMV,No,0.10329327751260585,0,Low,4041,1544.31,89.15,5,80,Month-to-Month,Offer D,Bank Withdrawal,Fiber Optic,No
+8467-WYNSR,No,0.07500017796726717,0,Low,2729,2069.57,55.1,3,62,Month-to-Month,No Offer,Mailed Check,DSL,Yes
+9391-DXGGG,No,0.05742602884701084,0,Low,4368,5547.91,89.15,4,27,One Year,Offer B,Credit Card,Fiber Optic,No
+7203-OYKCT,No,0.11241473787317756,0,Low,5760,9961.84,104.95,5,20,One Year,No Offer,Bank Withdrawal,Fiber Optic,No
+7021-XSNYE,No,0.022795144985074713,0,Low,2750,305.55,49.65,3,60,Two Year,No Offer,Credit Card,DSL,Yes
+4816-JBHOV,Yes,0.9996997811113121,1,Very High,4618,176.56,44.7,1,91,Month-to-Month,Offer E,Bank Withdrawal,Cable,No
+5651-WYIPH,No,0.12376924115791359,0,Low,3283,1606.09,49.85,3,71,One Year,No Offer,Credit Card,Cable,No
+9693-XMUOB,No,0.1971307067160844,0,Low,5546,2997.45,50.25,4,27,Month-to-Month,No Offer,Bank Withdrawal,Cable,No
+4195-PNGZS,No,0.005348810254685998,0,Low,5295,4001.41,24.45,5,39,Two Year,No Offer,Bank Withdrawal,No Internet Service,No
+2729-VNVAP,No,0.0023879086827293997,0,Low,2635,1054.18,19.8,4,42,Two Year,No Offer,Credit Card,No Internet Service,No
+4487-ZYJZK,No,0.00786314506124433,0,Low,4623,2158.46,19.6,3,53,One Year,No Offer,Credit Card,No Internet Service,No
+6598-RFFVI,Yes,0.6486857171469224,1,High,2279,59.88,19.3,3,94,One Year,No Offer,Credit Card,No Internet Service,No
+4080-IIARD,No,0.18311750236710195,0,Low,2569,1134.72,76.2,5,41,Month-to-Month,Offer D,Bank Withdrawal,DSL,Yes
+8745-PVESG,No,0.012606672337921006,0,Low,5281,2258.25,41.1,4,41,One Year,No Offer,Credit Card,DSL,Yes
+6633-MPWBS,Yes,0.9206088114000994,1,Very High,4336,253.45,49.2,1,73,Month-to-Month,Offer E,Bank Withdrawal,DSL,Yes
+5954-BDFSG,No,0.13314551548990353,0,Low,4708,8595.54,107.5,3,53,Two Year,No Offer,Credit Card,Fiber Optic,Yes
+3524-WQDSG,No,0.045282788198485156,0,Low,3280,4435.7,99.3,3,73,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+2294-SALNE,No,0.05478213318312244,0,Low,3200,2413.29,86.8,4,54,One Year,Offer D,Credit Card,Fiber Optic,Yes
+7207-RMRDB,Yes,0.782052293629679,1,High,5720,9204.75,105.5,1,89,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+3537-RYBHH,No,0.07964746996170416,0,Low,4074,5450.19,67.45,3,67,Two Year,No Offer,Credit Card,DSL,No
+8932-CZHRQ,No,0.0450786939099483,0,Low,5395,6612.97,76.75,4,33,One Year,Offer A,Credit Card,DSL,No
+4342-HFXWS,No,0.010200480210575246,0,Low,3442,5167.33,69.7,3,50,One Year,Offer B,Bank Withdrawal,DSL,Yes
+7325-ENZFI,No,0.0042481904838920755,0,Low,3424,1630.4,40.3,3,77,One Year,No Offer,Bank Withdrawal,DSL,Yes
+6235-VDHOM,Yes,0.9069240941437251,1,Very High,4099,131.05,28.45,2,89,Month-to-Month,Offer E,Bank Withdrawal,DSL,No
+2143-LJULT,No,0.01867862219912217,0,Low,5887,4100.93,25.25,5,32,Two Year,No Offer,Credit Card,No Internet Service,No
+6288-CHQJB,No,0.012020684447090672,0,Low,5077,5393.03,69.95,4,57,Two Year,Offer B,Bank Withdrawal,DSL,Yes
+3170-GWYKC,No,0.07646450456647068,0,Low,5926,7609.55,104.95,4,62,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,Yes
+6285-FTQBF,No,0.0018602818011626762,0,Low,6425,4518.74,25.55,4,40,Two Year,Offer A,Credit Card,No Internet Service,No
+5787-KXGIY,No,0.02822044362032336,0,Low,4035,1492.72,19.3,3,42,Two Year,No Offer,Credit Card,No Internet Service,No
+1095-WGNGG,No,0.10707723978942257,0,Low,6311,7038.14,101.05,4,60,Two Year,No Offer,Bank Withdrawal,Fiber Optic,No
+2758-RNWXS,No,0.049656331058894436,0,Low,4446,4987.65,89.2,4,39,One Year,Offer C,Bank Withdrawal,Fiber Optic,Yes
+2080-CAZNM,No,0.26424897197320873,0,Low,4477,4393.48,104.4,5,61,Month-to-Month,Offer B,Bank Withdrawal,Fiber Optic,No
+0568-ONFPC,Yes,0.6577247914872018,1,High,2102,335.25,25.9,1,83,Month-to-Month,Offer E,Bank Withdrawal,No Internet Service,No
+3588-WSTTJ,No,0.2427758207215273,0,Low,3484,4662.0,99.05,4,63,Month-to-Month,Offer C,Bank Withdrawal,Fiber Optic,No
+2242-MFOTG,No,0.0478526798249091,0,Low,3957,3451.73,80.1,4,54,One Year,No Offer,Bank Withdrawal,Fiber Optic,No
+9103-TCIHJ,Yes,0.8276477004919919,1,Very High,4519,1509.7,55.7,2,73,Month-to-Month,Offer D,Mailed Check,DSL,No
+2338-BQEZT,No,0.06059226395381066,0,Low,6250,3031.85,50.55,3,44,Month-to-Month,Offer B,Credit Card,DSL,No
+8311-UEUAB,No,0.023367377097204052,0,Low,5420,5320.57,75.5,3,69,Two Year,Offer A,Bank Withdrawal,DSL,No
+2038-LLMLM,No,0.08102360919692662,0,Low,4304,5450.05,103.85,5,78,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,Yes
+3451-VAWLI,No,0.0034049613748113557,0,Low,5636,1269.75,19.7,4,43,Two Year,No Offer,Credit Card,No Internet Service,No
+8869-LIHMK,No,0.06143979889817351,0,Low,5213,10169.89,115.1,3,78,Two Year,No Offer,Bank Withdrawal,Fiber Optic,Yes
+0578-SKVMF,Yes,0.7797446372142643,1,High,3804,1934.12,83.3,1,88,Month-to-Month,No Offer,Bank Withdrawal,Cable,No
+9541-ZPSEA,No,0.00517041485420429,0,Low,5954,7012.59,80.35,3,33,Two Year,Offer A,Credit Card,Fiber Optic,No
+2507-QZPQS,No,0.13691521352809805,0,Low,4999,1600.65,95.7,5,23,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,Yes
+7601-DHFWZ,No,0.047925935752909155,0,Low,3948,2662.41,24.0,3,66,Two Year,Offer B,Credit Card,No Internet Service,No
+9385-EHGDO,No,0.0023879086827293997,0,Low,4177,1053.46,19.85,3,46,Two Year,No Offer,Credit Card,No Internet Service,No
+2332-TODQS,No,0.016544726410259437,0,Low,3642,2833.2,25.05,4,33,One Year,Offer B,Credit Card,No Internet Service,No
+2460-FPSYH,Yes,0.9101712004337903,1,Very High,4272,2189.35,55.8,1,90,Month-to-Month,No Offer,Bank Withdrawal,Cable,No
+7629-WFGLW,No,0.07853104963109837,0,Low,6335,6096.84,95.65,3,20,One Year,Offer B,Bank Withdrawal,Fiber Optic,Yes
+6131-FOYAS,No,0.10130097541039511,0,Low,2187,2816.25,59.6,3,27,Month-to-Month,No Offer,Bank Withdrawal,DSL,No
+8401-EMUWF,No,0.024506273156028876,0,Low,4701,3758.44,69.4,3,36,Month-to-Month,Offer B,Bank Withdrawal,Cable,No
+3428-XZMAZ,Yes,0.9986659507425698,1,Very High,5796,115.21,69.35,2,91,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+1301-LOPVR,No,0.012489055749526365,0,Low,5138,1636.95,55.35,3,70,One Year,No Offer,Credit Card,DSL,Yes
+6620-JDYNW,No,0.09124894088916441,0,Low,4459,1353.81,60.6,3,74,Month-to-Month,Offer D,Credit Card,DSL,No
+8053-WWDRO,Yes,0.3095621162193446,0,Moderate,5579,336.5,19.5,3,67,Month-to-Month,No Offer,Bank Withdrawal,No Internet Service,No
+5774-QPLTF,No,0.0,0,Low,6391,2287.95,20.35,5,71,One Year,No Offer,Credit Card,No Internet Service,No
+9317-WZPGV,Yes,0.9755450907825972,1,Very High,4038,248.66,79.75,3,77,Month-to-Month,Offer E,Bank Withdrawal,Fiber Optic,No
+5887-IKKYO,No,0.014589020192300654,0,Low,4777,5854.23,94.35,4,49,Two Year,Offer B,Bank Withdrawal,Fiber Optic,Yes
+5245-VDBUR,No,0.016541983880730478,0,Low,5509,1958.95,35.45,4,47,One Year,No Offer,Credit Card,DSL,No
+0327-WFZSY,No,0.02054028495909163,0,Low,5434,4509.86,100.0,3,64,One Year,Offer C,Bank Withdrawal,Fiber Optic,No
+9972-VAFJJ,No,0.231930614317779,0,Low,6355,7396.37,94.0,3,73,One Year,No Offer,Bank Withdrawal,Fiber Optic,Yes
+6119-SPUDB,No,0.010922921999156954,0,Low,2653,1755.35,38.25,3,73,Two Year,Offer B,Credit Card,DSL,Yes
+3115-CZMZD,No,0.007147373392607045,0,Low,5504,334.1,20.25,4,68,Two Year,No Offer,Credit Card,No Internet Service,No
+9909-IDLEK,No,0.021411916532080272,0,Low,3222,2667.9,96.8,4,26,Month-to-Month,Offer D,Credit Card,Fiber Optic,Yes
+0536-ACXIP,No,0.04982857867888154,0,Low,6452,11347.5,109.55,3,53,Two Year,No Offer,Bank Withdrawal,Fiber Optic,No
+6242-FEGFD,No,0.014569711787792107,0,Low,4454,8836.55,96.6,3,69,Two Year,No Offer,Credit Card,Fiber Optic,Yes
+8999-XXGNS,No,0.032363516077780305,0,Low,5832,9016.65,105.75,5,53,One Year,Offer A,Credit Card,Fiber Optic,No
+9110-HSGTV,No,0.02642581053632258,0,Low,4631,7315.29,82.45,3,80,Two Year,Offer A,Credit Card,DSL,Yes
+6502-MJQAE,Yes,0.9996113753931737,1,Very High,2072,115.81,69.6,1,87,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+0601-WZHJF,Yes,0.353694529787201,0,Moderate,5360,667.7,46.35,3,76,Month-to-Month,Offer D,Bank Withdrawal,DSL,No
+8808-ELEHO,Yes,0.9769742838349553,1,Very High,3812,626.11,81.25,1,72,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+2808-CHTDM,No,0.0018602818011626762,0,Low,2267,1436.23,25.1,5,67,Two Year,No Offer,Mailed Check,No Internet Service,No
+7855-DIWPO,No,0.08462762455438896,0,Low,2006,2135.59,68.65,5,21,Month-to-Month,Offer D,Bank Withdrawal,Fiber Optic,No
+1293-BSEUN,No,0.0,0,Low,4528,1979.1,20.7,5,40,Two Year,No Offer,Credit Card,No Internet Service,No
+0743-HNPFG,No,0.02458826230585355,0,Low,5628,4477.95,69.75,3,50,One Year,No Offer,Credit Card,DSL,Yes
+0807-ZABDG,Yes,0.9487398771097344,1,Very High,4412,232.77,55.1,1,90,Month-to-Month,Offer E,Mailed Check,Cable,Yes
+5889-LFOLL,Yes,0.9701276956147635,1,Very High,2659,1582.68,84.6,1,77,Month-to-Month,Offer D,Bank Withdrawal,Fiber Optic,No
+9805-FILKB,No,0.060181118591666485,0,Low,2325,1062.72,20.2,3,68,One Year,No Offer,Bank Withdrawal,No Internet Service,No
+7576-OYWBN,Yes,0.9994491728381415,1,Very High,2930,322.55,76.05,1,67,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+5447-VYTKW,No,0.105452949382819,0,Low,2191,1868.88,53.45,3,75,Month-to-Month,No Offer,Credit Card,Cable,Yes
+0306-JAELE,Yes,0.9393646676633093,1,Very High,4192,608.85,96.1,1,66,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,Yes
+3566-CAAYU,No,0.016244437462070754,0,Low,5644,3210.35,49.85,5,56,Two Year,Offer B,Bank Withdrawal,DSL,Yes
+9142-XMYJH,No,0.02479105453072434,0,Low,5227,681.64,19.35,5,49,Month-to-Month,No Offer,Credit Card,No Internet Service,No
+0946-CLJTI,Yes,0.9369461737341724,1,Very High,4662,5997.04,98.7,1,91,Month-to-Month,Offer B,Bank Withdrawal,Fiber Optic,No
+5018-LXQQG,No,0.06714020438957112,0,Low,4631,2417.9,66.3,3,80,Month-to-Month,Offer C,Bank Withdrawal,DSL,Yes
+5022-JNQEQ,No,0.07302467261199015,0,Low,4843,720.4,75.85,5,51,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,Yes
+0266-CLZKZ,No,0.007418157804476226,0,Low,6383,7909.83,105.65,5,59,Two Year,Offer A,Bank Withdrawal,Fiber Optic,Yes
+9274-CNFMO,Yes,0.9671569709160924,1,Very High,3716,421.14,74.95,2,69,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+1139-WUOAH,No,0.040840588786417324,0,Low,5461,3190.05,53.35,4,42,Two Year,No Offer,Credit Card,DSL,Yes
+5939-XAIXZ,No,0.11664763000522296,0,Low,3367,1734.62,56.1,3,27,Month-to-Month,Offer D,Credit Card,DSL,No
+5940-NFXKV,Yes,0.9468905201586134,1,Very High,3427,1863.46,83.65,2,88,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+5669-SRAIP,Yes,0.870391957448136,1,Very High,2863,171.48,39.5,2,93,Month-to-Month,Offer E,Bank Withdrawal,DSL,No
+8120-JDCAM,No,0.16044338849728154,0,Low,3708,433.82,69.55,4,44,Month-to-Month,No Offer,Credit Card,Fiber Optic,No
+6857-TKDJV,No,0.0,0,Low,4444,2585.92,24.65,5,62,Two Year,No Offer,Bank Withdrawal,No Internet Service,No
+1323-OOEPC,Yes,0.8839221021140609,1,Very High,6481,7361.72,98.4,2,87,Month-to-Month,No Offer,Credit Card,Fiber Optic,No
+1208-DNHLN,Yes,0.774352738907348,1,High,4580,1200.55,48.35,2,83,One Year,No Offer,Credit Card,DSL,No
+7683-CBDKJ,Yes,0.6959919120215318,1,High,2881,1576.0,65.45,1,90,Month-to-Month,No Offer,Bank Withdrawal,Cable,No
+5553-AOINX,No,0.0042481904838920755,0,Low,4892,9490.53,104.9,4,48,One Year,No Offer,Bank Withdrawal,Fiber Optic,No
+3349-ANQNH,No,0.09734911293414834,0,Low,5513,7321.93,99.5,5,50,One Year,No Offer,Bank Withdrawal,Fiber Optic,No
+0458-HEUZG,No,0.06194719204818979,0,Low,3239,550.4,35.4,3,69,Two Year,Offer D,Credit Card,Cable,Yes
+6171-ZTVYB,No,0.14940098436239746,0,Low,2168,4023.24,66.25,3,29,Month-to-Month,No Offer,Bank Withdrawal,DSL,Yes
+0620-DLSLK,No,0.4771211799487429,0,Moderate,2054,1473.24,81.9,3,71,Month-to-Month,No Offer,Credit Card,Fiber Optic,No
+0708-SJDIS,No,0.07502388768203522,0,Low,5567,3697.02,65.0,5,55,Month-to-Month,Offer C,Credit Card,Cable,Yes
+7134-HBPBS,No,0.05904213938708376,0,Low,4474,9708.69,108.1,5,71,Two Year,Offer A,Bank Withdrawal,Fiber Optic,Yes
+7354-OIJLX,No,0.10220524144511953,0,Low,5212,790.53,75.85,5,70,Month-to-Month,Offer E,Bank Withdrawal,Fiber Optic,No
+9474-PHLYD,Yes,0.8032508508746624,1,Very High,5129,1437.75,59.45,1,68,Month-to-Month,Offer D,Bank Withdrawal,DSL,No
+2192-CKRLV,No,0.09022876130103706,0,Low,4700,3580.95,49.2,3,33,Two Year,Offer A,Bank Withdrawal,DSL,No
+4312-GVYNH,No,0.0345058199028997,0,Low,5460,3370.2,49.85,3,26,Two Year,No Offer,Bank Withdrawal,Cable,Yes
+6502-HCJTI,Yes,0.9449542623691004,1,Very High,3591,741.0,94.7,1,75,Month-to-Month,No Offer,Credit Card,Fiber Optic,No
+2828-SLQPF,No,0.12062580025211268,0,Low,4519,1404.18,45.0,3,62,Month-to-Month,No Offer,Bank Withdrawal,DSL,No
+6424-ELEYH,Yes,0.9912926383897551,1,Very High,3972,335.04,74.75,1,65,Month-to-Month,Offer E,Credit Card,Fiber Optic,No
+1682-VCOIO,No,0.005103447670726804,0,Low,3434,1543.01,20.45,5,43,One Year,Offer D,Credit Card,No Internet Service,No
+9524-EGPJC,Yes,0.8961070062900429,1,Very High,4260,2180.27,90.1,1,80,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,Yes
+7133-VBDCG,Yes,0.8955582642031301,1,Very High,4535,2685.6,79.85,2,91,Month-to-Month,Offer C,Bank Withdrawal,Fiber Optic,No
+6305-YLBMM,Yes,0.37584038039967027,0,Moderate,4254,7435.88,104.05,3,91,One Year,No Offer,Bank Withdrawal,Fiber Optic,Yes
+5447-WZAFP,No,0.1571906906619217,0,Low,5377,5642.29,100.3,4,71,One Year,Offer B,Mailed Check,Fiber Optic,No
+7594-RQHXR,Yes,1.0,1,Very High,3108,101.32,79.6,2,94,Month-to-Month,Offer E,Bank Withdrawal,Fiber Optic,No
+8468-FZTOE,No,0.0023879086827293997,0,Low,4874,6526.52,74.35,4,78,Two Year,Offer A,Bank Withdrawal,Cable,Yes
+5440-FLBQG,Yes,0.24042425671156115,0,Low,4708,10690.92,108.4,3,73,Two Year,Offer A,Bank Withdrawal,Fiber Optic,Yes
+2484-DGXPZ,Yes,0.1330876033688394,0,Low,2687,1591.12,19.55,3,67,Month-to-Month,No Offer,Credit Card,No Internet Service,No
+8708-XPXHZ,Yes,0.9540207291085051,1,Very High,5458,4473.58,94.2,1,95,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+1227-UDMZR,No,0.007720526091965857,0,Low,4311,6850.3,91.15,4,33,Two Year,No Offer,Bank Withdrawal,Cable,Yes
+6603-YRDCJ,No,0.035988997769021654,0,Low,3215,2542.77,61.05,3,21,Two Year,Offer C,Credit Card,DSL,Yes
+5223-UZAVK,No,0.09067802925106641,0,Low,4986,7240.6,100.3,5,77,One Year,Offer B,Credit Card,Fiber Optic,No
+2657-VPXTA,No,0.06521913706200139,0,Low,4531,1257.05,88.85,4,54,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+7517-SAWMO,Yes,0.9012886719961906,1,Very High,4718,1930.35,73.2,2,90,Month-to-Month,Offer D,Bank Withdrawal,Fiber Optic,No
+4459-BBGHE,No,0.08031381085909556,0,Low,5833,1307.8,44.5,4,58,Month-to-Month,Offer C,Bank Withdrawal,DSL,No
+6961-MJKBO,No,0.0042481904838920755,0,Low,4342,1253.67,20.45,4,72,Two Year,No Offer,Bank Withdrawal,No Internet Service,No
+2642-MAWLJ,No,0.0042481904838920755,0,Low,5272,2248.31,20.25,5,57,Two Year,Offer C,Bank Withdrawal,No Internet Service,No
+7825-ECJRF,Yes,0.6945639099604377,1,High,3764,2491.38,106.6,1,71,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,Yes
+2568-BRGYX,Yes,0.9626680929580105,1,Very High,5094,290.03,70.2,1,92,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+1852-XEMDW,No,0.059497936421748145,0,Low,4709,2400.71,65.05,4,30,Month-to-Month,Offer D,Credit Card,DSL,No
+0562-HKHML,No,0.0,0,Low,5574,2974.69,23.9,4,71,Two Year,Offer A,Credit Card,No Internet Service,No
+7596-LDUXP,No,0.05099803213214713,0,Low,2452,1170.69,85.15,4,52,One Year,Offer D,Credit Card,Fiber Optic,No
+9206-GVPEQ,Yes,0.8790526469382804,1,Very High,5212,706.85,54.45,1,88,Month-to-Month,No Offer,Bank Withdrawal,Cable,Yes
+4302-ZYFEL,No,0.004623479568129015,0,Low,5366,3227.46,20.55,4,32,One Year,Offer A,Credit Card,No Internet Service,No
+9399-APLBT,Yes,0.9884960897909351,1,Very High,5980,96.61,74.7,1,80,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+7817-BOQPW,Yes,0.9961158395048081,1,Very High,4320,249.04,75.55,2,77,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+0564-MUUQK,No,0.0827922364142515,0,Low,3186,2690.4,95.5,3,73,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,Yes
+6311-UEUME,Yes,0.8904173963870778,1,Very High,3249,3669.72,78.9,2,90,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+0744-GKNGE,No,0.04729617553098167,0,Low,4915,7102.61,86.8,3,70,Month-to-Month,Offer B,Bank Withdrawal,Fiber Optic,Yes
+8727-JQFHV,No,0.00278250617147489,0,Low,4937,2812.63,20.75,3,68,Two Year,No Offer,Credit Card,No Internet Service,No
+4525-VZCZG,No,0.04592546364871471,0,Low,5915,6966.87,105.85,4,35,One Year,No Offer,Bank Withdrawal,Fiber Optic,Yes
+3174-AKMAS,No,0.0638325217206076,0,Low,4699,4712.42,64.2,4,41,Two Year,No Offer,Credit Card,DSL,Yes
+2320-JRSDE,Yes,0.8997867728793585,1,Very High,4633,27.39,19.9,3,73,Month-to-Month,No Offer,Bank Withdrawal,No Internet Service,No
+2959-EEXWB,No,0.028910984489882937,0,Low,3937,2333.85,50.9,3,64,Month-to-Month,Offer B,Bank Withdrawal,DSL,No
+2296-DKZFP,No,0.050503436621819366,0,Low,6308,4470.05,71.0,4,32,Two Year,Offer B,Bank Withdrawal,DSL,No
+3774-VBNXY,No,0.02893867318514888,0,Low,4557,3597.11,20.2,5,51,Two Year,No Offer,Credit Card,No Internet Service,No
+4933-BSAIP,No,0.0890353226177128,0,Low,2056,1989.3,19.1,3,59,Two Year,No Offer,Credit Card,No Internet Service,No
+9210-IAHGH,Yes,0.8606431581783748,1,Very High,2248,614.25,70.75,1,84,Month-to-Month,Offer E,Credit Card,DSL,Yes
+4317-VTEOA,Yes,1.0,1,Very High,5355,93.78,50.75,2,93,Month-to-Month,Offer E,Bank Withdrawal,DSL,No
+2091-MJTFX,Yes,0.12388760729561561,0,Low,4568,1561.5,51.2,3,79,Month-to-Month,No Offer,Credit Card,DSL,Yes
+6584-VQMYT,No,0.029341487451186428,0,Low,5978,1668.56,56.2,4,42,One Year,Offer C,Credit Card,DSL,No
+9067-SQTNS,No,0.008199801796837864,0,Low,2471,2463.36,20.6,5,44,One Year,No Offer,Bank Withdrawal,No Internet Service,No
+1813-JYWTO,No,0.033944775373395956,0,Low,4202,6316.16,80.45,4,62,Two Year,No Offer,Bank Withdrawal,Fiber Optic,No
+4703-MQYKT,No,0.0027473630561450136,0,Low,4562,743.41,19.6,4,22,Two Year,No Offer,Mailed Check,No Internet Service,No
+0442-ZXKVS,No,0.11585208448695689,0,Low,4337,8791.39,115.6,3,45,One Year,Offer B,Bank Withdrawal,Fiber Optic,Yes
+6967-QIQRV,No,0.06085884688146517,0,Low,3707,1819.05,101.9,3,28,One Year,No Offer,Bank Withdrawal,Fiber Optic,Yes
+7140-ADSMJ,No,0.16677184096218958,0,Low,5624,443.98,20.45,3,24,Month-to-Month,Offer E,Credit Card,No Internet Service,No
+7625-XCQRH,Yes,0.561319095830095,1,Moderate,2291,1009.55,76.5,3,76,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+2150-UWTFY,Yes,0.6797270165424515,1,High,4626,2447.61,61.15,1,87,Month-to-Month,Offer D,Credit Card,DSL,No
+1376-HHBDV,No,0.04833404069071257,0,Low,4864,1858.95,48.8,3,71,Month-to-Month,Offer C,Credit Card,DSL,No
+6394-MFYNG,Yes,0.9255254565367197,1,Very High,4956,5370.42,107.4,2,89,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+3810-DVDQQ,No,0.016201525367844017,0,Low,6173,11688.9,117.6,3,54,Two Year,No Offer,Bank Withdrawal,Fiber Optic,Yes
+3315-IKYZQ,No,0.012048812094856571,0,Low,3240,1386.8,50.8,4,45,One Year,Offer C,Credit Card,DSL,Yes
+4178-EGMON,No,0.005771815549461216,0,Low,4867,6636.05,88.0,3,48,Two Year,No Offer,Credit Card,Fiber Optic,Yes
+1982-FEBTD,No,0.02325176054008137,0,Low,5939,1102.17,25.6,5,78,Two Year,No Offer,Credit Card,No Internet Service,No
+4745-LSPLO,Yes,0.9922201384998443,1,Very High,3731,40.35,20.5,2,84,Month-to-Month,No Offer,Credit Card,No Internet Service,No
+6870-ZWMNX,No,0.042606583297838625,0,Low,5115,7710.15,76.1,4,67,Two Year,Offer A,Credit Card,DSL,Yes
+3963-RYFNS,No,0.06266826252214101,0,Low,5567,11596.99,116.45,4,20,Two Year,Offer A,Bank Withdrawal,Fiber Optic,Yes
+0369-ZGOVK,No,0.020497059381521535,0,Low,5195,2354.52,70.4,3,54,One Year,Offer C,Bank Withdrawal,Fiber Optic,No
+3389-YGYAI,Yes,0.8973151952026829,1,Very High,5546,1190.83,105.5,3,72,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+0014-BMAQU,No,0.022165557068691395,0,Low,4604,6214.28,84.65,4,49,Two Year,Offer B,Credit Card,Fiber Optic,Yes
+5458-CQJTA,Yes,0.6359416592819866,1,High,5207,7450.7,74.8,1,89,Two Year,Offer B,Bank Withdrawal,DSL,Yes
+8205-OTCHB,Yes,0.16593765172224947,0,Low,3099,903.6,43.75,3,66,One Year,Offer D,Bank Withdrawal,DSL,No
+3474-BAFSJ,No,0.10583875743928645,0,Low,4133,3415.95,57.5,4,75,Two Year,No Offer,Bank Withdrawal,DSL,Yes
+9625-RZFUK,No,0.00795292102567918,0,Low,4235,1505.8,19.7,5,63,Two Year,No Offer,Credit Card,No Internet Service,No
+8715-KKTFG,No,0.02399489429530799,0,Low,5401,7618.18,103.3,5,27,One Year,Offer B,Bank Withdrawal,Fiber Optic,Yes
+8414-OOEEL,No,0.009441805618388087,0,Low,4285,6019.78,79.5,4,66,Two Year,Offer A,Credit Card,DSL,Yes
+1240-HCBOH,No,0.046541689020289295,0,Low,6466,4660.65,26.1,3,42,Two Year,No Offer,Credit Card,No Internet Service,No
+3537-HPKQT,No,0.2505553855788349,0,Low,4621,5556.15,77.75,3,46,Month-to-Month,No Offer,Credit Card,Fiber Optic,No
+4079-ULGFR,No,0.14233134457436405,0,Low,3705,341.78,20.0,3,75,Month-to-Month,Offer D,Credit Card,No Internet Service,No
+6893-ODYYE,No,0.054000320296039475,0,Low,6435,5317.95,90.1,3,25,One Year,No Offer,Credit Card,Fiber Optic,Yes
+9804-ICWBG,Yes,1.0,1,Very High,3349,115.4,69.9,2,88,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+1875-QIVME,Yes,0.6876246006647119,1,High,4690,220.38,104.4,3,83,Month-to-Month,Offer E,Bank Withdrawal,Fiber Optic,Yes
+4465-VDKIQ,No,0.09990410354466085,0,Low,4228,1687.58,77.8,5,42,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+6199-IWKGC,No,0.029214391921476762,0,Low,5453,5741.01,100.25,5,59,One Year,No Offer,Bank Withdrawal,Fiber Optic,Yes
+9903-LYSAB,No,0.11134575398196522,0,Low,4283,1607.99,73.15,4,73,Month-to-Month,Offer D,Bank Withdrawal,Fiber Optic,No
+1042-HFUCW,No,0.012802512204828182,0,Low,5136,2248.09,54.75,5,50,One Year,Offer C,Credit Card,DSL,Yes
+4198-VFOEA,No,0.08110793506348996,0,Low,2990,435.45,33.6,3,30,One Year,No Offer,Mailed Check,DSL,Yes
+6038-GCYEC,Yes,0.8234025174859219,1,Very High,5153,1240.25,54.15,1,95,Month-to-Month,Offer C,Credit Card,DSL,No
+4929-ROART,No,0.10535648986167713,0,Low,2277,1608.25,56.25,4,47,Month-to-Month,No Offer,Credit Card,Cable,No
+1996-DBMUS,No,0.07831164759679513,0,Low,5523,4149.85,70.65,3,71,One Year,No Offer,Bank Withdrawal,Fiber Optic,No
+1371-WEPDS,No,0.09430453178614392,0,Low,3587,3475.7,55.8,3,78,One Year,No Offer,Bank Withdrawal,DSL,No
+1976-AZZPJ,No,0.12028382672507634,0,Low,5100,256.6,34.2,4,32,Month-to-Month,Offer E,Credit Card,DSL,No
+5766-XQXMQ,Yes,0.8007395119349195,1,Very High,5449,2000.08,68.85,1,79,Month-to-Month,No Offer,Bank Withdrawal,DSL,No
+7061-OVMIM,No,0.06878103891845279,0,Low,5203,1242.7,19.55,3,50,One Year,No Offer,Bank Withdrawal,No Internet Service,No
+6506-EYCNH,No,0.015899133213889048,0,Low,3948,987.6,19.55,4,41,Month-to-Month,No Offer,Bank Withdrawal,No Internet Service,No
+5569-KGJHX,Yes,0.7842238036607372,1,High,2445,932.54,85.35,3,95,Month-to-Month,Offer E,Bank Withdrawal,Fiber Optic,No
+5318-YKDPV,No,0.02693900343114241,0,Low,3716,5333.04,79.15,3,63,Two Year,No Offer,Credit Card,DSL,Yes
+1867-TJHTS,No,0.0518078983179723,0,Low,5709,5844.03,79.8,4,78,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+9578-VRMNM,Yes,0.8435901976049779,1,Very High,4722,1802.55,65.2,1,73,Month-to-Month,No Offer,Credit Card,DSL,No
+4282-YMKNA,Yes,0.9163906119254005,1,Very High,5003,854.92,74.75,2,82,Month-to-Month,Offer E,Bank Withdrawal,Fiber Optic,No
+3027-ZTDHO,Yes,0.9985269484678292,1,Very High,5951,122.75,89.9,1,80,Month-to-Month,Offer E,Bank Withdrawal,Fiber Optic,No
+6652-YFFJO,No,0.06176195160786612,0,Low,2775,865.26,64.9,5,80,Month-to-Month,Offer D,Bank Withdrawal,Cable,No
+9365-CSLBQ,No,0.0074059857396039045,0,Low,4155,2001.79,24.35,4,60,Two Year,No Offer,Credit Card,No Internet Service,No
+5399-ZIMKF,No,0.5578517593164413,1,Moderate,3319,547.7,74.65,3,34,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+6164-HAQTX,No,0.008159724232190616,0,Low,4094,3888.65,53.95,3,76,Two Year,No Offer,Bank Withdrawal,DSL,Yes
+8380-PEFPE,Yes,0.9994491728381415,1,Very High,2377,89.19,71.65,1,93,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+7108-DGVUU,No,0.08622537383067629,0,Low,2784,2233.35,71.7,5,38,One Year,No Offer,Bank Withdrawal,DSL,No
+0909-SELIE,No,0.023679623447206047,0,Low,4302,7495.96,80.8,4,72,Two Year,No Offer,Bank Withdrawal,DSL,Yes
+2885-HIJDH,No,0.0037205636023253524,0,Low,4667,8012.25,86.9,3,49,Two Year,No Offer,Bank Withdrawal,DSL,Yes
+9092-GDZKO,No,0.03670108923784923,0,Low,3534,977.42,24.85,4,51,Month-to-Month,Offer D,Credit Card,No Internet Service,No
+2088-IEBAU,No,0.05812726765936909,0,Low,5531,7595.92,88.15,3,46,Two Year,No Offer,Bank Withdrawal,DSL,Yes
+4450-MDZFX,No,0.0051244439564283725,0,Low,5100,6759.7,74.35,5,26,Month-to-Month,Offer B,Bank Withdrawal,Fiber Optic,No
+8670-MEFCP,No,0.009054575349396066,0,Low,3570,4838.69,92.9,3,77,Two Year,No Offer,Credit Card,Cable,Yes
+9174-IHETN,No,0.03829704325475923,0,Low,5521,5339.1,70.35,3,50,Two Year,Offer B,Credit Card,Fiber Optic,No
+2858-MOFSQ,Yes,0.7287583417371937,1,High,5472,1350.77,55.85,2,76,One Year,No Offer,Mailed Check,DSL,No
+7269-JISCY,No,0.08161384627551473,0,Low,4055,4310.6,45.05,3,39,One Year,No Offer,Bank Withdrawal,DSL,No
+3472-QPRCH,No,0.006636099166621476,0,Low,3217,2080.39,25.25,5,53,Two Year,No Offer,Credit Card,No Internet Service,No
+0556-FJEGU,No,0.0409085072236615,0,Low,4474,6802.21,70.1,4,58,Two Year,Offer B,Bank Withdrawal,DSL,Yes
+8821-XNHVZ,Yes,0.9850311214026146,1,Very High,2943,119.84,80.05,3,82,Month-to-Month,No Offer,Mailed Check,Fiber Optic,No
+7114-AEOZE,No,0.01002734483517259,0,Low,6213,2995.3,19.85,4,58,Two Year,Offer B,Bank Withdrawal,No Internet Service,No
+9208-OLGAQ,No,0.026105508918233565,0,Low,3878,1971.49,84.95,4,74,Two Year,No Offer,Bank Withdrawal,Fiber Optic,No
+4462-CYWMH,No,0.17935966970525694,0,Low,4981,7333.93,89.8,3,67,Month-to-Month,Offer B,Bank Withdrawal,Fiber Optic,No
+6543-CPZMK,Yes,0.8916402562807542,1,Very High,2573,258.95,29.95,2,83,Month-to-Month,Offer E,Bank Withdrawal,DSL,No
+5968-XQIVE,No,0.25155435391219216,0,Low,6016,7421.99,89.7,3,76,One Year,Offer A,Bank Withdrawal,Fiber Optic,No
+9500-LTVBP,No,0.10736954395343896,0,Low,3999,3295.8,80.05,5,31,Month-to-Month,Offer C,Credit Card,Fiber Optic,Yes
+5899-OUVKV,No,0.39337672061368534,0,Moderate,3949,4402.72,94.5,3,42,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+4636-JGAAI,No,0.20278890559365753,0,Low,4014,3475.23,88.85,3,70,Month-to-Month,No Offer,Credit Card,Fiber Optic,No
+7426-GSWPO,No,0.21712869146600616,0,Low,5125,7777.45,103.5,3,63,Month-to-Month,Offer B,Bank Withdrawal,Fiber Optic,No
+1087-GRUYI,No,0.016912803574965038,0,Low,3756,1008.36,20.4,5,65,Two Year,Offer C,Bank Withdrawal,No Internet Service,No
+8152-VETUR,No,0.027001788013327862,0,Low,5406,8928.18,97.7,5,75,Two Year,Offer A,Credit Card,Fiber Optic,No
+3811-VBYBZ,Yes,0.9410271894798202,1,Very High,2031,1012.46,99.8,1,91,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+3026-ATZYV,No,0.016636099166621475,0,Low,4131,2700.24,75.1,3,64,One Year,Offer C,Bank Withdrawal,Cable,No
+5883-GTGVD,Yes,0.950065964085001,1,Very High,3670,1973.36,99.95,1,76,Month-to-Month,Offer D,Bank Withdrawal,Fiber Optic,No
+5859-HZYLF,No,0.0031816966699964784,0,Low,4347,1655.59,19.15,5,58,Two Year,No Offer,Credit Card,No Internet Service,No
+0207-MDKNV,Yes,0.8782084515677491,1,Very High,2122,1918.6,105.1,1,84,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,Yes
+9361-YNQWJ,No,0.030268336966811093,0,Low,5887,2620.72,24.4,5,24,One Year,Offer B,Bank Withdrawal,No Internet Service,No
+5158-RIVOP,No,0.005538336718687757,0,Low,5359,230.02,20.9,5,63,Two Year,Offer D,Credit Card,No Internet Service,No
+1100-DDVRV,No,0.18614284486214325,0,Low,5575,836.35,49.8,5,24,Month-to-Month,No Offer,Credit Card,DSL,No
+7016-BPGEU,Yes,0.840517349059604,1,Very High,2796,712.85,25.1,1,81,Month-to-Month,No Offer,Credit Card,Cable,No
+9574-RKJIF,Yes,0.9228825676191151,1,Very High,2792,3784.2,94.4,1,71,Month-to-Month,Offer C,Bank Withdrawal,Fiber Optic,No
+6358-LYNGM,Yes,0.9823401137843116,1,Very High,2548,76.74,74.9,3,84,Month-to-Month,Offer E,Bank Withdrawal,Fiber Optic,No
+9894-QMIMJ,No,0.057707488316847605,0,Low,2499,1535.77,55.8,3,20,One Year,Offer D,Bank Withdrawal,DSL,No
+3877-JRJIP,Yes,1.0,1,Very High,4017,81.9,59.85,2,71,Month-to-Month,No Offer,Bank Withdrawal,Cable,No
+3982-JGSFD,No,0.006714398316652682,0,Low,3526,1153.77,20.35,5,33,One Year,No Offer,Credit Card,No Internet Service,No
+4816-LXZYW,Yes,0.9303707392132262,1,Very High,5216,2446.07,79.15,1,68,Month-to-Month,Offer D,Bank Withdrawal,Fiber Optic,No
+1902-XBTFB,Yes,0.913988839836899,1,Very High,5438,2872.26,89.4,2,91,Month-to-Month,Offer D,Bank Withdrawal,Fiber Optic,No
+7328-OWMOM,No,0.023270935293523084,0,Low,3086,1634.26,20.1,3,30,One Year,Offer C,Credit Card,No Internet Service,No
+9625-QSTYE,Yes,0.9356926454834983,1,Very High,4806,1002.22,81.15,1,79,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+4012-ZTHBR,No,0.015354017780424006,0,Low,3752,1744.2,44.95,5,54,Month-to-Month,Offer D,Bank Withdrawal,Cable,No
+0274-JKUJR,No,0.06610556483527336,0,Low,3332,465.7,58.85,3,76,Month-to-Month,Offer E,Credit Card,Cable,No
+5419-CONWX,Yes,0.9623075622756336,1,Very High,2268,493.57,99.8,1,89,Month-to-Month,No Offer,Credit Card,Fiber Optic,No
+0023-XUOPT,Yes,0.8659579512973146,1,Very High,2973,1781.88,94.1,1,75,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+3528-HFRIQ,No,0.20828692826360407,0,Low,5491,3805.05,52.3,5,51,Month-to-Month,No Offer,Bank Withdrawal,Cable,No
+8878-RYUKI,No,0.15049797835809997,0,Low,6107,3530.94,59.45,3,40,Month-to-Month,No Offer,Bank Withdrawal,DSL,No
+3727-OVPRY,No,0.012041358771499306,0,Low,5517,4541.99,25.7,4,43,One Year,Offer A,Credit Card,No Internet Service,No
+3799-ISUZQ,Yes,0.7011967865742492,1,High,3296,777.44,69.95,2,90,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+1708-PBBOA,No,0.03031648527345436,0,Low,3179,2428.45,54.75,3,62,One Year,No Offer,Bank Withdrawal,DSL,Yes
+2483-XSSMZ,No,0.05188366896105143,0,Low,5531,2944.27,47.85,3,23,One Year,No Offer,Bank Withdrawal,DSL,No
+1089-XZWHH,No,0.0,0,Low,3594,1605.25,19.7,5,31,Two Year,No Offer,Credit Card,No Internet Service,No
+4808-YNLEU,No,0.052313927848199375,0,Low,5255,3074.0,62.15,4,39,One Year,Offer C,Bank Withdrawal,DSL,No
+5095-AESKG,Yes,0.9029126790323025,1,Very High,5646,347.78,91.5,3,76,Month-to-Month,No Offer,Credit Card,Fiber Optic,No
+6339-RZCBJ,No,0.012732630266921147,0,Low,4063,3943.82,78.9,4,47,Two Year,No Offer,Credit Card,DSL,Yes
+1784-EZDKJ,No,0.22324027248929956,0,Low,4640,7138.2,106.8,3,33,One Year,Offer B,Bank Withdrawal,Fiber Optic,No
+0489-WMEMG,No,0.05750624623415483,0,Low,5237,1713.9,49.45,3,70,One Year,Offer D,Bank Withdrawal,Cable,Yes
+7293-LSCDV,No,0.0023879086827293997,0,Low,6134,2524.05,19.25,4,52,Two Year,No Offer,Credit Card,No Internet Service,No
+1810-BOHSY,No,0.061212126772077206,0,Low,4745,6696.05,96.4,3,26,One Year,Offer B,Credit Card,Fiber Optic,No
+8681-ICONS,No,0.027352194132040968,0,Low,4667,1369.41,20.65,3,72,Month-to-Month,No Offer,Mailed Check,No Internet Service,No
+2720-FVBQP,No,0.201991545222407,0,Low,3061,422.23,48.95,3,30,Month-to-Month,Offer E,Credit Card,Cable,No
+8263-JQAIK,Yes,0.9550599164876716,1,Very High,5573,47.5,24.45,3,77,Month-to-Month,No Offer,Credit Card,DSL,No
+2878-DHMIN,No,0.004775817365458799,0,Low,2334,1514.05,19.9,3,30,One Year,No Offer,Bank Withdrawal,No Internet Service,No
+8514-VZHEB,No,0.0,0,Low,5293,2254.1,19.5,3,50,Two Year,Offer B,Credit Card,No Internet Service,No
+0811-GSDTP,No,0.16103991655256777,0,Low,3540,392.2,30.15,5,22,Month-to-Month,No Offer,Bank Withdrawal,Cable,No
+5542-DHSXL,No,0.15756112618628917,0,Low,3475,262.13,54.7,4,37,Month-to-Month,No Offer,Credit Card,Cable,No
+0325-XBFAC,Yes,0.9656904538267965,1,Very High,5811,976.22,94.7,1,94,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+1357-MVDOZ,No,0.04702296093839724,0,Low,2136,915.79,59.65,3,71,Month-to-Month,Offer D,Bank Withdrawal,DSL,No
+4694-PHWFW,No,0.07464614853338884,0,Low,5919,537.86,19.95,4,40,Month-to-Month,No Offer,Mailed Check,No Internet Service,No
+3768-NLUBH,Yes,0.8848804244319939,1,Very High,5247,8145.85,100.6,1,74,Month-to-Month,Offer B,Bank Withdrawal,Fiber Optic,No
+6275-YDUVO,Yes,0.9703827586645906,1,Very High,2969,226.8,86.2,3,95,Month-to-Month,Offer E,Mailed Check,Fiber Optic,No
+4877-TSOFF,No,0.0,0,Low,4489,5153.05,75.75,3,51,One Year,Offer B,Bank Withdrawal,DSL,Yes
+0495-ZBNGW,Yes,0.9799252539910295,1,Very High,4324,397.25,79.9,2,90,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+9227-UAQFT,No,0.011454264684476394,0,Low,4272,927.07,19.75,5,53,Two Year,Offer D,Mailed Check,No Internet Service,No
+6240-EURKS,Yes,0.8146245343377753,1,Very High,2649,623.0,35.0,2,76,Month-to-Month,No Offer,Bank Withdrawal,DSL,No
+2863-IMQDR,No,0.03906942168649749,0,Low,6149,6739.15,89.65,3,48,Two Year,No Offer,Bank Withdrawal,DSL,Yes
+6559-PDZLR,No,0.23848949003629266,0,Low,4191,3499.0,98.65,3,62,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,Yes
+8292-TYSPY,Yes,0.8238182134229084,1,Very High,4539,1158.2,55.0,2,73,Month-to-Month,Offer D,Credit Card,Cable,Yes
+8606-CIQUL,No,0.016298048093193684,0,Low,5168,10725.31,115.75,4,60,Two Year,Offer A,Credit Card,Fiber Optic,Yes
+2911-WDXMV,No,0.07176482579078092,0,Low,5334,2146.09,80.55,5,37,Month-to-Month,Offer D,Credit Card,Fiber Optic,No
+5243-SAOTC,No,0.08146898401953748,0,Low,5166,4720.81,79.85,4,46,Month-to-Month,Offer B,Bank Withdrawal,Fiber Optic,No
+3224-DFQNQ,No,0.017445347292207116,0,Low,4488,8365.68,89.0,3,53,One Year,No Offer,Bank Withdrawal,Fiber Optic,Yes
+9347-AERRL,No,0.02055673679534598,0,Low,2111,1317.42,19.3,5,68,One Year,No Offer,Credit Card,No Internet Service,No
+3804-RVTGV,Yes,0.8246531010061848,1,Very High,5812,7128.4,103.85,2,91,Month-to-Month,Offer B,Bank Withdrawal,Fiber Optic,No
+6198-RTPMF,No,0.14065025477917772,0,Low,4756,1736.44,92.6,4,32,Month-to-Month,Offer D,Bank Withdrawal,Fiber Optic,No
+8755-IWJHN,No,0.17263626976783958,0,Low,6132,9825.79,95.35,3,21,Two Year,No Offer,Bank Withdrawal,Fiber Optic,No
+9734-YWGEX,Yes,0.8808659043082329,1,Very High,2954,1272.34,98.3,2,81,Month-to-Month,No Offer,Credit Card,Fiber Optic,No
+1658-TJVOA,No,0.03458902019230066,0,Low,4716,526.92,74.1,3,79,Two Year,No Offer,Bank Withdrawal,Fiber Optic,No
+8404-VLQFB,No,0.09175547285288929,0,Low,4667,838.1,25.25,3,59,Month-to-Month,No Offer,Bank Withdrawal,No Internet Service,No
+3865-ZYKAD,No,0.11887009785744053,0,Low,4503,6804.09,84.9,3,59,Month-to-Month,No Offer,Credit Card,Fiber Optic,No
+6257-RJOHI,No,0.22927084745514312,0,Low,4521,209.82,50.8,5,47,Month-to-Month,Offer E,Credit Card,DSL,Yes
+4704-ERYFC,Yes,0.8469953761771314,1,Very High,2159,2260.42,69.25,1,85,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+7346-MEDWM,No,0.2260344434811295,0,Low,4094,6791.67,83.25,3,32,Month-to-Month,Offer B,Bank Withdrawal,Fiber Optic,No
+5845-BZZIB,No,0.0071637260481881996,0,Low,4517,1027.94,20.1,3,65,Two Year,No Offer,Credit Card,No Internet Service,No
+0336-KXKFK,No,0.015118132782918755,0,Low,4085,4390.25,61.2,3,38,Two Year,No Offer,Credit Card,DSL,Yes
+1792-UXAFY,Yes,0.9294764265362422,1,Very High,5082,2013.19,89.15,1,89,Month-to-Month,Offer D,Bank Withdrawal,Fiber Optic,No
+6725-TPKJO,No,0.0663318886689784,0,Low,2798,2921.26,20.05,3,41,Two Year,No Offer,Credit Card,No Internet Service,No
+2302-OUZXB,No,0.031947691487671126,0,Low,4552,7369.02,82.15,5,70,Two Year,Offer A,Bank Withdrawal,DSL,No
+8410-BGQXN,No,0.06965008361267126,0,Low,4402,183.56,19.4,5,54,Month-to-Month,No Offer,Credit Card,No Internet Service,No
+4749-OJKQU,No,0.25223014233108854,0,Low,5396,396.35,75.65,5,31,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+4957-TIALW,No,0.09056607914252374,0,Low,2976,1311.65,65.6,3,28,One Year,Offer D,Credit Card,Cable,Yes
+1555-HAPSU,No,0.0061486746844436665,0,Low,5471,3751.61,23.9,5,59,Two Year,Offer A,Credit Card,No Internet Service,No
+9921-ZVRHG,Yes,0.9553024936482934,1,Very High,4155,1088.66,80.45,1,94,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+7874-ECPQJ,No,0.08948964783319326,0,Low,4462,194.98,20.05,5,57,Month-to-Month,No Offer,Bank Withdrawal,No Internet Service,No
+9330-VOFSZ,No,0.07867198969255311,0,Low,5942,8444.71,110.8,5,79,Two Year,Offer B,Credit Card,Fiber Optic,Yes
+9031-ZVQPT,No,0.05073082022918209,0,Low,4773,8862.28,108.2,4,57,Two Year,No Offer,Bank Withdrawal,Fiber Optic,Yes
+1328-EUZHC,No,0.008130425331733273,0,Low,4329,830.22,20.1,4,30,Two Year,No Offer,Credit Card,No Internet Service,No
+3970-XGJDU,No,0.04644773592710405,0,Low,4937,2613.51,19.2,4,64,Two Year,No Offer,Credit Card,No Internet Service,No
+8979-CAMGB,No,0.16267902064938347,0,Low,6100,7332.58,102.1,5,47,One Year,No Offer,Bank Withdrawal,Fiber Optic,Yes
+2685-SREOM,Yes,0.9571050211246052,1,Very High,4793,2949.4,89.1,1,96,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+9028-LIHRP,No,0.01642999358895478,0,Low,5502,9600.99,100.2,3,55,Two Year,No Offer,Credit Card,Fiber Optic,Yes
+5309-TAIKL,No,0.0891588030182934,0,Low,4080,476.33,62.8,4,46,Month-to-Month,No Offer,Bank Withdrawal,DSL,Yes
+8129-GMVGI,No,0.0,0,Low,5172,3071.38,20.05,4,59,Two Year,No Offer,Credit Card,No Internet Service,No
+7080-TNUWP,No,0.036601022593658786,0,Low,6259,8782.0,95.0,4,65,One Year,No Offer,Bank Withdrawal,Fiber Optic,No
+9323-HGFWY,No,0.15770951936484615,0,Low,3795,3221.69,101.9,3,69,One Year,Offer C,Credit Card,Fiber Optic,Yes
+0060-FUALY,No,0.09309724526959008,0,Low,5238,6564.66,94.75,3,26,Month-to-Month,Offer B,Bank Withdrawal,Fiber Optic,No
+0848-ZGQIJ,No,0.17194649172540358,0,Low,3050,1629.15,94.65,5,36,Month-to-Month,Offer D,Bank Withdrawal,Fiber Optic,No
+6685-GBWJZ,No,0.03452170064529721,0,Low,5114,7409.17,70.8,3,44,One Year,No Offer,Credit Card,Cable,Yes
+6048-NJXHX,No,0.0934310119948025,0,Low,2011,2353.31,19.75,4,53,Two Year,Offer B,Bank Withdrawal,No Internet Service,No
+8792-AOROI,No,0.09221681439183878,0,Low,2985,753.79,65.5,3,72,Two Year,Offer E,Credit Card,DSL,Yes
+6115-ZTBFQ,No,0.018018630871496966,0,Low,4119,4919.7,65.5,3,25,Two Year,No Offer,Bank Withdrawal,DSL,Yes
+7777-UNYHB,No,0.0315988570447674,0,Low,2360,528.2,20.1,3,21,Month-to-Month,No Offer,Credit Card,No Internet Service,No
+0277-BKSQP,No,0.06353149973915155,0,Low,4854,487.58,54.4,4,62,Month-to-Month,Offer E,Bank Withdrawal,DSL,No
+8249-THVEC,No,0.0018602818011626762,0,Low,4025,2916.88,19.4,4,73,One Year,No Offer,Credit Card,No Internet Service,No
+2848-YXSMW,No,0.024182449077034124,0,Low,5234,4927.25,19.4,5,23,Two Year,Offer A,Credit Card,No Internet Service,No
+1452-UZOSF,No,0.005193615134496009,0,Low,4890,8040.73,106.1,3,21,Two Year,Offer A,Credit Card,Fiber Optic,Yes
+4895-TMWIR,Yes,0.762258756867377,1,High,5888,539.69,19.95,1,80,Month-to-Month,No Offer,Mailed Check,No Internet Service,No
+3426-NIYYL,Yes,0.9018473096571178,1,Very High,2087,832.75,51.55,2,66,Month-to-Month,Offer D,Bank Withdrawal,DSL,No
+6828-HMKWP,No,0.013546318620368938,0,Low,4843,858.45,21.05,4,25,Two Year,No Offer,Bank Withdrawal,No Internet Service,No
+0422-UXFAP,No,0.21905224392626887,0,Low,6034,7511.27,98.85,5,43,One Year,Offer B,Bank Withdrawal,Fiber Optic,No
+4439-YRNVD,No,0.22859115661046162,0,Low,4571,374.0,36.25,3,24,Month-to-Month,No Offer,Bank Withdrawal,DSL,Yes
+5304-EFJLP,No,0.02926505951041097,0,Low,4406,9351.09,111.65,4,36,Two Year,No Offer,Bank Withdrawal,Fiber Optic,Yes
+2325-ZUSFD,Yes,0.8117427067953255,1,Very High,4669,6002.35,70.1,1,81,One Year,Offer B,Bank Withdrawal,DSL,No
+7996-BPXHY,No,0.004775817365458799,0,Low,4734,789.97,25.0,4,21,Two Year,No Offer,Bank Withdrawal,No Internet Service,No
+5244-IRFIH,Yes,0.866490730315576,1,Very High,4333,4022.29,94.5,3,91,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+1431-AIDJQ,No,0.021334101016325595,0,Low,2281,2656.56,82.1,4,32,Two Year,Offer C,Credit Card,Cable,Yes
+8265-HKSOW,No,0.0075815238172254095,0,Low,4505,8946.38,107.45,4,57,Two Year,No Offer,Credit Card,Fiber Optic,Yes
+5349-IECLD,Yes,0.9885037481875376,1,Very High,4493,230.2,94.95,1,87,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+5857-TYBCJ,No,0.03047066485429139,0,Low,2925,4684.8,89.2,4,36,Two Year,Offer B,Bank Withdrawal,Fiber Optic,No
+9824-BEMCV,Yes,0.8814357340969652,1,Very High,3368,1914.14,69.0,2,77,Month-to-Month,Offer D,Bank Withdrawal,Fiber Optic,No
+3374-LXDEV,Yes,0.8942837052335172,1,Very High,2226,1244.02,89.4,1,75,Month-to-Month,Offer D,Bank Withdrawal,Fiber Optic,Yes
+3247-ZVOUO,Yes,0.968737005066442,1,Very High,3336,911.85,85.55,1,81,Month-to-Month,Offer D,Bank Withdrawal,Fiber Optic,No
+1744-JHKYS,No,0.03728280802114587,0,Low,3421,1171.88,24.7,4,72,Month-to-Month,Offer C,Bank Withdrawal,No Internet Service,No
+7145-FEJWU,No,0.5213697439642098,1,Moderate,5913,1479.17,105.3,3,72,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+5930-GBIWP,No,0.007442230365635929,0,Low,5286,5776.81,81.5,4,45,Two Year,No Offer,Credit Card,Cable,Yes
+8769-KKTPH,No,0.13535632538312958,0,Low,4572,6401.29,99.65,3,79,One Year,Offer B,Credit Card,Fiber Optic,No
+9764-REAFF,No,0.017262347159102076,0,Low,4375,2650.26,18.4,4,20,Two Year,Offer B,Bank Withdrawal,No Internet Service,No
+2239-CGBUZ,No,0.017469603618742693,0,Low,4207,5551.33,60.5,3,63,One Year,Offer B,Bank Withdrawal,Cable,Yes
+8148-WOCMK,No,0.0051657511922152954,0,Low,3214,232.44,19.6,5,67,Two Year,Offer E,Credit Card,No Internet Service,No
+3726-TBHQT,No,0.01179317849823643,0,Low,5600,9982.85,114.0,4,23,Two Year,No Offer,Bank Withdrawal,Fiber Optic,Yes
+1685-VAYJF,No,0.049926893569948574,0,Low,5253,1088.49,45.2,5,39,Month-to-Month,Offer D,Credit Card,DSL,No
+4654-GGUII,No,0.05791624623107868,0,Low,4624,801.95,40.2,4,48,One Year,No Offer,Credit Card,DSL,Yes
+6574-MCOEH,No,0.024583533274232332,0,Low,3555,3593.87,79.15,5,73,One Year,No Offer,Bank Withdrawal,Cable,Yes
+7901-HXJVA,No,0.10117559140891168,0,Low,2292,1375.99,76.45,4,52,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+4795-UXVCJ,No,0.030013140933867463,0,Low,5823,1645.5,19.8,3,77,One Year,Offer C,Credit Card,No Internet Service,No
+0121-SNYRK,No,0.02201666144521705,0,Low,5052,1748.9,35.4,3,36,One Year,Offer B,Credit Card,DSL,Yes
+0322-CHQRU,Yes,0.9968456217040966,1,Very High,3478,140.48,45.35,1,81,Month-to-Month,No Offer,Bank Withdrawal,DSL,No
+3587-PMCOY,No,0.2050264538772581,0,Low,4614,1528.25,98.9,3,50,One Year,Offer D,Bank Withdrawal,Fiber Optic,No
+4182-BGSIQ,No,0.0370947133780173,0,Low,3196,387.25,19.8,3,49,Month-to-Month,Offer D,Bank Withdrawal,No Internet Service,No
+0311-UNPFF,Yes,0.9044581596318775,1,Very High,4910,3314.69,88.8,2,82,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+6963-EZQEE,No,0.017006102037240987,0,Low,4097,9172.3,88.55,3,37,Two Year,No Offer,Credit Card,DSL,Yes
+1989-PRJHP,Yes,0.963108051800784,1,Very High,2377,2180.15,75.5,1,65,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+4785-NKHCX,No,0.08721862912918883,0,Low,2154,244.85,20.05,5,31,One Year,Offer E,Bank Withdrawal,No Internet Service,No
+9073-ZZIAY,No,0.010100140807095632,0,Low,5769,7893.65,86.1,4,62,Two Year,No Offer,Bank Withdrawal,DSL,Yes
+2011-TRQYE,Yes,0.7934783839267289,1,High,5474,600.0,33.5,2,82,Month-to-Month,Offer D,Credit Card,DSL,No
+5543-QDCRY,No,0.13579666295623258,0,Low,5344,317.89,56.4,4,49,Month-to-Month,No Offer,Bank Withdrawal,DSL,No
+3096-IZETN,Yes,0.4522676135569166,0,Moderate,4741,1457.9,78.1,3,89,Month-to-Month,Offer D,Bank Withdrawal,Fiber Optic,No
+9418-RUKPH,No,0.006660888298510664,0,Low,3614,2652.6,19.95,4,75,Two Year,Offer C,Credit Card,No Internet Service,No
+4729-XKASR,Yes,0.970500054997162,1,Very High,3001,24.75,24.75,1,96,Month-to-Month,No Offer,Bank Withdrawal,DSL,No
+8780-IHCRN,No,0.0,0,Low,4392,3396.46,24.65,4,40,Two Year,No Offer,Credit Card,No Internet Service,No
+8734-DKSTZ,No,0.39507671445121534,0,Moderate,4922,923.6,85.95,3,20,Month-to-Month,Offer D,Bank Withdrawal,Fiber Optic,No
+9867-NNXLC,No,0.008407085380451111,0,Low,5555,1216.44,20.05,5,44,Month-to-Month,Offer D,Credit Card,No Internet Service,No
+8884-ADFVN,Yes,0.9346324408003693,1,Very High,2016,943.47,101.95,1,74,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+1172-VIYBP,No,0.0023879086827293997,0,Low,4975,5166.34,69.7,3,22,Two Year,No Offer,Bank Withdrawal,DSL,No
+0487-VVUVK,No,0.01971626991800976,0,Low,3829,954.85,19.15,4,57,Month-to-Month,No Offer,Credit Card,No Internet Service,No
+6261-LHRTG,No,0.032438644009495886,0,Low,4020,2442.74,54.75,4,23,Month-to-Month,No Offer,Credit Card,Cable,No
+4002-BQWPQ,No,0.10892722153090695,0,Low,5917,2658.8,81.75,3,61,Month-to-Month,No Offer,Bank Withdrawal,Cable,Yes
+8942-DBMHZ,No,0.0140385599161491,0,Low,4883,748.67,20.45,5,80,Month-to-Month,No Offer,Mailed Check,No Internet Service,No
+1599-EAHXY,No,0.007812755293221715,0,Low,5449,3213.4,23.95,5,71,One Year,No Offer,Credit Card,No Internet Service,No
+6344-SFJVH,No,0.05102985665663615,0,Low,5942,505.95,24.9,5,20,Month-to-Month,No Offer,Credit Card,DSL,No
+1573-LGXBA,No,0.02336657693330037,0,Low,5833,5836.26,97.55,4,51,One Year,No Offer,Credit Card,Fiber Optic,No
+2667-WYLWJ,Yes,0.18375338826318788,0,Low,2247,514.04,19.75,3,89,One Year,Offer E,Credit Card,No Internet Service,No
+1563-IWQEX,No,0.056140047626718495,0,Low,5715,444.87,19.7,3,71,Month-to-Month,No Offer,Credit Card,No Internet Service,No
+3398-ZOUAA,Yes,0.9210969566689446,1,Very High,3853,1889.29,69.1,2,67,Month-to-Month,Offer D,Bank Withdrawal,Fiber Optic,No
+5762-TJXGK,No,0.016530443026907007,0,Low,5122,3038.55,58.75,4,21,Two Year,Offer B,Bank Withdrawal,DSL,No
+6625-FLENO,No,0.0,0,Low,4927,2269.39,20.75,5,20,Two Year,No Offer,Credit Card,No Internet Service,No
+0107-YHINA,Yes,0.998341873516559,1,Very High,4214,140.46,99.75,1,93,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+6745-JEFZB,No,0.1162556722203909,0,Low,3617,4120.31,91.5,4,78,Month-to-Month,No Offer,Credit Card,Fiber Optic,Yes
+1038-RQOST,No,0.035611262707703685,0,Low,2276,504.25,20.6,3,32,Month-to-Month,Offer D,Credit Card,No Internet Service,No
+5294-CDGWY,Yes,0.8255528370473042,1,Very High,5633,3014.65,59.3,1,95,One Year,No Offer,Bank Withdrawal,DSL,No
+1501-SGHBW,Yes,0.9990545753493961,1,Very High,3843,120.04,45.85,1,81,Month-to-Month,No Offer,Credit Card,Cable,No
+3078-ZKNTS,No,0.008642066023372082,0,Low,4314,319.24,19.75,3,22,Two Year,No Offer,Bank Withdrawal,No Internet Service,No
+2466-NEJOJ,No,0.012658659512208266,0,Low,4535,379.11,19.65,4,38,Month-to-Month,Offer E,Credit Card,No Internet Service,No
+2522-WLNSF,No,0.07185034894633043,0,Low,2225,2525.52,64.2,4,34,One Year,No Offer,Bank Withdrawal,Cable,Yes
+6821-JPCDC,No,0.08080780701090198,0,Low,5893,6979.67,97.05,5,66,One Year,No Offer,Bank Withdrawal,Fiber Optic,No
+1163-ONYEY,No,0.0127519386714297,0,Low,2748,4194.1,74.55,3,61,Month-to-Month,Offer B,Credit Card,Cable,No
+2873-ZLIWT,Yes,0.8810577698677571,1,Very High,5764,3384.25,84.85,2,91,Month-to-Month,Offer B,Bank Withdrawal,Fiber Optic,Yes
+6521-YYTYI,Yes,0.9951704148542042,1,Very High,2578,101.29,93.3,3,65,Month-to-Month,Offer E,Bank Withdrawal,Fiber Optic,No
+3009-JWMPU,Yes,0.8436563237125143,1,Very High,5016,7529.08,96.75,2,92,One Year,Offer B,Bank Withdrawal,Fiber Optic,No
+0516-WJVXC,Yes,0.8116496158185414,1,Very High,5476,326.3,54.2,1,78,Month-to-Month,No Offer,Bank Withdrawal,DSL,Yes
+9067-YGSCA,No,0.015063777868837409,0,Low,4467,4049.5,26.05,5,21,One Year,No Offer,Credit Card,No Internet Service,No
+1355-KUSBG,No,0.14772627209771946,0,Low,4785,413.5,48.8,4,51,Month-to-Month,Offer E,Bank Withdrawal,DSL,No
+5115-SQAAU,No,0.002008190182417699,0,Low,6053,3092.93,25.6,4,60,Two Year,No Offer,Bank Withdrawal,No Internet Service,No
+9060-HJJRW,No,0.03598104727693647,0,Low,4380,2928.5,56.4,4,62,One Year,No Offer,Credit Card,DSL,No
+2501-XWWTZ,No,0.12023538696022108,0,Low,2535,771.16,70.2,5,34,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+7568-PODML,Yes,0.9968622300415666,1,Very High,4954,45.3,45.3,1,69,Month-to-Month,No Offer,Mailed Check,DSL,No
+1400-WIVLL,No,0.12366440067649191,0,Low,4687,6926.31,107.95,3,24,Two Year,No Offer,Bank Withdrawal,Fiber Optic,Yes
+7802-EFKNY,Yes,0.8867151412550068,1,Very High,5865,100.4,24.95,1,79,Month-to-Month,Offer E,Bank Withdrawal,DSL,No
+3834-XUIFC,Yes,0.920888974786784,1,Very High,3905,734.36,85.2,1,86,Month-to-Month,Offer E,Credit Card,Fiber Optic,No
+5377-NDTOU,No,0.002978997174610962,0,Low,4644,6968.25,91.05,3,39,Two Year,Offer A,Credit Card,Cable,Yes
+9992-RRAMN,Yes,0.9585001270997293,1,Very High,5248,2230.1,85.1,1,68,Month-to-Month,Offer D,Bank Withdrawal,Fiber Optic,No
+8728-SKJLR,No,0.27905616471166295,0,Low,3277,3133.38,74.25,3,78,Month-to-Month,Offer B,Bank Withdrawal,Fiber Optic,Yes
+4514-GFCFI,Yes,0.9826451819374346,1,Very High,5136,1630.31,84.75,2,91,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+2703-AMTUL,No,0.0,0,Low,4113,2227.35,53.65,4,37,One Year,No Offer,Credit Card,Cable,No
+9565-DJPIB,Yes,0.9342407827353644,1,Very High,4689,512.69,89.6,1,87,Month-to-Month,Offer E,Credit Card,Fiber Optic,No
+9778-OGKQZ,No,0.010767776223104137,0,Low,5883,7175.19,92.0,3,44,Two Year,No Offer,Credit Card,DSL,Yes
+4797-AXPXK,Yes,0.9506152185151493,1,Very High,4531,113.48,60.0,1,93,Month-to-Month,Offer E,Bank Withdrawal,DSL,Yes
+9837-BMCLM,Yes,0.9994491728381415,1,Very High,3567,337.69,78.5,2,71,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+7249-WBIYX,Yes,0.9860734926133758,1,Very High,5146,1114.85,85.6,2,70,Month-to-Month,No Offer,Bank Withdrawal,Cable,No
+8571-ZCMCX,No,0.020942230403665506,0,Low,3248,2768.65,60.0,3,48,Two Year,No Offer,Credit Card,DSL,No
+0142-GVYSN,No,0.03586413776021788,0,Low,5712,858.09,20.3,5,68,Month-to-Month,Offer C,Bank Withdrawal,No Internet Service,No
+1338-CECEE,No,0.03264088640710039,0,Low,3877,3358.36,68.5,4,54,One Year,No Offer,Bank Withdrawal,DSL,No
+5729-KLZAR,Yes,0.915732405607968,1,Very High,2961,519.87,80.85,1,73,Month-to-Month,Offer E,Bank Withdrawal,Fiber Optic,No
+0862-PRCBS,No,0.014078329532257404,0,Low,4121,8133.57,103.75,3,45,Two Year,No Offer,Credit Card,Fiber Optic,Yes
+2292-XQWSV,No,0.006108472285054752,0,Low,3724,2448.5,60.3,4,28,One Year,No Offer,Credit Card,DSL,Yes
+3902-MIVLE,No,0.0,0,Low,5113,5442.15,75.7,3,62,Two Year,Offer B,Credit Card,DSL,Yes
+5642-MHDQT,No,0.04202369013934511,0,Low,4836,1626.33,19.85,3,42,One Year,Offer B,Bank Withdrawal,No Internet Service,No
+5334-AFQJB,No,0.023133600640395678,0,Low,5751,1960.54,25.1,5,74,Two Year,Offer A,Credit Card,No Internet Service,No
+0269-XFESX,No,0.013447056551041815,0,Low,4031,1642.96,24.35,5,30,One Year,No Offer,Credit Card,No Internet Service,No
+5947-SGKCL,No,0.15756428736562125,0,Low,2721,1622.1,105.35,3,66,Month-to-Month,Offer D,Bank Withdrawal,Fiber Optic,No
+2937-FTHUR,No,0.09420427652957312,0,Low,2466,1930.8,64.8,4,37,Month-to-Month,Offer D,Bank Withdrawal,DSL,No
+4735-ASGMA,Yes,0.9453308581698254,1,Very High,4997,3559.72,98.35,1,91,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+3186-AJIEK,No,0.10981739868215933,0,Low,5097,8887.86,105.65,4,38,Two Year,No Offer,Bank Withdrawal,Fiber Optic,Yes
+2516-XSJKX,No,0.015156834672987243,0,Low,5468,4450.34,78.45,3,27,Two Year,No Offer,Bank Withdrawal,DSL,Yes
+9762-YAQAA,No,0.04843312263540801,0,Low,4104,4654.02,81.4,4,22,One Year,Offer C,Credit Card,Fiber Optic,No
+0506-YLVKJ,No,0.013503246043863385,0,Low,3136,3029.77,20.2,3,35,Two Year,No Offer,Credit Card,No Internet Service,No
+4550-EVXNY,Yes,1.0,1,Very High,2418,118.89,69.65,2,77,Month-to-Month,Offer E,Bank Withdrawal,Fiber Optic,No
+0311-QYWSS,No,0.10548375066215548,0,Low,3672,549.56,49.45,3,60,Month-to-Month,No Offer,Bank Withdrawal,DSL,No
+7572-KPVKK,No,0.01822674898620599,0,Low,5900,7686.04,104.05,4,33,Two Year,Offer B,Bank Withdrawal,Fiber Optic,Yes
+7123-WQUHX,No,0.06656258945285798,0,Low,4741,3755.7,95.0,5,63,One Year,Offer C,Bank Withdrawal,Fiber Optic,Yes
+2587-EKXTS,No,0.07857661053505818,0,Low,2827,6870.95,111.5,4,26,Month-to-Month,Offer B,Bank Withdrawal,Fiber Optic,No
+5837-LXSDN,No,0.02232502453409945,0,Low,2845,1965.57,58.85,4,25,One Year,No Offer,Credit Card,Cable,No
+5312-IRCFR,No,0.0,0,Low,5206,8378.83,92.85,4,58,One Year,No Offer,Bank Withdrawal,Fiber Optic,No
+4522-AKYLR,No,0.06406036112376749,0,Low,5557,867.93,54.8,4,7,One Year,No Offer,Bank Withdrawal,DSL,No
+6217-TOWGS,No,0.3090188417481771,0,Moderate,4852,1451.75,75.4,3,64,Month-to-Month,Offer D,Bank Withdrawal,DSL,No
+4647-XXZAM,No,0.0730269345418862,0,Low,5450,461.66,45.5,4,51,Month-to-Month,No Offer,Credit Card,DSL,No
+6169-PGNCD,No,0.0157180477691243,0,Low,5741,4534.0,74.3,4,54,Two Year,No Offer,Credit Card,DSL,Yes
+3635-QQRQD,No,0.04572955062506267,0,Low,4568,3289.81,20.05,4,74,Two Year,No Offer,Credit Card,No Internet Service,No
+0281-CNTZX,No,0.0227519386714297,0,Low,5151,3651.48,19.95,3,74,Two Year,Offer B,Bank Withdrawal,No Internet Service,No
+5712-PTIWW,Yes,0.9869905738375526,1,Very High,3280,184.73,79.85,2,91,Month-to-Month,Offer E,Bank Withdrawal,Fiber Optic,Yes
+1219-NNDDO,No,0.07859180226846775,0,Low,4834,1045.24,76.85,5,38,Month-to-Month,Offer E,Bank Withdrawal,Fiber Optic,No
+5022-KVDQT,No,0.08085628443214093,0,Low,5158,3061.64,81.3,5,72,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+5802-ADBRC,No,0.08165301308692006,0,Low,6100,6272.4,104.4,3,26,One Year,Offer B,Mailed Check,Fiber Optic,No
+5028-HTLJB,Yes,0.9934107013499666,1,Very High,3491,39.92,20.05,1,91,Month-to-Month,Offer E,Credit Card,No Internet Service,No
+3211-ILJTT,Yes,0.9742648841002605,1,Very High,4469,1446.61,70.4,1,67,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+5151-HQRDG,No,0.03727216082288346,0,Low,3839,3044.92,55.05,5,26,Month-to-Month,No Offer,Mailed Check,DSL,No
+8945-GRKHX,Yes,1.0,1,Very High,2728,124.74,78.65,1,81,Month-to-Month,Offer E,Bank Withdrawal,Fiber Optic,No
+2478-EEWWM,No,0.15413433311947672,0,Low,5905,2686.75,44.3,4,28,Month-to-Month,Offer B,Bank Withdrawal,DSL,No
+5315-CKEQK,No,0.10619727494454542,0,Low,5195,1593.68,51.0,3,44,One Year,No Offer,Bank Withdrawal,DSL,No
+4451-RWASJ,No,0.015091965233439595,0,Low,5471,980.15,19.5,4,59,One Year,Offer D,Credit Card,No Internet Service,No
+9114-DPSIA,No,0.005727214897981947,0,Low,4237,5946.56,81.0,3,77,Two Year,No Offer,Credit Card,DSL,Yes
+8731-WBBMB,No,0.05700156056720968,0,Low,3350,2325.67,81.9,4,55,Month-to-Month,No Offer,Bank Withdrawal,Cable,Yes
+4495-LHSSK,No,0.059776237247976795,0,Low,3425,1307.88,57.65,3,79,Month-to-Month,Offer D,Credit Card,DSL,No
+6135-OZQVA,No,0.08990981569831613,0,Low,4389,687.29,53.65,4,51,Month-to-Month,Offer E,Bank Withdrawal,Cable,No
+4892-VLANZ,Yes,0.9680188942617273,1,Very High,5600,29.46,19.8,3,96,Month-to-Month,No Offer,Mailed Check,No Internet Service,No
+6976-BWGLQ,No,0.011317779926762625,0,Low,4382,4616.95,25.2,3,31,Two Year,Offer A,Bank Withdrawal,No Internet Service,No
+7010-BRBUU,No,0.00556501234294978,0,Low,4264,3148.73,24.1,4,23,Two Year,No Offer,Credit Card,No Internet Service,No
+4312-KFRXN,No,0.008526948467829344,0,Low,5512,4179.78,25.4,3,30,Two Year,Offer A,Credit Card,No Internet Service,No
+6689-TCZHQ,Yes,0.786064817433932,1,High,4054,439.75,78.95,3,65,Month-to-Month,Offer E,Bank Withdrawal,Fiber Optic,No
+6986-IJDHX,Yes,0.7819472575483244,1,High,3364,4835.75,86.3,1,91,Month-to-Month,Offer C,Credit Card,Fiber Optic,No
+8749-TZYEC,No,0.05784684094258543,0,Low,6251,2845.88,24.8,3,71,Two Year,No Offer,Credit Card,No Internet Service,No
+6728-DKUCO,No,0.2558502548237706,0,Low,4594,9162.09,104.15,3,21,One Year,Offer A,Bank Withdrawal,Fiber Optic,No
+0835-DUUIQ,No,0.002466207832760607,0,Low,2050,1666.99,21.05,5,63,One Year,No Offer,Bank Withdrawal,No Internet Service,No
+3722-WPXTK,Yes,1.0,1,Very High,4254,102.61,88.35,1,72,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+7268-IGMFD,No,0.030630592854304462,0,Low,3728,1778.46,93.9,4,47,Two Year,Offer D,Bank Withdrawal,Fiber Optic,Yes
+3769-MHZNV,No,0.0,0,Low,3700,1471.26,20.1,3,25,Two Year,No Offer,Credit Card,No Internet Service,No
+0533-BNWKF,Yes,0.8211362203594427,1,Very High,5502,7319.8,85.45,1,91,Month-to-Month,Offer B,Bank Withdrawal,Fiber Optic,No
+1557-EMYVT,No,0.04098001303884806,0,Low,4115,5952.89,115.05,4,57,Two Year,Offer B,Credit Card,Fiber Optic,Yes
+2607-DHDAK,No,0.0,0,Low,5027,4211.13,19.8,4,29,Two Year,No Offer,Credit Card,No Internet Service,No
+4884-LEVMQ,No,0.01775388691183357,0,Low,2165,2209.21,20.45,5,80,Two Year,Offer C,Bank Withdrawal,No Internet Service,No
+6698-OXETB,No,0.04254857992919719,0,Low,5397,779.25,20.4,4,51,Two Year,Offer D,Credit Card,No Internet Service,No
+0786-VSSUD,Yes,0.8987134422772105,1,Very High,5692,679.85,39.0,1,92,Month-to-Month,No Offer,Mailed Check,DSL,No
+7771-CFQRQ,No,0.04206690032463543,0,Low,5144,4500.07,63.8,3,45,Two Year,No Offer,Bank Withdrawal,DSL,Yes
+5146-CBVOE,No,0.09836010599598759,0,Low,5176,1821.17,75.1,5,59,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+5696-QURRL,Yes,0.9841193340638859,1,Very High,2644,128.89,45.05,3,73,Month-to-Month,No Offer,Credit Card,DSL,No
+5299-RULOA,Yes,0.7625056148776507,1,High,5998,1309.45,100.25,2,87,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+2657-ALMWY,Yes,0.5665093335757793,1,Moderate,4316,2644.51,84.95,3,75,Month-to-Month,Offer C,Bank Withdrawal,Fiber Optic,No
+8975-SKGRX,No,0.065043333905389,0,Low,5027,10842.48,116.1,4,42,Two Year,No Offer,Bank Withdrawal,Fiber Optic,Yes
+8930-XOTDP,No,0.0812061597661268,0,Low,2035,1415.26,55.95,4,76,Month-to-Month,No Offer,Credit Card,DSL,No
+2651-ZCBXV,No,0.09238321507143327,0,Low,6370,6719.69,108.0,3,73,Two Year,Offer B,Credit Card,Fiber Optic,Yes
+5995-SNNEW,No,0.2492460582849253,0,Low,5883,3284.68,104.45,5,37,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+3137-NYQQI,No,0.05541281052055691,0,Low,3546,1946.55,64.8,4,70,One Year,Offer D,Credit Card,DSL,No
+8066-POXGX,Yes,0.31235037958306094,0,Moderate,3104,446.1,35.1,3,79,Month-to-Month,Offer D,Bank Withdrawal,Cable,No
+7781-EWARA,No,0.08570340238170146,0,Low,4122,4089.47,60.35,3,56,One Year,Offer A,Bank Withdrawal,Cable,Yes
+5346-BZCHP,No,0.005419746009441086,0,Low,6408,3083.62,19.4,5,57,Two Year,Offer A,Credit Card,No Internet Service,No
+5133-VRSAB,No,0.13526910099498698,0,Low,5369,226.45,29.35,4,59,Month-to-Month,Offer E,Credit Card,Cable,No
+2522-AHJXR,No,0.04654352906947736,0,Low,4350,6848.25,109.45,4,77,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,Yes
+1337-BOZWO,No,0.023867276032563688,0,Low,4003,812.4,46.4,5,35,One Year,No Offer,Credit Card,DSL,No
+1215-VFYVK,No,0.3611750423030109,0,Moderate,2682,212.25,48.25,3,30,Month-to-Month,Offer E,Mailed Check,Cable,Yes
+9835-ZIITK,Yes,0.8330282617807351,1,Very High,4281,10717.17,110.85,1,74,One Year,No Offer,Bank Withdrawal,Fiber Optic,Yes
+4589-IUAJB,No,0.010503032263440747,0,Low,4118,3721.95,24.25,4,75,Two Year,Offer A,Bank Withdrawal,No Internet Service,No
+2796-NNUFI,No,0.008026694839369382,0,Low,5480,2328.72,19.95,5,80,Two Year,No Offer,Credit Card,No Internet Service,No
+3900-AQPHZ,Yes,0.9955598077011987,1,Very High,4248,69.41,19.9,2,91,Month-to-Month,No Offer,Mailed Check,No Internet Service,No
+8711-LOBKY,No,0.0015236250655691402,0,Low,6144,3618.46,19.85,3,59,Two Year,No Offer,Credit Card,No Internet Service,No
+8982-NHAVY,No,0.4632115216591593,0,Moderate,5939,2982.67,100.5,3,50,One Year,Offer C,Bank Withdrawal,Fiber Optic,No
+1140-UKVZG,No,0.041121929413634045,0,Low,5208,605.47,24.8,5,66,Month-to-Month,Offer D,Credit Card,No Internet Service,No
+9584-EXCDZ,No,0.2934043088881845,0,Low,3650,1875.86,70.5,3,53,Month-to-Month,Offer D,Bank Withdrawal,Fiber Optic,No
+3417-TSCIC,No,0.081777092262138,0,Low,4161,788.05,24.85,5,49,One Year,No Offer,Credit Card,DSL,No
+3334-CTHOL,Yes,0.9998215585872693,1,Very High,2041,93.44,49.95,2,71,Month-to-Month,No Offer,Bank Withdrawal,Cable,No
+9494-MRNYX,No,0.09217760545607911,0,Low,3399,966.1,75.05,4,23,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+8495-PRWFH,No,0.1584454398220448,0,Low,5831,3555.75,55.65,4,80,Month-to-Month,No Offer,Bank Withdrawal,Cable,No
+9967-ATRFS,No,0.011297711460843725,0,Low,3245,976.12,19.9,5,21,Month-to-Month,No Offer,Credit Card,No Internet Service,No
+5756-OZRIO,No,0.05081838834942348,0,Low,4001,5991.24,64.05,4,29,One Year,No Offer,Bank Withdrawal,DSL,No
+2691-NZETQ,Yes,0.9034492995226703,1,Very High,2752,1200.86,85.35,2,89,Month-to-Month,Offer E,Bank Withdrawal,Fiber Optic,No
+4667-QONEA,No,0.06878552482184709,0,Low,5153,7390.35,74.85,3,59,One Year,Offer B,Credit Card,Cable,Yes
+3255-GRXMG,No,0.05465758880773361,0,Low,4403,1400.46,45.65,5,75,Month-to-Month,Offer D,Credit Card,DSL,No
+4751-ERMAN,No,0.09399479535675147,0,Low,4171,8515.77,75.4,3,35,Two Year,No Offer,Bank Withdrawal,Cable,No
+9904-EHEVJ,No,0.02868949853768927,0,Low,2965,3052.93,91.35,5,35,One Year,Offer C,Credit Card,Fiber Optic,No
+0744-BIKKF,No,0.0,0,Low,4621,7046.32,86.65,3,67,Two Year,Offer A,Bank Withdrawal,DSL,Yes
+8305-VHZBZ,Yes,0.9963104108320034,1,Very High,4325,33.47,20.2,1,92,Month-to-Month,No Offer,Mailed Check,No Internet Service,No
+6429-SHBCB,No,0.08461351787126932,0,Low,3349,1655.99,69.6,4,77,Month-to-Month,Offer D,Mailed Check,DSL,No
+2843-CQMEG,No,0.14150007781187912,0,Low,2911,1307.53,49.7,3,38,Month-to-Month,Offer C,Mailed Check,Cable,No
+9688-YGXVR,No,0.05677153197343957,0,Low,4112,5417.72,88.15,4,59,Month-to-Month,Offer B,Credit Card,Fiber Optic,No
+3466-RITXD,No,0.1360062462120856,0,Low,5461,3327.14,92.4,3,75,Month-to-Month,No Offer,Credit Card,Fiber Optic,No
+9281-CEDRU,No,0.02752613258005283,0,Low,5553,4893.29,64.1,5,48,Two Year,No Offer,Bank Withdrawal,DSL,Yes
+8259-DZLIZ,No,0.0018602818011626762,0,Low,4954,4492.33,53.85,4,36,One Year,Offer B,Bank Withdrawal,DSL,No
+7878-JGDKK,No,0.38675371565012256,0,Moderate,2124,341.03,44.55,3,45,Month-to-Month,Offer E,Credit Card,Cable,No
+9373-WSLOY,No,0.19128589262767248,0,Low,5600,1750.85,50.0,3,65,Two Year,No Offer,Bank Withdrawal,DSL,Yes
+8231-BSWXX,No,0.04788163752286364,0,Low,5466,8487.64,79.05,4,38,One Year,Offer A,Credit Card,Fiber Optic,No
+1060-ENTOF,No,0.031424559924763444,0,Low,5703,7214.49,105.4,4,64,One Year,No Offer,Credit Card,Fiber Optic,Yes
+9750-BOOHV,No,0.013349000045230475,0,Low,3585,927.65,30.15,4,60,One Year,Offer C,Credit Card,DSL,No
+6993-YGFJV,No,0.051951803056262534,0,Low,5532,8041.79,112.55,4,52,Two Year,Offer A,Bank Withdrawal,Fiber Optic,Yes
+0854-UYHZD,No,0.016343692968490232,0,Low,2816,814.29,19.55,4,55,Two Year,No Offer,Mailed Check,No Internet Service,No
+4815-YOSUK,No,0.009469336020708832,0,Low,4927,10502.46,104.9,3,35,One Year,No Offer,Credit Card,Fiber Optic,Yes
+4187-CINZD,Yes,0.7319209939249957,1,High,3180,4706.18,95.25,2,90,One Year,No Offer,Credit Card,Fiber Optic,No
+9249-FXSCK,Yes,0.8384620365122953,1,Very High,4861,7667.06,111.25,1,90,One Year,Offer B,Credit Card,Fiber Optic,Yes
+2212-LYASK,No,0.10183491229975825,0,Low,2068,1276.4,45.85,4,49,One Year,No Offer,Credit Card,DSL,No
+4291-YZODP,No,0.01679982733023847,0,Low,3810,444.42,20.05,5,62,One Year,Offer E,Credit Card,No Internet Service,No
+4304-TSPVK,No,0.03646936722005501,0,Low,5782,9417.07,114.9,3,77,Two Year,Offer A,Bank Withdrawal,Fiber Optic,Yes
+2107-FBPTK,No,0.061425545865847996,0,Low,5655,4379.0,104.1,4,59,Two Year,No Offer,Bank Withdrawal,Fiber Optic,No
+2925-VDZHY,No,0.0018602818011626762,0,Low,4641,8562.71,88.7,4,46,Two Year,Offer A,Credit Card,DSL,Yes
+5461-QKNTN,No,0.27566860447959585,0,Low,2040,4150.52,94.3,3,63,One Year,No Offer,Bank Withdrawal,Fiber Optic,Yes
+9127-FHJBZ,No,0.004775817365458799,0,Low,4558,10430.99,114.0,3,29,Two Year,No Offer,Bank Withdrawal,Fiber Optic,Yes
+0440-UEDAI,No,0.04685948961962972,0,Low,5452,6838.39,94.45,4,64,One Year,No Offer,Credit Card,Fiber Optic,Yes
+4395-PZMSN,No,0.03561423865325538,0,Low,2850,500.4,85.55,4,48,Two Year,Offer E,Bank Withdrawal,Fiber Optic,No
+6702-OHFWR,Yes,0.9901815366056095,1,Very High,4972,43.3,43.3,3,91,Month-to-Month,Offer E,Bank Withdrawal,DSL,No
+2789-CZANW,No,0.007579276462448258,0,Low,5574,8351.54,110.3,3,45,Two Year,Offer B,Bank Withdrawal,Fiber Optic,Yes
+9522-BNTHX,No,0.0690665946583649,0,Low,5597,1765.95,56.25,3,32,Two Year,No Offer,Bank Withdrawal,DSL,No
+1251-STYSZ,No,0.06959104665100382,0,Low,3828,368.7,80.25,4,20,One Year,No Offer,Bank Withdrawal,Fiber Optic,No
+6300-BWMJX,No,0.40069240543055407,0,Moderate,4814,6576.45,93.35,3,44,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,Yes
+7124-UGSUR,Yes,0.8537221395823931,1,Very High,4412,8546.71,104.4,1,84,One Year,No Offer,Credit Card,Fiber Optic,No
+4078-SAYYN,Yes,0.9568511786719234,1,Very High,2229,1664.79,100.75,2,65,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+7696-CFTAT,No,0.013151286538315871,0,Low,2745,1029.87,19.8,3,28,Two Year,No Offer,Bank Withdrawal,No Internet Service,No
+7820-ZYGNY,No,0.2526526761352242,0,Low,4616,6505.73,90.45,3,23,One Year,No Offer,Credit Card,Fiber Optic,No
+9851-QXEEQ,Yes,0.9428043701424604,1,Very High,3316,6303.74,104.7,1,84,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+5989-OMNJE,No,0.04234964526424293,0,Low,5623,1367.75,57.6,4,70,One Year,No Offer,Bank Withdrawal,DSL,No
+3244-DCJWY,Yes,1.0,1,Very High,4133,93.25,70.25,1,89,Month-to-Month,Offer E,Bank Withdrawal,Fiber Optic,No
+9847-HNVGP,No,0.01089368941252082,0,Low,2221,751.07,19.95,5,76,One Year,Offer D,Credit Card,No Internet Service,No
+5149-TGWDZ,No,0.10644658959632412,0,Low,3471,3001.91,104.55,4,20,One Year,No Offer,Credit Card,Fiber Optic,Yes
+3923-CSIHK,Yes,0.6228597265533525,1,High,5746,3674.85,71.05,3,94,Month-to-Month,No Offer,Bank Withdrawal,Cable,No
+4021-RQSNY,Yes,0.8199286408495114,1,Very High,5137,3754.22,98.5,3,72,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+4548-SDBKE,Yes,0.8007264393759083,1,Very High,4109,647.25,85.2,3,87,Month-to-Month,Offer E,Bank Withdrawal,Fiber Optic,No
+3387-VATUS,Yes,0.8032770190608152,1,Very High,5701,663.55,94.85,3,69,Month-to-Month,Offer E,Bank Withdrawal,Fiber Optic,No
+3639-XJHKQ,No,0.07993363668100661,0,Low,2463,1990.92,60.6,3,33,Month-to-Month,Offer D,Bank Withdrawal,DSL,No
+1866-RZZQS,Yes,0.9609725674871958,1,Very High,2169,5912.21,98.4,1,91,Month-to-Month,Offer B,Bank Withdrawal,Fiber Optic,No
+3858-VOBET,Yes,0.29692506831682636,0,Low,5897,2372.85,74.95,3,89,Month-to-Month,No Offer,Bank Withdrawal,Cable,No
+5176-LMJXE,No,0.0042481904838920755,0,Low,5404,3046.13,20.55,4,53,Two Year,No Offer,Credit Card,No Internet Service,No
+3688-FTHLT,No,0.22481338723217198,0,Low,3214,1760.73,63.05,3,73,Month-to-Month,No Offer,Bank Withdrawal,DSL,No
+7072-MBHEV,No,0.18499268567578422,0,Low,2333,1059.11,78.1,5,50,Month-to-Month,No Offer,Credit Card,Fiber Optic,No
+5906-CVLHP,Yes,0.7950917995385276,1,High,2761,4211.6,54.15,2,92,One Year,No Offer,Credit Card,Cable,Yes
+6919-ELBGL,No,0.03529064775794462,0,Low,6268,9735.76,114.95,3,61,Two Year,Offer A,Bank Withdrawal,Fiber Optic,Yes
+9644-KVCNC,No,0.021225276508136114,0,Low,4928,7355.78,92.15,4,77,One Year,Offer A,Bank Withdrawal,Fiber Optic,No
+6859-RKMZJ,No,0.09345202424405856,0,Low,2762,1094.35,55.05,3,21,Month-to-Month,No Offer,Bank Withdrawal,DSL,No
+2649-HWLYB,No,0.01465662815926865,0,Low,6177,6332.25,76.15,4,46,Two Year,Offer B,Bank Withdrawal,DSL,Yes
+4534-WGCIR,No,0.007435963596379144,0,Low,6444,3220.9,25.15,4,71,Two Year,No Offer,Credit Card,No Internet Service,No
+2082-OJVTK,Yes,0.9568714251789225,1,Very High,5292,2814.35,89.2,1,91,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+4318-RAJVY,No,0.07826417219260083,0,Low,5270,226.65,19.8,3,34,One Year,No Offer,Credit Card,No Internet Service,No
+9795-VOWON,No,0.13637771351258984,0,Low,4665,150.85,24.35,4,26,One Year,Offer E,Credit Card,Cable,No
+5624-RYAMH,No,0.048611182808779275,0,Low,4283,601.31,19.5,4,64,Month-to-Month,No Offer,Bank Withdrawal,No Internet Service,No
+6518-KZXCB,No,0.0594273930949403,0,Low,3403,671.88,25.25,4,61,Two Year,Offer D,Credit Card,No Internet Service,No
+9717-IOAAF,No,0.029935750301761738,0,Low,2682,860.1,25.85,5,21,Two Year,No Offer,Credit Card,No Internet Service,No
+1697-LYYYX,No,0.023861271134519153,0,Low,4376,3712.51,19.1,4,57,One Year,No Offer,Credit Card,No Internet Service,No
+8059-UDZFY,No,0.05191968448881998,0,Low,4738,3885.8,105.35,5,58,Two Year,Offer C,Bank Withdrawal,Fiber Optic,No
+3714-XPXBW,No,0.03505285002470505,0,Low,3801,4576.12,78.9,4,64,Month-to-Month,No Offer,Credit Card,DSL,Yes
+4079-VTGLK,No,0.014826390898857284,0,Low,5610,3396.75,74.85,5,27,Two Year,No Offer,Bank Withdrawal,DSL,No
+5921-NGYRH,No,0.14518517300343767,0,Low,5018,7840.34,73.55,3,50,Month-to-Month,Offer B,Credit Card,Fiber Optic,No
+6258-PVZWJ,No,0.0070538969356586856,0,Low,4265,7107.29,90.8,4,69,Two Year,Offer A,Credit Card,DSL,Yes
+1403-LKLIK,No,0.005771815549461216,0,Low,3342,1516.6,20.1,3,62,One Year,No Offer,Credit Card,No Internet Service,No
+7294-TMAOP,Yes,0.9985037481875376,1,Very High,2627,165.99,90.55,2,72,Month-to-Month,Offer E,Bank Withdrawal,Fiber Optic,No
+1336-EZFZY,No,0.0683775984971644,0,Low,4596,186.5,20.05,4,30,Month-to-Month,No Offer,Credit Card,No Internet Service,No
+6061-GWWAV,No,0.022598884862055878,0,Low,5365,3458.71,70.2,4,56,One Year,No Offer,Credit Card,Cable,No
+1814-WFGVS,No,0.00629944243102794,0,Low,5415,3492.56,48.9,3,47,Two Year,No Offer,Mailed Check,DSL,Yes
+9054-FOWNV,No,0.054026545343251846,0,Low,5585,2135.73,88.75,4,48,Month-to-Month,Offer D,Bank Withdrawal,Fiber Optic,No
+6479-SZPLM,No,0.0018602818011626762,0,Low,5745,1917.3,19.45,5,39,Two Year,No Offer,Credit Card,No Internet Service,No
+7054-DMVAS,No,0.02989886698405292,0,Low,4556,4524.86,65.3,3,61,Two Year,No Offer,Bank Withdrawal,DSL,No
+6338-AVWCY,Yes,0.8736086189455055,1,Very High,4710,130.75,40.15,3,75,Month-to-Month,No Offer,Mailed Check,DSL,No
+0254-KCJGT,No,0.021710446146806388,0,Low,4628,6504.13,81.4,4,64,One Year,Offer B,Credit Card,Cable,Yes
+0634-SZPQA,Yes,0.8794197187906528,1,Very High,4650,2224.07,90.05,2,67,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+4891-NLUBA,No,0.01735330185632713,0,Low,5063,3751.15,61.45,3,20,Two Year,Offer B,Bank Withdrawal,DSL,Yes
+7408-OFWXJ,No,0.004160864903535336,0,Low,5762,9744.69,89.8,3,66,Two Year,No Offer,Credit Card,DSL,Yes
+4254-QPEDE,No,0.004133197763091002,0,Low,4275,3330.1,66.25,4,23,Two Year,No Offer,Credit Card,DSL,Yes
+2722-VOJQL,Yes,0.8257400631484224,1,Very High,4870,8453.82,105.65,1,91,One Year,No Offer,Credit Card,Fiber Optic,Yes
+8782-NUUOL,No,0.039044089990180095,0,Low,4807,6908.9,79.0,3,43,One Year,No Offer,Credit Card,DSL,Yes
+2040-LDIWQ,No,0.020697649626569392,0,Low,5256,8026.55,84.2,5,33,Two Year,Offer B,Bank Withdrawal,DSL,Yes
+0727-BMPLR,Yes,0.32291869369718945,0,Moderate,5679,7665.2,100.0,3,83,One Year,No Offer,Bank Withdrawal,Fiber Optic,No
+5876-HZVZM,Yes,0.7580608908563772,1,High,4914,482.41,55.9,1,87,Month-to-Month,Offer E,Credit Card,Cable,No
+4119-ZYPZY,No,0.204984810785481,0,Low,6423,10094.0,106.8,3,28,Two Year,No Offer,Bank Withdrawal,Fiber Optic,Yes
+2187-PKZAY,No,0.14739172664549646,0,Low,2968,1524.12,79.95,5,71,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+3935-TBRZZ,No,0.024840610065176218,0,Low,3037,1785.02,25.7,3,80,One Year,Offer B,Credit Card,No Internet Service,No
+7940-UQQUG,No,0.003383906866731816,0,Low,5133,7614.4,104.4,4,33,One Year,No Offer,Bank Withdrawal,Fiber Optic,Yes
+1830-IPXVJ,No,0.0,0,Low,6108,2861.0,19.75,3,22,Two Year,Offer B,Credit Card,No Internet Service,No
+0234-TEVTT,No,0.012438482216127882,0,Low,5269,2196.3,45.0,3,21,One Year,No Offer,Credit Card,DSL,No
+5027-XWQHA,Yes,0.8568562982023998,1,Very High,2087,527.91,44.75,2,78,Month-to-Month,No Offer,Bank Withdrawal,Cable,No
+3807-BPOMJ,No,0.04869366693142098,0,Low,6021,6647.25,94.75,4,63,One Year,Offer B,Bank Withdrawal,Fiber Optic,No
+0094-OIFMO,Yes,0.8452868964891607,1,Very High,5980,1367.79,95.0,1,85,Month-to-Month,Offer D,Bank Withdrawal,Fiber Optic,No
+1589-AGTLK,Yes,0.8852470349790644,1,Very High,2450,250.94,45.35,3,90,Month-to-Month,No Offer,Bank Withdrawal,DSL,No
+6116-RFVHN,No,0.07535759254049562,0,Low,3744,4614.51,100.45,5,42,Month-to-Month,Offer C,Bank Withdrawal,Fiber Optic,No
+0516-OOHAR,No,0.03910614599187046,0,Low,3411,3015.44,100.35,3,50,One Year,No Offer,Bank Withdrawal,Fiber Optic,No
+2971-SGAFL,No,0.14530700875555008,0,Low,5631,1544.55,78.75,4,79,Month-to-Month,Offer D,Bank Withdrawal,DSL,No
+0840-DCNZE,No,0.026401226878739553,0,Low,5631,5867.56,86.95,4,57,One Year,Offer B,Bank Withdrawal,DSL,Yes
+6229-UOLQL,No,0.01119404727442464,0,Low,5845,2884.9,52.0,3,55,One Year,Offer B,Credit Card,Cable,Yes
+2898-MRKPI,No,0.0023879086827293997,0,Low,5570,9124.66,101.05,4,32,One Year,Offer A,Credit Card,Fiber Optic,No
+6156-UZDLF,No,0.07685182141864963,0,Low,5689,3466.44,87.15,3,77,One Year,Offer C,Credit Card,Fiber Optic,Yes
+4418-LZMSV,No,0.031171914299069126,0,Low,4749,1116.05,61.8,3,47,Month-to-Month,No Offer,Bank Withdrawal,Cable,Yes
+5760-WRAHC,No,0.08864317987478022,0,Low,3509,2644.96,69.75,3,32,One Year,Offer D,Mailed Check,DSL,Yes
+0795-LAFGP,No,0.018215264387806983,0,Low,5633,6921.52,90.4,3,40,Two Year,No Offer,Bank Withdrawal,DSL,Yes
+9504-DSHWM,No,0.12262726665845478,0,Low,5924,1984.0,59.2,3,58,Month-to-Month,No Offer,Bank Withdrawal,DSL,Yes
+1488-PBLJN,No,0.011829714301117485,0,Low,4055,10769.46,116.85,3,33,Two Year,Offer A,Bank Withdrawal,Fiber Optic,Yes
+6992-TKNYO,No,0.04429823864915257,0,Low,4487,3889.63,69.0,4,23,One Year,Offer C,Credit Card,DSL,Yes
+8785-EPNCG,Yes,0.7145036521250372,1,High,5671,585.21,23.15,1,65,Month-to-Month,No Offer,Credit Card,No Internet Service,No
+0924-BJCRC,No,0.08250053124637,0,Low,4340,6785.4,89.45,3,44,Two Year,Offer B,Bank Withdrawal,Fiber Optic,No
+8387-UGUSU,No,0.0037939108113311383,0,Low,3591,852.8,20.05,4,59,Month-to-Month,No Offer,Credit Card,No Internet Service,No
+0572-ZJKLT,No,0.014806516136254555,0,Low,4736,6886.81,99.65,3,58,Two Year,Offer B,Credit Card,Fiber Optic,Yes
+2862-JVEOY,No,0.04118687468406294,0,Low,5322,187.64,19.15,5,41,One Year,No Offer,Credit Card,No Internet Service,No
+6686-YPGHK,Yes,0.24442943655206106,0,Low,3645,5811.56,85.5,3,68,Month-to-Month,No Offer,Credit Card,Fiber Optic,No
+9402-ORRAH,No,0.13261913038648915,0,Low,4173,1945.19,91.5,3,41,Two Year,No Offer,Bank Withdrawal,Fiber Optic,No
+1051-EQPZR,No,0.050985601817052396,0,Low,5584,963.73,19.6,5,36,Month-to-Month,No Offer,Credit Card,No Internet Service,No
+1169-WCVAK,No,0.280717313590694,0,Low,4600,2319.3,88.8,3,63,Month-to-Month,Offer D,Credit Card,Fiber Optic,Yes
+2293-IJWPS,No,0.17727323759064728,0,Low,6354,6197.04,100.75,3,31,One Year,Offer B,Credit Card,Fiber Optic,No
+6505-OZNPG,No,0.05673003373678708,0,Low,3909,358.8,63.4,4,48,Two Year,No Offer,Mailed Check,Cable,Yes
+7554-NEWDD,No,0.032927296819451675,0,Low,3611,572.6,25.7,5,8,Two Year,No Offer,Bank Withdrawal,No Internet Service,No
+7669-LCRSD,No,0.08319721610420426,0,Low,2047,835.89,56.3,3,56,Month-to-Month,Offer D,Mailed Check,Cable,No
+6804-GDMOI,Yes,0.2433292420660677,0,Low,4183,8943.43,106.6,3,68,Two Year,No Offer,Bank Withdrawal,Fiber Optic,Yes
+3208-YPIOE,Yes,0.36108899780878495,0,Moderate,4696,4428.28,75.25,3,96,Month-to-Month,Offer C,Bank Withdrawal,Fiber Optic,No
+2430-RRYUW,No,0.027930823945502118,0,Low,4621,4228.66,54.8,4,20,One Year,Offer A,Mailed Check,DSL,No
+7516-GMHUV,No,0.07470623016173651,0,Low,5324,7208.3,105.05,4,40,Two Year,No Offer,Credit Card,Fiber Optic,No
+5404-GGUKR,No,0.09575065735828193,0,Low,2893,348.1,51.35,5,28,Month-to-Month,Offer E,Bank Withdrawal,DSL,No
+3345-PBBFH,No,0.11360089059996616,0,Low,5922,412.49,49.55,5,25,Month-to-Month,Offer E,Bank Withdrawal,DSL,No
+1567-DSCIC,Yes,0.9638921328993284,1,Very High,2632,964.77,94.0,1,71,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+5117-IFGPS,No,0.0800181358356313,0,Low,2217,3423.5,84.3,3,67,Two Year,Offer C,Bank Withdrawal,Fiber Optic,No
+5847-MXBEO,No,0.005041102286051138,0,Low,4510,703.02,20.3,5,50,One Year,Offer D,Credit Card,No Internet Service,No
+8570-KLJYJ,No,0.015226957369401155,0,Low,4462,2827.7,54.45,3,56,One Year,No Offer,Credit Card,DSL,No
+0423-UDIJQ,No,0.03084386197184933,0,Low,2145,511.89,49.2,4,22,Two Year,No Offer,Mailed Check,DSL,Yes
+6281-FKEWS,No,0.024374279683642783,0,Low,3910,2265.0,49.05,5,68,One Year,No Offer,Bank Withdrawal,Cable,No
+6175-IRFIT,No,0.20094681801380376,0,Low,2610,600.9,78.75,5,66,Month-to-Month,No Offer,Credit Card,Fiber Optic,No
+5863-OOKCL,No,0.1911752327935625,0,Low,5949,573.6,18.85,3,62,Month-to-Month,Offer D,Credit Card,No Internet Service,No
+0991-BRRFB,Yes,0.8476991958355424,1,Very High,4028,1250.28,49.4,1,75,Month-to-Month,No Offer,Bank Withdrawal,DSL,No
+2888-ADFAO,No,0.0,0,Low,2861,1227.45,21.3,4,30,Two Year,No Offer,Bank Withdrawal,No Internet Service,No
+5442-BXVND,No,0.023569165284311605,0,Low,5531,1167.51,24.25,5,73,Month-to-Month,No Offer,Bank Withdrawal,No Internet Service,No
+2525-GVKQU,No,0.0636951205282618,0,Low,4192,3917.2,20.6,3,35,Two Year,Offer B,Credit Card,No Internet Service,No
+8439-LTUGF,No,0.018628547649188615,0,Low,4802,389.6,20.0,4,53,Month-to-Month,Offer D,Credit Card,No Internet Service,No
+4390-KYULV,Yes,0.8082905072744136,1,Very High,4115,163.98,20.55,1,90,Month-to-Month,Offer E,Credit Card,No Internet Service,No
+7994-XIRTR,No,0.06587632165798897,0,Low,6161,3774.44,65.25,4,66,One Year,Offer B,Bank Withdrawal,DSL,Yes
+3649-JPUGY,No,0.11690651730404239,0,Low,5842,9403.07,88.6,3,52,Two Year,Offer A,Bank Withdrawal,DSL,Yes
+6907-CQGPN,No,0.03607148936692159,0,Low,2555,1004.75,34.3,5,65,Month-to-Month,No Offer,Bank Withdrawal,DSL,Yes
+6221-AVQYL,Yes,0.9861664130382066,1,Very High,2919,136.97,73.25,1,78,Month-to-Month,No Offer,Credit Card,Fiber Optic,No
+3003-CMDUU,No,0.3704911055241603,0,Moderate,3273,3220.95,95.15,3,52,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,Yes
+2272-UOINI,No,0.12986509339041924,0,Low,3601,594.43,78.5,4,47,Month-to-Month,Offer E,Bank Withdrawal,Cable,Yes
+4116-IQRFR,No,0.21382994775045147,0,Low,4463,139.82,24.1,3,21,One Year,Offer E,Credit Card,No Internet Service,No
+7587-AOVVU,No,0.09941231969703589,0,Low,3160,3173.44,100.75,3,31,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,Yes
+9057-MSWCO,Yes,0.8415656128608731,1,Very High,2927,945.1,30.75,1,91,Month-to-Month,No Offer,Credit Card,Cable,No
+7295-JOMMD,Yes,0.9596155723120517,1,Very High,2895,418.82,98.1,1,87,Month-to-Month,Offer E,Bank Withdrawal,Fiber Optic,Yes
+7706-YLMQA,No,0.021851934190482234,0,Low,6072,2041.5,19.7,4,72,One Year,No Offer,Bank Withdrawal,No Internet Service,No
+4323-ELYYB,No,0.020213858048718465,0,Low,5651,273.93,20.0,3,27,One Year,No Offer,Credit Card,No Internet Service,No
+4521-WFJAI,No,0.04388366221768494,0,Low,4246,4121.97,25.95,3,40,Two Year,No Offer,Bank Withdrawal,No Internet Service,No
+8705-DWKTI,No,0.3403098817891141,0,Moderate,6339,4709.24,83.8,3,40,Month-to-Month,No Offer,Credit Card,Fiber Optic,No
+5206-HPJKM,No,0.055681604243791656,0,Low,3190,1506.71,55.5,4,38,Month-to-Month,No Offer,Credit Card,DSL,No
+3920-HIHMQ,No,0.09674219104132985,0,Low,4196,1840.49,49.5,5,38,Month-to-Month,No Offer,Credit Card,DSL,No
+3629-WEAAM,No,0.09136519206426377,0,Low,2804,874.37,64.1,5,25,Month-to-Month,No Offer,Mailed Check,DSL,Yes
+1539-LNKHM,No,0.02768586543668491,0,Low,4497,545.0,20.4,4,60,Month-to-Month,Offer D,Credit Card,No Internet Service,No
+1041-RXHRA,Yes,0.3588033767814204,0,Moderate,3407,4540.03,70.25,3,69,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+5336-UFNZP,No,0.003383906866731816,0,Low,6211,8320.2,107.45,4,32,One Year,Offer B,Bank Withdrawal,Fiber Optic,No
+2378-HTWFW,No,0.37030350654219923,0,Moderate,5527,4137.15,91.0,3,35,Month-to-Month,No Offer,Credit Card,Fiber Optic,No
+4250-FDVOU,Yes,0.8012823694151611,1,Very High,4110,492.18,56.25,1,95,Month-to-Month,Offer E,Bank Withdrawal,DSL,No
+7928-VJYAB,No,0.0734500772217571,0,Low,2004,1443.48,90.6,5,65,Month-to-Month,Offer D,Bank Withdrawal,Fiber Optic,No
+8644-XLFBW,Yes,0.9975681882946361,1,Very High,5674,100.11,71.65,2,84,Month-to-Month,Offer E,Bank Withdrawal,Fiber Optic,No
+1934-MKPXS,No,0.028689087774429828,0,Low,3636,2249.76,20.1,5,59,One Year,No Offer,Credit Card,No Internet Service,No
+6734-GMPVK,No,0.7126059173417886,1,High,4024,773.85,105.3,3,66,Month-to-Month,Offer E,Bank Withdrawal,Fiber Optic,No
+6692-UDPJC,Yes,0.25854252743130457,0,Low,4304,1428.82,91.65,3,65,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,Yes
+9200-NLNPD,No,0.07062705632077232,0,Low,6445,2999.8,54.05,4,27,One Year,No Offer,Bank Withdrawal,DSL,Yes
+9367-TCUYN,No,0.03802596342473088,0,Low,5179,329.44,20.1,4,32,Month-to-Month,Offer D,Credit Card,No Internet Service,No
+6537-OTKMY,No,0.10179981496651531,0,Low,5091,655.65,50.75,5,63,One Year,Offer D,Bank Withdrawal,DSL,No
+4846-WHAFZ,Yes,0.7916351258004579,1,High,2793,3102.36,76.5,2,67,Month-to-Month,Offer C,Bank Withdrawal,Fiber Optic,No
+7088-FBAWU,No,0.026859883137455055,0,Low,4451,1979.1,74.55,3,22,Month-to-Month,Offer D,Credit Card,DSL,No
+3891-PUQOD,Yes,0.9874203072032777,1,Very High,5020,72.78,59.2,1,65,Month-to-Month,No Offer,Bank Withdrawal,DSL,No
+1927-QEWMY,No,0.007872929668058389,0,Low,6302,4663.77,20.5,4,25,Two Year,Offer A,Credit Card,No Internet Service,No
+4338-EYCER,No,0.12431320813160947,0,Low,5763,1486.19,54.6,3,43,Month-to-Month,No Offer,Bank Withdrawal,DSL,No
+4660-IRIBM,No,0.09244933966951722,0,Low,5192,1935.38,87.9,4,33,Month-to-Month,Offer D,Mailed Check,Fiber Optic,No
+9357-UJRUN,No,0.01600745648900835,0,Low,5428,2163.14,58.35,3,45,One Year,No Offer,Bank Withdrawal,Cable,Yes
+6067-NGCEU,No,0.09484727773904693,0,Low,5261,9822.7,111.05,4,38,Month-to-Month,No Offer,Credit Card,Fiber Optic,No
+0928-XUTSN,No,0.1323415339879595,0,Low,3895,1571.68,80.5,4,37,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+4800-CZMPC,Yes,0.829865825677082,1,Very High,4736,5342.83,103.25,1,71,One Year,Offer B,Credit Card,Fiber Optic,No
+5561-NWEVX,Yes,0.9700130923453569,1,Very High,4225,208.31,79.2,3,67,Month-to-Month,Offer E,Bank Withdrawal,Fiber Optic,No
+8824-RWFXJ,Yes,0.9656925451714776,1,Very High,2539,256.02,56.15,1,83,Month-to-Month,Offer E,Mailed Check,Cable,No
+5394-SVGJV,Yes,0.848295303538578,1,Very High,3066,4612.19,98.8,1,82,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,Yes
+7929-DMBCV,No,0.2445166412192503,0,Low,4741,1911.5,81.0,3,22,Month-to-Month,Offer D,Mailed Check,Fiber Optic,Yes
+9866-OCCKE,No,0.04631824631971673,0,Low,6010,10598.23,109.75,4,34,Two Year,Offer A,Mailed Check,Fiber Optic,Yes
+7205-BAIAD,No,0.013902791454635905,0,Low,3091,1742.9,20.6,3,27,Two Year,No Offer,Bank Withdrawal,No Internet Service,No
+3006-XIMLN,Yes,0.9996997811113121,1,Very High,5299,279.58,94.2,2,79,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+7706-DZNKK,No,0.04022651253941442,0,Low,2642,727.13,20.45,4,29,Month-to-Month,Offer D,Credit Card,No Internet Service,No
+2786-GCDPI,No,0.2531287975398454,0,Low,5570,6104.85,104.95,5,39,Month-to-Month,Offer B,Bank Withdrawal,Fiber Optic,Yes
+4000-VGMQP,No,0.012883653238271855,0,Low,2125,3382.01,78.95,5,60,One Year,No Offer,Credit Card,Cable,No
+3199-XGZCY,No,0.094753973457512,0,Low,2332,727.26,75.25,4,74,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+6388-TABGU,No,0.017394726644067264,0,Low,4529,3981.47,56.15,4,58,One Year,Offer B,Bank Withdrawal,DSL,No
+5840-NVDCG,No,0.009329586576565125,0,Low,3559,1436.77,68.25,3,43,Two Year,No Offer,Bank Withdrawal,Cable,Yes
+6680-NENYN,Yes,0.6710584292059335,1,High,5250,5313.69,104.6,1,91,Two Year,No Offer,Bank Withdrawal,Fiber Optic,No
+9696-RMYBA,No,0.6773627339146783,1,High,5225,460.3,80.1,3,22,Month-to-Month,No Offer,Credit Card,Fiber Optic,No
+2267-WTPYD,No,0.19941901921042166,0,Low,6015,6752.8,94.0,5,49,Month-to-Month,No Offer,Credit Card,Fiber Optic,No
+5485-WUYWF,Yes,0.9934683227531114,1,Very High,4522,105.69,66.4,1,87,Month-to-Month,No Offer,Bank Withdrawal,Cable,No
+4853-RULSV,Yes,0.7491887879139739,1,High,4544,8103.45,104.0,1,80,Two Year,Offer A,Credit Card,Fiber Optic,Yes
+4104-PVRPS,No,0.09491052948794479,0,Low,2977,1459.83,53.6,3,47,Month-to-Month,Offer C,Mailed Check,Cable,Yes
+0749-IRGQE,No,0.19967979310471,0,Low,4118,528.45,45.3,4,48,Month-to-Month,No Offer,Bank Withdrawal,DSL,No
+8847-GEOOQ,No,0.06032370516623613,0,Low,5359,3582.4,60.2,5,76,Month-to-Month,Offer B,Bank Withdrawal,DSL,Yes
+3404-JNXAX,No,0.0023879086827293997,0,Low,6032,5624.46,80.75,4,36,Month-to-Month,Offer B,Bank Withdrawal,Fiber Optic,Yes
+0305-SQECB,No,0.05042291536590777,0,Low,4265,502.6,36.05,4,67,One Year,No Offer,Credit Card,DSL,Yes
+2325-WINES,No,0.15983728760957275,0,Low,2335,3871.57,104.05,4,60,One Year,No Offer,Credit Card,Fiber Optic,No
+2227-JRSJX,No,0.37482242723112513,0,Moderate,5324,2084.92,99.15,3,36,Month-to-Month,Offer D,Bank Withdrawal,Fiber Optic,Yes
+9547-ITEFG,No,0.11262642924626609,0,Low,4062,1108.53,102.6,5,32,Month-to-Month,Offer E,Credit Card,Fiber Optic,No
+7471-WNSUF,No,0.19336410292481682,0,Low,4501,2491.1,24.15,3,24,One Year,Offer B,Bank Withdrawal,No Internet Service,No
+8564-LDKFL,No,0.1871996309130957,0,Low,5118,5310.03,106.0,5,77,One Year,Offer B,Bank Withdrawal,Fiber Optic,No
+2267-FPIMA,No,0.13304839397790108,0,Low,5548,5793.9,94.4,4,21,Month-to-Month,Offer B,Credit Card,Fiber Optic,No
+3871-IKPYH,Yes,0.9859932879265,1,Very High,2767,85.29,69.1,3,83,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+6892-XPFPU,Yes,0.9073708577041,1,Very High,2104,3628.14,104.25,1,80,Month-to-Month,Offer C,Bank Withdrawal,Fiber Optic,No
+3508-VLHCZ,No,0.0018602818011626762,0,Low,6009,9200.46,90.55,4,66,Two Year,Offer A,Credit Card,Cable,Yes
+5590-YRFJT,Yes,0.3616177081258784,0,Moderate,3298,482.8,24.45,3,94,Month-to-Month,No Offer,Bank Withdrawal,DSL,No
+5730-RIITO,No,0.023581908842412666,0,Low,4757,1540.25,33.45,3,79,Two Year,No Offer,Credit Card,DSL,No
+5567-WSELE,Yes,0.9990605482313153,1,Very High,3019,376.48,94.6,1,87,Month-to-Month,Offer E,Bank Withdrawal,Fiber Optic,No
+9916-AYHTC,No,0.004497521639128873,0,Low,3779,2453.92,19.85,5,38,Two Year,No Offer,Credit Card,No Internet Service,No
+9940-HPQPG,Yes,0.9176059031114805,1,Very High,4176,1063.8,91.75,1,91,Month-to-Month,Offer E,Bank Withdrawal,Fiber Optic,No
+6088-BXMRG,No,0.0389994132312249,0,Low,3149,3858.88,98.85,4,25,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+1481-ZUWZA,Yes,0.8673540459309413,1,Very High,5433,3653.96,94.5,1,80,Month-to-Month,No Offer,Credit Card,Fiber Optic,No
+4480-MBMLB,No,0.2903213704451597,0,Low,5319,4909.21,104.8,3,68,One Year,Offer C,Bank Withdrawal,Fiber Optic,No
+0709-TVGUR,Yes,0.9796141540281543,1,Very High,3145,747.69,74.55,1,69,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+2823-LKABH,No,0.0845860564045405,0,Low,4524,1774.31,95.05,4,60,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,Yes
+7856-GANIL,No,0.2955916822203228,0,Low,2535,4632.9,98.7,3,66,One Year,Offer B,Bank Withdrawal,Fiber Optic,Yes
+0963-ZBDRN,Yes,0.23904104910231017,0,Low,3606,3990.12,96.2,3,93,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,Yes
+7541-YLXCL,Yes,0.7866262399078575,1,High,5220,3452.76,65.4,1,71,One Year,No Offer,Credit Card,Cable,Yes
+6047-YHPVI,Yes,0.8904771474482079,1,Very High,2454,379.9,69.7,1,66,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+3523-QRQLL,Yes,0.8353250756184288,1,Very High,5922,2219.51,69.5,2,94,One Year,No Offer,Bank Withdrawal,DSL,No
+9102-IAYHT,Yes,0.7352299282465312,1,High,3670,2263.52,85.45,3,94,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+6147-CBCRA,No,0.04251732840623441,0,Low,5759,806.4,20.05,4,22,Month-to-Month,No Offer,Credit Card,No Internet Service,No
+5493-SDRDQ,Yes,0.9788836676369563,1,Very High,4235,124.01,55.1,1,70,Month-to-Month,Offer E,Mailed Check,Cable,No
+4967-WPNCF,No,0.00908194860250283,0,Low,4921,4464.8,63.7,3,46,Two Year,Offer A,Bank Withdrawal,Cable,Yes
+4676-WLUHT,No,0.03812456814737275,0,Low,6143,2431.95,46.2,3,26,Two Year,Offer B,Bank Withdrawal,DSL,No
+9823-EALYC,No,0.0012901462347956814,0,Low,6067,6397.05,80.85,3,51,Two Year,No Offer,Bank Withdrawal,DSL,Yes
+8375-KVTHK,No,0.22977763798429687,0,Low,5757,10211.03,100.3,4,39,One Year,No Offer,Bank Withdrawal,Fiber Optic,Yes
+4335-BSMJS,No,0.04111742494261104,0,Low,6201,2074.21,25.8,3,34,Two Year,No Offer,Credit Card,No Internet Service,No
+5482-NUPNA,Yes,0.8158184845728039,1,Very High,5730,344.27,60.4,1,90,Month-to-Month,No Offer,Credit Card,Cable,Yes
+4831-EOBFE,Yes,0.8916435348594695,1,Very High,5150,3823.36,94.65,1,70,Month-to-Month,No Offer,Credit Card,Fiber Optic,No
+3948-FVVRP,No,0.037536484530584745,0,Low,2848,852.94,54.8,4,73,Month-to-Month,No Offer,Credit Card,DSL,Yes
+3604-WLABM,No,0.054931421498192065,0,Low,2253,712.6,54.25,4,43,Month-to-Month,Offer D,Bank Withdrawal,DSL,Yes
+3571-RFHAR,Yes,0.8095000451308892,1,Very High,6001,7689.6,109.15,2,91,Month-to-Month,Offer B,Bank Withdrawal,Fiber Optic,Yes
+3967-VQOGC,No,0.0,0,Low,5847,2848.06,24.9,5,59,Two Year,No Offer,Credit Card,No Internet Service,No
+7542-CYDDM,No,0.04137669063459695,0,Low,4204,771.96,20.05,3,22,Month-to-Month,No Offer,Credit Card,No Internet Service,No
+1898-JSNDC,No,0.06726000114983616,0,Low,5662,4103.13,58.6,4,46,One Year,Offer C,Credit Card,DSL,No
+5208-FVQKB,No,0.0,0,Low,5514,6409.25,67.95,3,27,Two Year,Offer A,Credit Card,DSL,Yes
+1661-CZBAU,No,0.09000914515904214,0,Low,2667,5777.68,70.95,3,56,One Year,Offer B,Bank Withdrawal,DSL,Yes
+8540-ZQGEA,No,0.0237159235372853,0,Low,4212,2869.28,20.05,5,40,Two Year,Offer B,Credit Card,No Internet Service,No
+8627-ZYGSZ,No,0.021552480263355576,0,Low,3817,5507.79,78.9,5,61,One Year,Offer B,Bank Withdrawal,Fiber Optic,No
+4816-OKWNX,No,0.009699781111311926,0,Low,5437,7046.9,103.4,5,68,One Year,No Offer,Bank Withdrawal,Fiber Optic,Yes
+3913-RDSJZ,No,0.000987499346200115,0,Low,4312,4875.91,25.55,4,22,Two Year,No Offer,Credit Card,No Internet Service,No
+1265-XTECC,Yes,0.6839565124372229,1,High,5957,6716.54,96.55,1,86,One Year,No Offer,Credit Card,Fiber Optic,No
+5232-NXPAY,No,0.07114502602296657,0,Low,3459,3673.39,74.45,3,55,Two Year,Offer B,Credit Card,DSL,Yes
+2868-SNELZ,Yes,0.9940445773839951,1,Very High,2683,166.44,80.6,1,92,Month-to-Month,No Offer,Credit Card,Fiber Optic,No
+4293-ETKAP,No,0.011091112120950077,0,Low,4023,5190.85,79.4,4,65,Two Year,Offer B,Bank Withdrawal,Cable,Yes
+5529-GIBVH,No,0.038422582040750906,0,Low,2618,1210.23,20.15,3,74,Two Year,No Offer,Credit Card,No Internet Service,No
+9250-WYPLL,Yes,0.8996943657871312,1,Very High,4600,589.75,75.55,2,79,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+5214-NLTIT,No,0.04877159308231787,0,Low,6188,8278.2,90.8,3,30,Two Year,Offer A,Credit Card,Fiber Optic,No
+5285-MVEHD,No,0.19661211312664512,0,Low,4196,7978.25,105.6,4,24,One Year,Offer B,Credit Card,Fiber Optic,No
+5294-DMSFH,No,0.05165004016113503,0,Low,4780,3596.73,87.8,4,25,Month-to-Month,No Offer,Credit Card,Fiber Optic,No
+3282-ZISZV,No,0.08206729490955239,0,Low,3945,3832.66,83.7,5,71,One Year,No Offer,Credit Card,DSL,Yes
+1658-BYGOY,Yes,0.7964157867923769,1,High,3179,1910.88,95.45,2,81,Month-to-Month,Offer D,Bank Withdrawal,Fiber Optic,No
+7421-ZLUPA,No,0.31953472044779396,0,Moderate,2038,226.95,29.25,3,29,Month-to-Month,No Offer,Credit Card,DSL,No
+4349-GFQHK,Yes,0.9894227783109113,1,Very High,4212,79.74,54.35,3,87,Month-to-Month,Offer E,Bank Withdrawal,DSL,No
+3410-YOQBQ,No,0.02726844216664809,0,Low,4984,3359.87,79.2,5,78,Two Year,No Offer,Credit Card,DSL,Yes
+5803-NQJZO,No,0.02132622551474943,0,Low,5242,5922.09,67.8,3,74,Two Year,No Offer,Bank Withdrawal,Cable,Yes
+1077-HUUJM,No,0.22513986617201803,0,Low,4668,682.15,71.05,5,49,Month-to-Month,Offer E,Bank Withdrawal,Fiber Optic,No
+7979-CORPM,Yes,0.909426382659687,1,Very High,5927,3144.87,90.55,2,67,Month-to-Month,No Offer,Credit Card,Fiber Optic,No
+7206-PQBBZ,No,0.05764531415729093,0,Low,2848,1103.32,70.2,3,29,Two Year,Offer D,Bank Withdrawal,Fiber Optic,No
+0668-OGMHD,No,0.084815158767688,0,Low,3766,629.35,28.5,4,77,Month-to-Month,Offer D,Bank Withdrawal,DSL,No
+9497-QCMMS,Yes,0.9996113753931737,1,Very High,5536,123.72,93.55,1,81,Month-to-Month,Offer E,Bank Withdrawal,Fiber Optic,No
+2101-RANCD,No,0.09040436368242165,0,Low,5832,4636.05,73.1,4,46,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No
+7005-CCBKV,Yes,0.7218463506844048,1,High,4539,688.17,84.4,3,77,Month-to-Month,No Offer,Bank Withdrawal,Fiber Optic,No

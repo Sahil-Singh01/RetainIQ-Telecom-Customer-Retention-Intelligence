@@ -1,0 +1,52 @@
+column,dtype,non_null,null_count,null_pct,unique_values
+Customer ID,object,7043,0,0.0,7043
+Gender,object,7043,0,0.0,2
+Age,int64,7043,0,0.0,62
+Under 30,object,7043,0,0.0,2
+Senior Citizen,object,7043,0,0.0,2
+Married,object,7043,0,0.0,2
+Dependents,object,7043,0,0.0,2
+Number of Dependents,int64,7043,0,0.0,10
+Country,object,7043,0,0.0,1
+State,object,7043,0,0.0,1
+City,object,7043,0,0.0,1106
+Zip Code,int64,7043,0,0.0,1626
+Latitude,float64,7043,0,0.0,1626
+Longitude,float64,7043,0,0.0,1625
+Population,int64,7043,0,0.0,1569
+Quarter,object,7043,0,0.0,1
+Referred a Friend,object,7043,0,0.0,2
+Number of Referrals,int64,7043,0,0.0,12
+Tenure in Months,int64,7043,0,0.0,72
+Offer,object,7043,0,0.0,6
+Phone Service,object,7043,0,0.0,2
+Avg Monthly Long Distance Charges,float64,7043,0,0.0,3584
+Multiple Lines,object,7043,0,0.0,2
+Internet Service,object,7043,0,0.0,2
+Internet Type,object,7043,0,0.0,4
+Avg Monthly GB Download,int64,7043,0,0.0,50
+Online Security,object,7043,0,0.0,2
+Online Backup,object,7043,0,0.0,2
+Device Protection Plan,object,7043,0,0.0,2
+Premium Tech Support,object,7043,0,0.0,2
+Streaming TV,object,7043,0,0.0,2
+Streaming Movies,object,7043,0,0.0,2
+Streaming Music,object,7043,0,0.0,2
+Unlimited Data,object,7043,0,0.0,2
+Contract,object,7043,0,0.0,3
+Paperless Billing,object,7043,0,0.0,2
+Payment Method,object,7043,0,0.0,3
+Monthly Charge,float64,7043,0,0.0,1585
+Total Charges,float64,7043,0,0.0,6540
+Total Refunds,float64,7043,0,0.0,500
+Total Extra Data Charges,int64,7043,0,0.0,16
+Total Long Distance Charges,float64,7043,0,0.0,6087
+Total Revenue,float64,7043,0,0.0,6982
+Satisfaction Score,int64,7043,0,0.0,5
+Customer Status,object,7043,0,0.0,3
+Churn Label,object,7043,0,0.0,2
+Churn Score,int64,7043,0,0.0,81
+CLTV,int64,7043,0,0.0,3438
+Churn Category,object,1869,5174,73.46,5
+Churn Reason,object,1869,5174,73.46,20
+is_new_customer,bool,7043,0,0.0,2

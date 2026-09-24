@@ -1,0 +1,6 @@
+Field,Before,After,Transformation
+Offer,3877,0,"Fill null with ""No Offer"""
+Internet Type,1526,0,"Fill null with ""No Internet Service"""
+Churn Category,5174,5174,Preserve structural nulls
+Churn Reason,5174,5174,Preserve structural nulls
+is_new_customer,Not present,454,"Add boolean from Customer Status == ""Joined"""

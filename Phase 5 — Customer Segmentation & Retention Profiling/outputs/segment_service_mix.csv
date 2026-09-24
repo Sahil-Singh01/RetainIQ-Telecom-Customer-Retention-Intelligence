@@ -1,0 +1,4 @@
+segment_id,phone_service_flag,premium_tech_support_flag,online_security_flag,online_backup_flag,device_protection_plan_flag,streaming_tv_flag,streaming_movies_flag,streaming_music_flag,unlimited_data_flag
+0,84.87,22.35,22.6,28.61,27.59,35.99,35.68,33.51,85.46
+1,98.46,1.22,1.16,0.77,0.9,0.19,0.06,0.06,2.12
+2,92.48,57.7,56.28,66.11,67.17,68.27,69.91,62.21,86.5

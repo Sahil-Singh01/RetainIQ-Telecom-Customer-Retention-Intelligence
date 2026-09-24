@@ -1,0 +1,9 @@
+Check,Before,After,Passed
+Row count,7043,7043,True
+Column count,50,51,True
+Customer ID uniqueness,7043,7043,True
+Offer nulls,3877,0,True
+Internet Type nulls,1526,0,True
+Churn Category nulls,5174,5174,True
+Churn Reason nulls,5174,5174,True
+New customers flagged,454,454,True

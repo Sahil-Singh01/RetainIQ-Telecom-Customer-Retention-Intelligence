@@ -1,0 +1,14 @@
+metric,value
+Rows,7043.0
+Columns,50.0
+Unique Customer IDs,7043.0
+Duplicate Customer IDs,0.0
+Missing Customer IDs,0.0
+Churned Customers,1869.0
+Stayed Customers,5174.0
+Joined Customers,454.0
+Overall Churn Rate (%),26.54
+Columns With Missing Values,4.0
+Negative Financial Values,0.0
+Whitespace-Affected String Cells,0.0
+Empty String Cells,15751.0

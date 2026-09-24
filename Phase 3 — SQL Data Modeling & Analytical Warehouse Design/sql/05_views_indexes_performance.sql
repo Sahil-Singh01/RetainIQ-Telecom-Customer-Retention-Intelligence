@@ -1,0 +1,13 @@
+USE retainiq;
+CREATE OR REPLACE VIEW vw_customer_360 AS SELECT f.customer_id,f.customer_status,f.churn_label,f.churn_score,f.cltv,f.monthly_charge,f.total_revenue,f.satisfaction_score,a.contract,a.payment_method,a.offer,s.internet_type,s.premium_tech_support,d.gender,d.age,d.senior_citizen,l.state,l.city,l.latitude,l.longitude FROM fact_customer_status f JOIN dim_account a ON f.customer_id=a.customer_id JOIN dim_services s ON f.customer_id=s.customer_id JOIN dim_demographics d ON f.customer_id=d.customer_id JOIN dim_location l ON f.customer_id=l.customer_id;
+CREATE OR REPLACE VIEW vw_retention_summary AS SELECT COUNT(*) total_customers,SUM(churn_label='Yes') churned_customers,ROUND(100*SUM(churn_label='Yes')/COUNT(*),2) churn_rate_pct,SUM(CASE WHEN churn_label='Yes' THEN total_revenue ELSE 0 END) revenue_at_risk,ROUND(AVG(cltv),2) avg_cltv,ROUND(AVG(satisfaction_score),2) avg_satisfaction FROM fact_customer_status;
+CREATE OR REPLACE VIEW vw_contract_performance AS SELECT a.contract,COUNT(*) customers,SUM(f.churn_label='Yes') churned_customers,ROUND(100*SUM(f.churn_label='Yes')/COUNT(*),2) churn_rate_pct,SUM(CASE WHEN f.churn_label='Yes' THEN f.total_revenue ELSE 0 END) revenue_at_risk,ROUND(AVG(f.cltv),2) avg_cltv FROM fact_customer_status f JOIN dim_account a ON f.customer_id=a.customer_id GROUP BY a.contract;
+CREATE OR REPLACE VIEW vw_revenue_at_risk AS SELECT f.customer_id,f.cltv,f.total_revenue,f.churn_score,f.satisfaction_score,a.contract,a.offer,s.internet_type FROM fact_customer_status f JOIN dim_account a ON f.customer_id=a.customer_id JOIN dim_services s ON f.customer_id=s.customer_id WHERE f.churn_label='Yes';
+CREATE INDEX idx_fact_churn_label ON fact_customer_status(churn_label);
+CREATE INDEX idx_fact_cltv ON fact_customer_status(cltv);
+CREATE INDEX idx_fact_satisfaction ON fact_customer_status(satisfaction_score);
+CREATE INDEX idx_account_contract ON dim_account(contract);
+CREATE INDEX idx_account_payment_method ON dim_account(payment_method);
+CREATE INDEX idx_services_internet_type ON dim_services(internet_type);
+CREATE INDEX idx_location_state_city ON dim_location(state,city);
+EXPLAIN SELECT a.contract,COUNT(*) customers,SUM(f.churn_label='Yes') churned_customers FROM fact_customer_status f JOIN dim_account a ON f.customer_id=a.customer_id GROUP BY a.contract;
