@@ -1,0 +1,2 @@
+state,customers,churned_customers,avg_cltv,total_revenue,avg_monthly_charge,avg_satisfaction,churn_rate_pct,revenue_at_risk,share_of_customers_pct
+California,7043,1869,4400.3,21371131.69,64.76,3.24,26.54,3684459.82,100.0

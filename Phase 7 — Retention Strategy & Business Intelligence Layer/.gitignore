@@ -1,0 +1,11 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.env
+venv/
+.venv/
+config/ease_of_intervention_scores.csv
+config/geography_ease_of_intervention_scores.csv
+outputs/*.csv
+outputs/*.json
+outputs/*.md

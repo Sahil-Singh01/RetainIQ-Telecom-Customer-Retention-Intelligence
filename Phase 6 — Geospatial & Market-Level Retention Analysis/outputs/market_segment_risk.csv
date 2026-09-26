@@ -1,0 +1,62 @@
+state,city,segment_name,customers,churned_customers,avg_cltv,revenue,churn_rate_pct,revenue_at_risk
+California,San Diego,Segment 0 — Emerging Risk,189,150,4072.15,275442.14,79.37,209313.94
+California,San Diego,Segment 2 — High-Value At-Risk,68,24,5092.96,439843.33,35.29,174128.19
+California,Los Angeles,Segment 0 — Emerging Risk,139,67,4032.95,198085.45,48.2,91118.74
+California,Los Angeles,Segment 2 — High-Value At-Risk,83,8,4966.6,556663.57,9.64,55755.85
+California,San Francisco,Segment 0 — Emerging Risk,44,27,4159.91,66159.63,61.36,38371.37
+California,Sacramento,Segment 0 — Emerging Risk,45,21,4094.33,82539.51,46.67,38092.87
+California,Temecula,Segment 0 — Emerging Risk,22,19,4149.73,31339.17,86.36,30239.5
+California,San Jose,Segment 0 — Emerging Risk,62,24,3902.0,96386.15,38.71,22291.85
+California,Fallbrook,Segment 0 — Emerging Risk,30,22,4311.83,34741.6,73.33,21957.77
+California,Escondido,Segment 0 — Emerging Risk,26,14,4058.85,36791.01,53.85,21837.63
+California,San Jose,Segment 2 — High-Value At-Risk,32,4,5018.28,197864.95,12.5,21206.74
+California,Sacramento,Segment 2 — High-Value At-Risk,35,3,5234.97,221476.98,8.57,20734.66
+California,Long Beach,Segment 0 — Emerging Risk,29,12,4024.72,55741.08,41.38,20180.58
+California,San Francisco,Segment 2 — High-Value At-Risk,30,3,4581.27,196072.12,10.0,18187.65
+California,Fresno,Segment 2 — High-Value At-Risk,21,3,5058.81,125214.46,14.29,17945.39
+California,Escondido,Segment 2 — High-Value At-Risk,16,2,4930.19,106869.89,12.5,17032.26
+California,Oakland,Segment 0 — Emerging Risk,25,12,3952.76,33351.44,48.0,16812.85
+California,Santa Rosa,Segment 0 — Emerging Risk,13,9,4096.92,17035.0,69.23,14181.02
+California,Temecula,Segment 2 — High-Value At-Risk,11,3,5002.36,79490.97,27.27,13862.91
+California,Stockton,Segment 0 — Emerging Risk,20,10,3832.4,23700.36,50.0,12609.13
+California,Pasadena,Segment 0 — Emerging Risk,19,7,4032.89,32571.04,36.84,11895.99
+California,Modesto,Segment 0 — Emerging Risk,18,11,3801.06,21516.85,61.11,11881.94
+California,Fresno,Segment 0 — Emerging Risk,27,9,4031.81,47160.38,33.33,10980.63
+California,Santa Ana,Segment 0 — Emerging Risk,11,4,3569.73,20872.66,36.36,9786.44
+California,Glendale,Segment 0 — Emerging Risk,20,10,4067.55,18029.89,50.0,9043.57
+California,Whittier,Segment 0 — Emerging Risk,13,4,4493.77,24099.69,30.77,8789.8
+California,Santa Monica,Segment 2 — High-Value At-Risk,10,1,4953.9,70227.67,10.0,8617.57
+California,Berkeley,Segment 0 — Emerging Risk,18,9,4434.33,26580.03,50.0,8517.45
+California,North Hollywood,Segment 0 — Emerging Risk,12,8,3555.5,14540.51,66.67,8282.1
+California,Long Beach,Segment 2 — High-Value At-Risk,18,2,5184.0,116724.04,11.11,7867.25
+California,Burbank,Segment 0 — Emerging Risk,14,5,3880.71,28142.5,35.71,7640.86
+California,San Bernardino,Segment 0 — Emerging Risk,13,4,4085.69,18822.64,30.77,7499.64
+California,Stockton,Segment 2 — High-Value At-Risk,14,1,5224.14,82423.27,7.14,6936.15
+California,Riverside,Segment 0 — Emerging Risk,16,8,4291.31,20261.28,50.0,6875.76
+California,Santa Monica,Segment 0 — Emerging Risk,12,4,4468.33,22420.64,33.33,6832.83
+California,Corona,Segment 2 — High-Value At-Risk,11,1,4660.45,62258.7,9.09,6818.54
+California,Chula Vista,Segment 2 — High-Value At-Risk,10,1,5217.9,59617.53,10.0,6368.63
+California,Whittier,Segment 2 — High-Value At-Risk,13,1,5508.0,96287.32,7.69,6344.68
+California,Oakland,Segment 2 — High-Value At-Risk,16,1,5007.94,108079.04,6.25,5702.89
+California,Irvine,Segment 0 — Emerging Risk,11,4,4093.0,13134.66,36.36,5019.13
+California,Vallejo,Segment 0 — Emerging Risk,10,3,4236.3,14701.93,30.0,4328.9
+California,Rancho Cucamonga,Segment 2 — High-Value At-Risk,10,1,4637.3,60573.92,10.0,3184.25
+California,Anaheim,Segment 0 — Emerging Risk,14,6,4177.79,12947.07,42.86,3125.03
+California,Torrance,Segment 0 — Emerging Risk,13,4,3927.69,20308.7,30.77,2787.4
+California,San Diego,Segment 1 — High-Value Stable,28,11,4371.25,23130.54,39.29,2004.26
+California,Glendale,Segment 1 — High-Value Stable,11,3,4540.18,12197.34,27.27,1578.98
+California,San Jose,Segment 1 — High-Value Stable,18,1,3979.39,32227.26,5.56,894.9
+California,Santa Barbara,Segment 0 — Emerging Risk,14,4,4043.64,13219.6,28.57,874.6
+California,Fresno,Segment 1 — High-Value Stable,13,1,3925.08,22055.41,7.69,681.4
+California,Sacramento,Segment 1 — High-Value Stable,28,2,4390.07,49355.35,7.14,621.67
+California,Long Beach,Segment 1 — High-Value Stable,13,1,4586.46,13472.0,7.69,502.39
+California,San Francisco,Segment 1 — High-Value Stable,30,1,4347.13,44764.24,3.33,335.25
+California,Inglewood,Segment 1 — High-Value Stable,10,1,4317.6,11434.03,10.0,285.15
+California,Los Angeles,Segment 1 — High-Value Stable,71,3,4331.8,97976.21,4.23,215.87
+California,Stockton,Segment 1 — High-Value Stable,10,1,4254.6,11807.12,10.0,141.0
+California,Salinas,Segment 1 — High-Value Stable,10,1,4299.4,20005.56,10.0,95.47
+California,Bakersfield,Segment 0 — Emerging Risk,12,1,3695.92,24457.55,8.33,93.25
+California,Bakersfield,Segment 1 — High-Value Stable,12,1,4931.0,14414.55,8.33,44.31
+California,Bakersfield,Segment 2 — High-Value At-Risk,15,0,5082.93,83682.01,0.0,0.0
+California,Oakland,Segment 1 — High-Value Stable,11,0,4222.09,13133.88,0.0,0.0
+California,Riverside,Segment 2 — High-Value At-Risk,11,0,5172.0,64872.45,0.0,0.0

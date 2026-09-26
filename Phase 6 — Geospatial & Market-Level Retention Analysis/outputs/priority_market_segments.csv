@@ -1,0 +1,26 @@
+state,city,segment_name,customers,churned_customers,avg_cltv,churn_rate_pct,revenue_at_risk
+California,San Diego,Segment 0 — Emerging Risk,189,150,4072.15,79.37,209313.94
+California,San Diego,Segment 2 — High-Value At-Risk,68,24,5092.96,35.29,174128.19
+California,Los Angeles,Segment 0 — Emerging Risk,139,67,4032.95,48.2,91118.74
+California,Los Angeles,Segment 2 — High-Value At-Risk,83,8,4966.6,9.64,55755.85
+California,San Francisco,Segment 0 — Emerging Risk,44,27,4159.91,61.36,38371.37
+California,Sacramento,Segment 0 — Emerging Risk,45,21,4094.33,46.67,38092.87
+California,Temecula,Segment 0 — Emerging Risk,22,19,4149.73,86.36,30239.5
+California,San Jose,Segment 0 — Emerging Risk,62,24,3902.0,38.71,22291.85
+California,Fallbrook,Segment 0 — Emerging Risk,30,22,4311.83,73.33,21957.77
+California,Escondido,Segment 0 — Emerging Risk,26,14,4058.85,53.85,21837.63
+California,San Jose,Segment 2 — High-Value At-Risk,32,4,5018.28,12.5,21206.74
+California,Sacramento,Segment 2 — High-Value At-Risk,35,3,5234.97,8.57,20734.66
+California,Long Beach,Segment 0 — Emerging Risk,29,12,4024.72,41.38,20180.58
+California,San Francisco,Segment 2 — High-Value At-Risk,30,3,4581.27,10.0,18187.65
+California,Fresno,Segment 2 — High-Value At-Risk,21,3,5058.81,14.29,17945.39
+California,Escondido,Segment 2 — High-Value At-Risk,16,2,4930.19,12.5,17032.26
+California,Oakland,Segment 0 — Emerging Risk,25,12,3952.76,48.0,16812.85
+California,Santa Rosa,Segment 0 — Emerging Risk,13,9,4096.92,69.23,14181.02
+California,Temecula,Segment 2 — High-Value At-Risk,11,3,5002.36,27.27,13862.91
+California,Stockton,Segment 0 — Emerging Risk,20,10,3832.4,50.0,12609.13
+California,Pasadena,Segment 0 — Emerging Risk,19,7,4032.89,36.84,11895.99
+California,Modesto,Segment 0 — Emerging Risk,18,11,3801.06,61.11,11881.94
+California,Fresno,Segment 0 — Emerging Risk,27,9,4031.81,33.33,10980.63
+California,Santa Ana,Segment 0 — Emerging Risk,11,4,3569.73,36.36,9786.44
+California,Glendale,Segment 0 — Emerging Risk,20,10,4067.55,50.0,9043.57

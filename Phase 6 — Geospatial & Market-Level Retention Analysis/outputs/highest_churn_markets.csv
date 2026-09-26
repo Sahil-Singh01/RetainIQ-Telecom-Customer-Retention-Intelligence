@@ -1,0 +1,21 @@
+state,city,customers,churned_customers,avg_cltv,total_revenue,avg_monthly_charge,avg_satisfaction,churn_rate_pct,revenue_at_risk
+California,San Diego,285,185,4345.09,738416.01,72.02,2.54,64.91,385446.39
+California,Fallbrook,43,26,4531.28,93409.28,69.83,2.72,60.47,34691.78
+California,Temecula,38,22,4367.87,119268.27,76.28,2.53,57.89,44102.41
+California,Modesto,28,12,4364.64,65847.36,69.56,2.86,42.86,11909.92
+California,Santa Barbara,28,10,4198.11,78526.26,62.84,3.21,35.71,46033.71
+California,Glendale,40,13,4355.95,90777.55,58.42,3.12,32.5,10622.55
+California,Torrance,25,8,4606.2,77995.9,61.58,2.88,32.0,33534.79
+California,Escondido,51,16,4388.86,155899.8,67.88,3.02,31.37,38869.89
+California,Pasadena,30,9,4226.13,81239.19,63.06,3.1,30.0,26383.57
+California,San Francisco,104,31,4335.46,306995.99,64.64,3.25,29.81,56894.27
+California,San Bernardino,28,8,4426.25,88292.72,64.25,3.18,28.57,23726.13
+California,Berkeley,32,9,4527.31,81479.6,66.71,3.22,28.12,8517.45
+California,Stockton,44,12,4371.18,117930.75,65.88,3.23,27.27,19686.28
+California,Los Angeles,293,78,4369.85,852725.23,62.13,3.21,26.62,147090.46
+California,San Jose,112,29,4233.38,326478.36,65.59,3.13,25.89,44393.49
+California,Long Beach,60,15,4494.22,185937.12,65.37,3.17,25.0,28550.22
+California,Oakland,52,13,4334.4,154564.36,66.4,3.4,25.0,22515.74
+California,Riverside,32,8,4573.72,88614.74,66.13,3.25,25.0,6875.76
+California,Anaheim,28,7,4069.68,66914.02,65.09,3.18,25.0,3592.34
+California,Sacramento,108,26,4540.66,353371.84,62.73,3.25,24.07,59449.2
