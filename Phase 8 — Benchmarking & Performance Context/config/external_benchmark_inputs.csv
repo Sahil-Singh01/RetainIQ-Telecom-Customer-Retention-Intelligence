@@ -1,0 +1,3 @@
+benchmark_scope,benchmark_name,metric,benchmark_value,unit,source,source_date,population,notes
+external,Optional external benchmark,churn_rate_pct,,,Enter only a directly comparable benchmark.,,,Do not enter a value until the benchmark uses a comparable definition and period.
+external,Optional external benchmark,avg_monthly_charge,,,Enter only if the external source is directly comparable.,,,Keep currency, customer population, and period consistent.

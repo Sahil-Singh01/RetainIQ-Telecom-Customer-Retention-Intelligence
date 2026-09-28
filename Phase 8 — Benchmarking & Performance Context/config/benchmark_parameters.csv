@@ -1,0 +1,3 @@
+parameter,value,unit,notes
+benchmark_tolerance_pp,1.0,percentage_points,Gap within +/- this tolerance is classified as within benchmark.
+minimum_city_market_size,25,customers,Only cities meeting this size are used for peer-market churn comparisons.
