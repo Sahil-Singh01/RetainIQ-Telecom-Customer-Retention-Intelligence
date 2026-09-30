@@ -1,0 +1,9 @@
+{
+  "backend": "tfidf",
+  "embedding_model": null,
+  "chunk_size": 900,
+  "chunk_overlap": 150,
+  "chunk_count": 8414,
+  "vector_dimensions": 33077,
+  "normalized_embeddings": false
+}

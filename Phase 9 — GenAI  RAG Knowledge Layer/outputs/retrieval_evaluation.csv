@@ -1,0 +1,7 @@
+question_id,question,expected_topics,hit_at_5,reciprocal_rank,top_source,top_topic
+Q01,What is the overall churn rate and how is it defined?,benchmarking|definitions,1,1.0,project_methodology,definitions
+Q02,Which customer segment has the largest historical revenue at risk?,retention_strategy,1,0.3333333333333333,vw_benchmark_reference,benchmarking
+Q03,How does a city's churn rate compare with its peer-city benchmark?,benchmarking,1,0.25,project_methodology,definitions
+Q04,What does a 20 percent recovery scenario mean in RetainIQ?,definitions|retention_strategy,1,1.0,vw_retention_action_framework,retention_strategy
+Q05,What limitations should I mention when interpreting geographic churn patterns?,definitions|geography,1,1.0,project_methodology,definitions
+Q06,How does the priority score incorporate ease of intervention?,definitions|retention_strategy,1,1.0,project_methodology,definitions

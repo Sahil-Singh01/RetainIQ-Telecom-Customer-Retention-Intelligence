@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+sentence-transformers
+joblib
+requests
+mysql-connector-python
+jupyter

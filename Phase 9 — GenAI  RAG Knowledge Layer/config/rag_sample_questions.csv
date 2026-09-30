@@ -1,0 +1,7 @@
+question_id,question,expected_topics
+Q01,What is the overall churn rate and how is it defined?,definitions|benchmarking
+Q02,Which customer segment has the largest historical revenue at risk?,retention_strategy
+Q03,How does a city's churn rate compare with its peer-city benchmark?,benchmarking
+Q04,What does a 20 percent recovery scenario mean in RetainIQ?,retention_strategy|definitions
+Q05,What limitations should I mention when interpreting geographic churn patterns?,geography|definitions
+Q06,How does the priority score incorporate ease of intervention?,retention_strategy|definitions

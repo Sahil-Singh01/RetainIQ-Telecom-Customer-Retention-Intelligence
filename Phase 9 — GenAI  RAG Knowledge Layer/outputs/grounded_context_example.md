@@ -1,0 +1,20 @@
+# Grounded context example
+
+## Question
+What is the overall churn rate and how is it defined?
+
+## Retrieved evidence
+[1] Source=project_methodology | Topic=definitions | Similarity=0.474
+GenAI / RAG Knowledge Layer ## Core definitions ### Churn rate `Churn Rate = Churned Customers / Total Customers × 100` ### Revenue at risk Revenue at risk is a **historical exposure proxy**. It is the sum of `total_revenue` associated with customers already recorded as churned. It is not a forecast of future lost revenue. ### Priority score `Priority Score = Revenue at Risk × Ease-of-Intervention Score` The ease-of-intervention score is a **subjective 1–5 business input**. The score is not inferred from churn, CLTV, or any other model output. ### Impact scenario `Estimated Recovered Revenue = Revenue at Risk × Recovery Rate` Default scenarios used in Phase 7 are 5%, 10%, 20%, and 30%. They are scenario assumptions, not predictions. ### Benchmark gap `Benchmark Gap = Observed Churn Rate − Benchmark Churn Rate` The Phase 8 default status tolerance is ±1.0 percentage point. This is a repor
+
+[2] Source=project_methodology | Topic=definitions | Similarity=0.373
+chmark gap `Benchmark Gap = Observed Churn Rate − Benchmark Churn Rate` The Phase 8 default status tolerance is ±1.0 percentage point. This is a reporting convention, not a statistical significance test. ### Peer-city benchmark The peer-city benchmark is the median churn rate among cities meeting the Phase 8 minimum market-size requirement of 25 customers. ## Interpretation rules - Geographic patterns are descriptive and do not prove that geography causes churn. - Benchmark gaps are descriptive comparisons and are not predictive forecasts. - Priority scores depend on explicit business assumptions. - External benchmarks are used only when a directly comparable source, period, population, unit, and notes are available. - RAG answers should distinguish observed values from calculations, assumptions, and interpretations. - When the retrieved evidence is insufficient, the assistant should say
+
+[3] Source=project_methodology | Topic=definitions | Similarity=0.222
+# RetainIQ — Project Knowledge Reference ## Project purpose RetainIQ is a telecom customer-retention analytics project. I move from customer-level data quality and warehouse modeling through churn analysis, segmentation, geographic analysis, retention strategy, and benchmark context. This reference is intended to give the GenAI/RAG layer stable definitions and interpretation rules. ## Phase map 1. Business Understanding & Data Quality Audit 2. Data Cleaning & Transformation 3. MySQL Data Modeling & Analytical Warehouse Design 4. EDA & Statistical Modeling 5. Customer Segmentation & Retention Profiling 6. Geospatial & Market-Level Retention Analysis 7. Retention Strategy & Business Intelligence Layer 8. Benchmarking & Performance Context 9. GenAI / RAG Knowledge Layer ## Core definitions ### Churn rate `Churn Rate = Churned Customers / Total Customers × 100` ### Revenue at risk Revenue at
+
+[4] Source=vw_retention_action_framework | Topic=retention_strategy | Similarity=0.113
+Source: vw_retention_action_framework | Topic: retention_strategy | segment_id: 0 | segment_name: Segment 0 — Emerging Risk | retention_profile: Retention Priority | customers: 3226 | avg_cltv: 4013.45 | churn_rate_pct: 46.99 | revenue_at_risk: 1944581.19 | priority_score: 7778324.76 | action_theme: Proactive churn-prevention intervention | action_description: Use early intervention, value-alignment messaging, and targeted support before churn risk becomes a realized loss. | created_at: 2026-09-25 21:32:57
+
+[5] Source=vw_benchmark_reference | Topic=benchmarking | Similarity=0.071
+Source: vw_benchmark_reference | Topic: benchmarking | benchmark_scope: peer_city | benchmark_name: Median qualifying-city churn | metric: churn_rate_pct | benchmark_value: 26.620000 | unit: % | source: Internal Phase 7 city base | population: 27 | notes: Median across cities with at least 25 customers.
