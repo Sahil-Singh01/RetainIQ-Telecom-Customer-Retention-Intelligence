@@ -1,79 +1,226 @@
-# RetainIQ — Phase 8: Benchmarking & Performance Context
+
+# RetainRAG — Phase 8: Benchmarking & Performance Context
+
+Phase 8 adds benchmark context to the RetainRAG retention strategy layer.
+
+After Phase 7 identifies retention priorities and revenue exposure, I use Phase 8 to compare observed churn patterns against explicit internal reference points and optional external benchmarks.
+
+![Phase 8 Benchmarking](docs/phase08-benchmarking.svg)
+
+---
 
 ## Objective
 
-I add benchmark context to the RetainIQ retention strategy layer. After Phase 7 translates churn and revenue exposure into business priorities, Phase 8 measures those patterns against explicit internal reference points and optional external benchmarks.
+Benchmarking answers a different question from churn analysis.
 
-## Notebook sequence
+Instead of only asking:
 
-1. `01_benchmark_dataset_and_benchmark_inputs.ipynb`
-2. `02_churn_and_revenue_benchmarking.ipynb`
-3. `03_benchmark_gap_analysis_and_management_views.ipynb`
-4. `04_benchmark_reporting_and_mysql_publishing.ipynb`
+> What is the observed churn rate?
 
-## Core logic
+I also ask:
+
+> How does that observed value compare with a clearly defined reference point?
+
+This helps provide context for segment, state and city performance.
+
+---
+
+## Notebook Sequence
+
+### 01 — Benchmark Dataset & Benchmark Inputs
+
+**01_benchmark_dataset_and_benchmark_inputs.ipynb**
+
+I prepare the benchmark reference layer and define the internal benchmark rules.
+
+### 02 — Churn & Revenue Benchmarking
+
+**02_churn_and_revenue_benchmarking.ipynb**
+
+I calculate observed-versus-reference comparisons across relevant dimensions.
+
+### 03 — Benchmark Gap Analysis & Management Views
+
+**03_benchmark_gap_analysis_and_management_views.ipynb**
+
+I translate the differences into benchmark gaps and management-oriented summaries.
+
+### 04 — Benchmark Reporting & MySQL Publishing
+
+**04_benchmark_reporting_and_mysql_publishing.ipynb**
+
+I publish benchmark results into MySQL tables and reusable views.
+
+---
+
+## Core Benchmark Logic
 
 ### Portfolio churn benchmark
 
-`total churned customers / total customers × 100`
+~~~
+Total churned customers
+-----------------------
+Total customers
+× 100
+~~~
 
 ### Peer-city benchmark
 
-Median churn rate across cities with at least 25 customers.
+For city-level comparison I use:
+
+> Median churn rate among cities with at least 25 customers.
 
 ### Benchmark gap
 
-`observed churn rate − benchmark churn rate`
+~~~
+Benchmark Gap
+=
+Observed Churn Rate
+−
+Benchmark Churn Rate
+~~~
 
-### Status convention
+---
 
-The default tolerance is ±1.0 percentage point. This is a reporting convention, not a statistical significance test.
+## Status Convention
 
-## External benchmark policy
+The default reporting tolerance is:
 
-`config/external_benchmark_inputs.csv` is optional. I only populate it when I have a directly comparable benchmark and retain the source, period, population, unit, and notes. Phase 8 remains complete using internal benchmarks alone.
+~~~
+±1.0 percentage point
+~~~
 
-## Main outputs
+This can be used to categorize the size of the observed gap for management reporting.
 
-- `benchmark_reference.csv`
-- `segment_benchmark_gap.csv`
-- `state_benchmark_gap.csv`
-- `city_benchmark_gap.csv`
-- `segment_benchmark_status_summary.csv`
-- `city_benchmark_management_view.csv`
-- `segment_strategy_benchmark_view.csv`
-- `external_benchmark_gap.csv`
-- `benchmark_gap_summary.csv`
+Important:
 
-## MySQL outputs
+> The ±1 percentage-point tolerance is a reporting convention, not a statistical significance test.
 
-- `benchmark_reference`
-- `segment_benchmark_gap`
-- `state_benchmark_gap`
-- `city_benchmark_gap`
-- `benchmark_gap_summary`
-- `city_benchmark_management_view`
-- `segment_strategy_benchmark_view`
-- `external_benchmark_gap`
-- matching `vw_*` reporting views
+---
 
-## Execution order
+## External Benchmarks
 
-1. Complete Phase 7.1–7.4.
-2. Run Notebook 8.1.
-3. Review the benchmark configuration and populate external benchmarks only when comparable evidence is available.
-4. Run Notebook 8.2.
-5. Run Notebook 8.3.
-6. Run Notebook 8.4.
+External benchmarks are optional.
 
-## Important interpretation notes
+The file **config/external_benchmark_inputs.csv** is used only when I have evidence that is directly comparable.
 
-Benchmark gaps are descriptive. They do not prove causation and are not predictive forecasts. Revenue at risk remains a historical exposure proxy inherited from Phase 7.
+A usable external benchmark should retain:
 
-## Requirements
+- source
+- time period
+- population
+- unit
+- notes
+- comparability context
 
-- pandas
-- numpy
-- matplotlib
-- mysql-connector-python
-- jupyter
+If no directly comparable external benchmark is available, the phase remains complete using internal benchmarks alone.
+
+---
+
+## Main Outputs
+
+~~~
+benchmark_reference.csv
+segment_benchmark_gap.csv
+state_benchmark_gap.csv
+city_benchmark_gap.csv
+segment_benchmark_status_summary.csv
+city_benchmark_management_view.csv
+segment_strategy_benchmark_view.csv
+external_benchmark_gap.csv
+benchmark_gap_summary.csv
+~~~
+
+---
+
+## MySQL Outputs
+
+- benchmark_reference
+- segment_benchmark_gap
+- state_benchmark_gap
+- city_benchmark_gap
+- benchmark_gap_summary
+- city_benchmark_management_view
+- segment_strategy_benchmark_view
+- external_benchmark_gap
+
+Matching vw_* reporting views are also created for reusable access.
+
+---
+
+## Management Views
+
+The benchmark layer helps organize questions such as:
+
+- Which segments have churn above the internal reference?
+- Which cities sit above or below the peer benchmark?
+- How large is the benchmark gap?
+- Which strategy priorities are associated with different benchmark contexts?
+
+---
+
+## Interpretation Rules
+
+Benchmarking remains descriptive.
+
+A benchmark gap:
+
+- does not prove causation
+- does not automatically imply a specific intervention
+- does not constitute a forecast
+- depends on the benchmark definition and comparison population
+
+Revenue at Risk also retains its Phase 7 interpretation as a historical exposure proxy.
+
+---
+
+## Execution Order
+
+~~~
+Complete Phase 7.1–7.4
+        ↓
+Run Notebook 8.1
+        ↓
+Review internal benchmark definitions
+        ↓
+Optionally add comparable external benchmark inputs
+        ↓
+Run Notebook 8.2
+        ↓
+Run Notebook 8.3
+        ↓
+Run Notebook 8.4
+~~~
+
+---
+
+## Role in RetainRAG
+
+~~~
+Phase 7
+Retention strategy
+      ↓
+Phase 8
+Benchmark context
+      ↓
+Phase 9
+Knowledge corpus
+      ↓
+Phase 10
+AI business assistant
+~~~
+
+---
+
+## Key Outcome
+
+Phase 8 adds a reference frame to the retention analysis.
+
+Instead of presenting churn and priority metrics in isolation, RetainRAG can now provide:
+
+- observed performance
+- benchmark value
+- benchmark gap
+- management-oriented context
+
+while keeping the comparison methodology explicit.
