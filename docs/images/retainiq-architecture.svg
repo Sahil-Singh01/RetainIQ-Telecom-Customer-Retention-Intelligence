@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="760" viewBox="0 0 1400 760">
+<defs><style>
+.t{font-family:Arial,sans-serif;fill:#f3f4f6}.s{font-family:Arial,sans-serif;fill:#cbd5e1}.h{font-family:Arial,sans-serif;font-weight:700;fill:#fff}
+.box{fill:#111827;stroke:#475569;stroke-width:2}.box2{fill:#0b1220;stroke:#64748b;stroke-width:2}.line{stroke:#94a3b8;stroke-width:3;fill:none;marker-end:url(#a)}
+</style><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#94a3b8"/></marker></defs>
+<rect width="1400" height="760" fill="#070b13" rx="24"/>
+<text x="70" y="65" class="h" font-size="34">RetainIQ — End-to-End AI Retention Intelligence Architecture</text>
+<text x="70" y="100" class="s" font-size="18">Analytics warehouse + ML + segmentation + geospatial intelligence + RAG + local LLM + chat application</text>
+<rect x="70" y="155" width="220" height="100" rx="18" class="box"/><text x="95" y="195" class="h" font-size="21">Raw Telco Data</text><text x="95" y="225" class="s" font-size="16">7,043 customers</text>
+<rect x="360" y="155" width="230" height="100" rx="18" class="box"/><text x="385" y="195" class="h" font-size="21">Cleaning &amp; QA</text><text x="385" y="225" class="s" font-size="16">validated analytical data</text>
+<rect x="660" y="155" width="260" height="100" rx="18" class="box"/><text x="685" y="195" class="h" font-size="21">MySQL Warehouse</text><text x="685" y="225" class="s" font-size="16">facts • dimensions • views</text>
+<rect x="990" y="155" width="330" height="100" rx="18" class="box"/><text x="1015" y="195" class="h" font-size="21">Analytics &amp; Intelligence</text><text x="1015" y="225" class="s" font-size="16">EDA • ML • segments • geography • strategy</text>
+<path d="M290 205 H350" class="line"/><path d="M590 205 H650" class="line"/><path d="M920 205 H980" class="line"/>
+<rect x="180" y="335" width="310" height="115" rx="18" class="box2"/><text x="210" y="375" class="h" font-size="22">Phase 9 — RAG</text><text x="210" y="405" class="s" font-size="16">knowledge corpus + embeddings</text><text x="210" y="428" class="s" font-size="16">grounded evidence IDs</text>
+<rect x="545" y="335" width="315" height="115" rx="18" class="box2"/><text x="575" y="375" class="h" font-size="22">Phase 10 — Query Engine</text><text x="575" y="405" class="s" font-size="16">RAG / SQL routing</text><text x="575" y="428" class="s" font-size="16">comparison-aware retrieval</text>
+<rect x="915" y="335" width="305" height="115" rx="18" class="box2"/><text x="945" y="375" class="h" font-size="22">Ollama + Qwen3 4B</text><text x="945" y="405" class="s" font-size="16">local grounded generation</text><text x="945" y="428" class="s" font-size="16">transparent fallback</text>
+<path d="M790 255 V320 H700" class="line"/><path d="M490 392 H535" class="line"/><path d="M860 392 H905" class="line"/>
+<rect x="300" y="540" width="800" height="125" rx="20" fill="#111827" stroke="#94a3b8" stroke-width="2"/><text x="335" y="580" class="h" font-size="27">Streamlit RetainIQ AI Assistant</text><text x="335" y="612" class="s" font-size="17">Natural-language business questions → evidence-backed answers → expandable evidence</text><text x="335" y="640" class="s" font-size="17">Conversation history • citation checks • local MySQL integration</text>
+<path d="M1070 450 V515 H1030" class="line"/><path d="M700 450 V515" class="line"/>
+</svg>
