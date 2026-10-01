@@ -48,3 +48,4 @@ You can override this with the environment variable `RETAINIQ_PHASE9_DIR`.
 ## Important interpretation rule
 
 The assistant must distinguish observed metrics, reproducible calculations, scenario assumptions, and limitations. It must not invent figures when the retrieved or queried evidence is insufficient.
+<img width="1917" height="881" alt="image" src="https://github.com/user-attachments/assets/dd90cfe3-dd15-4a66-8d9a-b4ebe3aecd28" />
