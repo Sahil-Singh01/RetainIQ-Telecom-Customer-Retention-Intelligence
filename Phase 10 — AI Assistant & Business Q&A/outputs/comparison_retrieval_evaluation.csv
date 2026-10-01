@@ -1,0 +1,5 @@
+question_id,coverage_check,unique_documents,notes
+C01,1,5,Coverage is a heuristic; it does not prove answer correctness.
+C02,0,1,Coverage is a heuristic; it does not prove answer correctness.
+C03,1,2,Coverage is a heuristic; it does not prove answer correctness.
+C04,0,5,Coverage is a heuristic; it does not prove answer correctness.

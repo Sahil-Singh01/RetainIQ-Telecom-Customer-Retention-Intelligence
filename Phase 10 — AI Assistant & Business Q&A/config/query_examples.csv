@@ -1,0 +1,7 @@
+question,goal
+What is the overall churn rate?,Exact portfolio metric
+Which customer segment has the highest revenue at risk?,Comparison-aware segment retrieval
+How does Pasadena compare with its peer-city benchmark?,Benchmark context
+What does a 20 percent recovery scenario mean?,Definition and scenario explanation
+What limitations should I mention when interpreting geographic churn patterns?,Methodology and limitations
+How does the priority score incorporate ease of intervention?,Strategy definition

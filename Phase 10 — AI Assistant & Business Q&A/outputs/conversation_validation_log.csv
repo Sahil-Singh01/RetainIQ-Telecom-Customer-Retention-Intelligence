@@ -1,0 +1,18 @@
+turn,question,mode,answer,evidence_ids,top_sources,citation_valid
+1,What is revenue at risk in RetainIQ?,llm,"The evidence provided (ID [1]) contains an incomplete definition of ""Revenue at risk"" that ends with ""Revenue at"". The evidence does not specify what revenue at risk actually represents in RetainIQ, nor does it provide any metrics, calculations, or numerical values related to revenue at risk.
+
+While the evidence defines ""Churn rate"" as ""Churned Customers / Total Customers × 100"", it does not provide a comparable metric for revenue at risk. The evidence is insufficient to determine what revenue at risk means in RetainIQ's context.
+
+Therefore, I cannot answer what revenue at risk is in RetainIQ based on the supplied evidence.",[1],project_methodology,True
+2,What does a 20 percent recovery scenario mean?,llm,"A 20 percent recovery scenario means a recovery rate of 20%, as defined in evidence [2]. According to this evidence: ""Impact scenario `Estimated Recovered Revenue = Revenue at Risk × Recovery Rate` Default scenarios used in Phase 7 are 5%, 10%, 20%, and 30%. They are scenario assumptions, not predictions.""
+
+This indicates that the 20% recovery scenario is one of the default scenario assumptions used in the framework, representing the percentage of revenue at risk that could potentially be recovered through retention efforts. The recovery rate is a multiplier applied to the revenue at risk (which is a historical exposure proxy for revenue lost to churned customers) to estimate potential recovered revenue.
+
+The evidence explicitly states these default scenarios are ""scenario assumptions, not predictions,"" meaning they represent hypothetical outcomes rather than actual forecasted results.",[1]|[2],vw_retention_action_framework|project_methodology,True
+3,Which customer segment has the highest revenue at risk?,llm,"The evidence contains only one customer segment with a revenue at risk value: **Segment 0 — Emerging Risk** (evidence ID [5]). This segment has a revenue at risk of **1,944,581.19** (unit: dataset currency). 
+
+No other evidence provides revenue at risk values for customer segments. Evidence [1] and [2] are portfolio-level metrics, not segment-specific. Evidence [3] and [4] describe city-level metrics (Santa Barbara and San Francisco), not customer segments. 
+
+Therefore, **Segment 0 — Emerging Risk** is the only customer segment with a revenue at risk value in the evidence, and it has the highest revenue at risk by default. 
+
+**Citation**: Evidence ID [5] (Source: vw_retention_impact_scenarios | Topic: retention_strategy | scope: segment | entity_name: Segment 0 — Emerging Risk | revenue_at_risk: 1944581.19).",[1]|[2]|[3]|[4]|[5],vw_benchmark_reference|vw_benchmark_reference|vw_city_benchmark_management,True

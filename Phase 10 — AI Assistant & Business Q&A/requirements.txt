@@ -1,0 +1,9 @@
+pandas
+numpy
+requests
+mysql-connector-python
+sentence-transformers
+scikit-learn
+joblib
+jupyter
+streamlit

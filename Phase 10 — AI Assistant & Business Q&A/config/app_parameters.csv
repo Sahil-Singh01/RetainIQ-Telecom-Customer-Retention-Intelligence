@@ -1,0 +1,8 @@
+parameter,value,description
+default_top_k,5,Number of evidence items shown to the user
+comparison_candidate_k,20,Number of retrieval candidates considered for comparison questions
+similarity_floor,0.20,Minimum similarity used when displaying semantic candidates
+llm_enabled,true,Enable local LLM generation when Ollama is available
+llm_base_url,http://localhost:11434/v1,OpenAI-compatible Ollama endpoint
+llm_model,qwen3:4b,Local generation model
+log_queries,true,Write completed assistant interactions to MySQL when available

@@ -2,7 +2,9 @@ parameter,value,description
 chunk_size,900,Maximum characters per knowledge chunk
 chunk_overlap,150,Overlap between consecutive chunks
 top_k,5,Default number of retrieved chunks
+similarity_floor,0.10,Minimum semantic similarity required for retrieval
+comparison_candidate_k,20,Broader candidate pool for comparison questions
 embedding_model,all-MiniLM-L6-v2,SentenceTransformer model when available
 llm_enabled,true,Set to true only when an OpenAI-compatible local or hosted endpoint is available
 llm_base_url,http://localhost:11434/v1,OpenAI-compatible endpoint base URL
-llm_model,qwen3:4b,Optional model name for the configured endpoint
+llm_model,qwen3:4b,Configured local LLM model
