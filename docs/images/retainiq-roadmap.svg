@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="820" viewBox="0 0 1400 820">
+<defs><style>.h{font-family:Arial,sans-serif;font-weight:700;fill:#fff}.t{font-family:Arial,sans-serif;fill:#e5e7eb}.s{font-family:Arial,sans-serif;fill:#cbd5e1}.b{fill:#111827;stroke:#475569;stroke-width:2}.n{fill:#0f172a;stroke:#64748b;stroke-width:2}</style></defs>
+<rect width="1400" height="820" fill="#070b13" rx="24"/>
+<text x="60" y="65" class="h" font-size="34">RetainIQ Project Roadmap — 10 Phases</text>
+<text x="60" y="100" class="s" font-size="18">From data quality to a local, evidence-grounded AI business assistant</text>
+<rect x="70" y="145" width="620" height="95" rx="16" class="b"/><text x="105" y="195" class="h" font-size="17">01</text><text x="155" y="190" class="t" font-size="20">Data Ingestion &amp; Data Quality Audit</text>
+<rect x="740" y="145" width="620" height="95" rx="16" class="b"/><text x="775" y="195" class="h" font-size="17">02</text><text x="825" y="190" class="t" font-size="20">Data Cleaning</text>
+<rect x="70" y="270" width="620" height="95" rx="16" class="b"/><text x="105" y="320" class="h" font-size="17">03</text><text x="155" y="314" class="t" font-size="20">SQL Data Modeling &amp; Analytical Warehouse Design</text>
+<rect x="740" y="270" width="620" height="95" rx="16" class="b"/><text x="775" y="320" class="h" font-size="17">04</text><text x="825" y="314" class="t" font-size="20">EDA &amp; Statistical Modeling</text>
+<rect x="70" y="395" width="620" height="95" rx="16" class="b"/><text x="105" y="445" class="h" font-size="17">05</text><text x="155" y="439" class="t" font-size="20">Customer Segmentation &amp; Retention Profiling</text>
+<rect x="740" y="395" width="620" height="95" rx="16" class="b"/><text x="775" y="445" class="h" font-size="17">06</text><text x="825" y="439" class="t" font-size="20">Geospatial &amp; Market-Level Retention Analysis</text>
+<rect x="70" y="520" width="620" height="95" rx="16" class="b"/><text x="105" y="570" class="h" font-size="17">07</text><text x="155" y="564" class="t" font-size="20">Retention Strategy &amp; Business Intelligence Layer</text>
+<rect x="740" y="520" width="620" height="95" rx="16" class="b"/><text x="775" y="570" class="h" font-size="17">08</text><text x="825" y="564" class="t" font-size="20">Benchmarking &amp; Performance Context</text>
+<rect x="70" y="645" width="620" height="95" rx="16" class="n"/><text x="105" y="695" class="h" font-size="17">09</text><text x="155" y="689" class="t" font-size="20">GenAI / RAG Knowledge Layer</text>
+<rect x="740" y="645" width="620" height="95" rx="16" class="n"/><text x="775" y="695" class="h" font-size="17">10</text><text x="825" y="689" class="t" font-size="20">AI Assistant &amp; Business Q&amp;A</text>
+<text x="60" y="790" class="s" font-size="16">Phases 1–8 build the analytical foundation; Phase 9 adds the knowledge layer; Phase 10 exposes it as an interactive assistant.</text>
+</svg>
