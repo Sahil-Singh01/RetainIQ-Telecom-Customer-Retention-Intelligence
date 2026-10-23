@@ -71,7 +71,7 @@ def _resolve_phase9_dir() -> Path:
         path
         for path in PROJECT_ROOT.iterdir()
         if path.is_dir()
-        and path.name.lower().startswith("phase 9")
+        and path.name.lower().startswith(("phase 9", "phase 09"))
     ]
 
     for candidate in sibling_dirs:
@@ -101,7 +101,7 @@ def _resolve_phase9_dir() -> Path:
                 path
                 for path in root.iterdir()
                 if path.is_dir()
-                and path.name.lower().startswith("phase 9")
+                and path.name.lower().startswith(("phase 9", "phase 09"))
             ]
         except OSError:
             continue
